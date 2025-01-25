@@ -9,33 +9,29 @@ tags:
   - Worship
   - Temple
 ---
+### Notes
 
-This week we'll explore the significance of Temple worship in the Old Testament and its relevance for modern worship.
+It might seem at times, from a human perspective, that Jesus needed a better PR manager. Luke gives us the account that great crowds were following Jesus. Humanly speaking, it would seem best to encourage those crowds and seek to draw more. But here, and often, Jesus challenges the crowds in such a way that they might be less inclined to follow him, and even to turn away from him (see John 6:66). But as important as following Jesus is, Jesus makes clear that it comes at great cost. A cost, to be sure, that’s worth it. But a cost nevertheless.
 
-## Daily Reading Plan
 
-### Monday - Exodus 40:34-38
+As Hendriksen notes, Jesus tells the people that devotion to himself must be so wholehearted that even attachment to parents and to the other members of one’s family must not be allowed to stand in the way. … Wholehearted devotion, all-out loyalty, complete self-denial, so that one places himself, his time, his earthly possessions, his talents, etc., at the disposal of Christ, is what Jesus asks.
 
-The glory fills the Tabernacle. Focus on God's presence in worship.
 
-### Tuesday - 1 Kings 8:1-21
+It is this concept of wholehearted devotion that drove Joshua, in Joshua 5, to worship as God commanded and to prepare as carefully as possible. But ultimately he (and we) must submit to the commander of God’s army—Jesus..
 
-Solomon's Temple dedication. Reflect on sacred spaces and worship.
+### Questions
 
-### Wednesday - 2 Chronicles 5:11-14
+1. What is the cost of being Jesus’s disciple?
+2. What is the value of being Jesus’s disciple?
+3. How might Jesus be calling you to submit to him at this point in your life?
+4. \[﻿any way to get my images here?]
 
-The musicians and the cloud. Consider the role of music in worship.
+#﻿## Praise
 
-### Thursday - Isaiah 6:1-8
+P﻿salm 24a, 1a
 
-Isaiah's Temple vision. Meditate on encountering God's holiness in worship.
+#﻿## Prayer
 
-### Friday - Ezekiel 47:1-12
-
-The river from the Temple. Think about how worship brings life and healing.
-
-## Reflection Questions
-
-- How does understanding Temple worship enrich our worship today?
-- What principles from Temple worship still apply?
-- How do we balance reverence and accessibility in modern worship?
+1.	Pray that having counted the cost you will wholeheartedly follow Jesus as his disciple.
+2.	Pray for a specific application from yesterday’s sermons.
+3.	Pray for a member of our church, for your family, and for a non-Christian friend/family member.
