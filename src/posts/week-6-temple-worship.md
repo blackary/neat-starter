@@ -1,9 +1,13 @@
 ---
-title: "Week 6: Temple Worship in the Old Testament"
-description: "Understanding the rich heritage of Temple worship and its meaning for today"
-author: "Ed Blackwood"
-date: 2024-04-22
-tags: ["Bible Reading", "Old Testament", "Worship", "Temple"]
+title: Mon 27 Jan
+description: Luke 14:25–35—The Cost of Following Jesus
+author: Ed Blackwood
+date: 2025-01-25T14:37:20.455Z
+tags:
+  - Bible Reading
+  - Old Testament
+  - Worship
+  - Temple
 ---
 
 This week we'll explore the significance of Temple worship in the Old Testament and its relevance for modern worship.
