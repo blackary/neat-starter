@@ -5,7 +5,7 @@ path: about
 permalink: /about/
 ---
 <div class="lead text-xl text-gray-600 mb-8">
-*Worship Connected* is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/">Springs Reformed Church</a>.
+\*Worship Connected\* is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/">Springs Reformed Church</a>.
 </div>
 
 ## Aim
@@ -22,9 +22,9 @@ If you could buy family worship in the store, it would come in the form of a Bib
 
 Read, pray, repeat.
 
-*`What Shampoo and Family Worship Have in Common, written by Randy Greenwald, (Quoted from Tabletalk magazine, Nov 1997.)`*
+<small><i>What Shampoo and Family Worship Have in Common, written by Randy Greenwald, (Quoted from Tabletalk magazine, Nov 1997.)
 
-*`Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.`*
+Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.</i></small>
 
 ## About Ed Blackwood
 
