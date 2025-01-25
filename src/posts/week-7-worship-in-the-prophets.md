@@ -1,37 +1,45 @@
 ---
-title: "Week 7: Worship in the Prophets"
-description: "Exploring true worship through the eyes of the prophets"
-author: "Ed Blackwood"
-date: 2024-04-29
-tags: ["Bible Reading", "Prophets", "Worship", "Justice"]
+title: 26 Jan-1 Feb 2025 Joshua 5 & John 20-21
+description: Whose Side Are You On?
+author: Ed Blackwood
+date: 2025-01-25T14:34:19.898Z
+tags:
+  - Bible Reading
+  - Prophets
+  - Worship
+  - Justice
 ---
+We consider Joshua and the Commander of the Lord's Army and John's final account of the life and ministry of Jesus
 
-This week we'll learn from the prophets about what makes worship authentic and pleasing to God.
+## Daily Notes
 
-## Daily Reading Plan
+### Sunday, the Lord's Day
 
-### Monday - Amos 5:21-24
+AM Sermon	Joshua 5—Whose Side Are You On? 
+PM Sermon	Joshua 5:11-12—There Was No More Manna.
 
-Justice and worship. Focus on the connection between worship and righteousness.
+*(﻿after my sermons are live, I would probably link to them above)*
 
-### Tuesday - Micah 6:6-8
+### Monday
 
-What God requires. Reflect on the heart of true worship.
+Luke 14:25–35—The Cost of Following Jesus
 
-### Wednesday - Malachi 1:6-14
+### Tuesday
 
-Honor in worship. Consider the importance of giving our best to God.
+Revelation 19—King of Kings and Lord of Lords.
 
-### Thursday - Joel 2:12-17
+### Wednesday
 
-Return to the Lord. Meditate on worship as a response to God's call.
+Philippians 4:15–23—My God Will Supply All Your Needs.
 
-### Friday - Zephaniah 3:14-20
+### Thursday
 
-Joy in worship. Think about celebration and restoration in worship.
+John 20:24-31—That You May Believe.
 
-## Reflection Questions
+### Friday
 
-- How do the prophets challenge our understanding of worship?
-- What is the relationship between worship and justice?
-- How can we ensure our worship is authentic and not just ritual?
+John 21—Faith Moving Forward.
+
+### S﻿aturday
+
+1 Corinthians 11:23–34—Let a Person Examine Himself.
