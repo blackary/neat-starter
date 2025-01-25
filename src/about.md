@@ -5,7 +5,7 @@ path: about
 permalink: /about/
 ---
 <div class="lead text-xl text-gray-600 mb-8">
-\*Worship Connected\* is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/">Springs Reformed Church</a>.
+<i>Worship Connected</i> is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/">Springs Reformed Church</a>.
 </div>
 
 ## Aim
