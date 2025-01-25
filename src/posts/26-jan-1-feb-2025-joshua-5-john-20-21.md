@@ -2,7 +2,7 @@
 title: 26 Jan-1 Feb 2025
 description: Joshua 5 & John 20-21
 author: Ed Blackwood
-date: 2025-01-25T14:52:59.333Z
+date: 2025-01-26T14:52:59.333Z
 tags:
   - Old Testament
   - New Testament
