@@ -11,6 +11,8 @@ We look back on Joshua and the Commander of the Lord's Army and look forward to 
 
 ## Daily Notes
 
+![The Christian's Weekly Rhythm](/static/img/rythym-of-the-sacred.png "The Christian's Weekly Rhythm")
+
 ### Sunday, the Lord's Day
 
 AM Sermon	Joshua 5—Whose Side Are You On?
