@@ -5,9 +5,8 @@ path: about
 permalink: /about/
 ---
 <div class="lead text-xl text-gray-600 mb-8">
-Worship Connected is dedicated to helping families grow together in their faith through structured Bible reading and household worship. (Family Devotions)</div>
-
-
+Worship Connected is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of [Springs Reformed Church](https://springsreformed.org/).
+</div>
 
 ## Our Mission
 
