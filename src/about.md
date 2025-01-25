@@ -22,7 +22,9 @@ If you could buy family worship in the store, it would come in the form of a Bib
 
 Read, pray, repeat.
 
-*Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.*
+*`What Shampoo and Family Worship Have in Common, written by Randy Greenwald, (Quoted from Tabletalk magazine, Nov 1997.)`*
+
+*`Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.`*
 
 ## About Ed Blackwood
 
