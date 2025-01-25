@@ -15,7 +15,8 @@ We consider Joshua and the Commander of the Lord's Army and John's final account
 
 ### Sunday, the Lord's Day
 
-AM Sermon	Joshua 5—Whose Side Are You On? 
+AM Sermon	Joshua 5—Whose Side Are You On?
+
 PM Sermon	Joshua 5:11-12—There Was No More Manna.
 
 *(﻿after my sermons are live, I would probably link to them above)*
