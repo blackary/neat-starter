@@ -27,6 +27,10 @@ A fault to abandon		A principle to live
 Something new (to you) about God, Christ, or myself?
 <﻿/p>
 
+### [Swedish method](http://thebriefing.com.au/2009/01/the-swedish-method/) questions.
+
+The daily readings in this household worship guide have a few questions. However, we encourage you, as appropriate for your family, to ask the following general questions of the sermon(s) and the whole service(s) today and the readings each day.
+
 ### Praise
 
 P﻿salm 24a, 1a
