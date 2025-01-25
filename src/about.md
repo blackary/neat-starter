@@ -5,7 +5,7 @@ path: about
 permalink: /about/
 ---
 <div class="lead text-xl text-gray-600 mb-8">
-<i>Worship Connected</i> is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/">Springs Reformed Church</a>.
+<i>Worship Connected</i> is dedicated to helping families grow together in their faith through structured Bible reading and household worship (family devotions) connected to the weekly congregational worship of <a href="https://springsreformed.org/"  target="_blank">Springs Reformed Church</a>.
 </div>
 
 ## Aim
@@ -28,7 +28,7 @@ Read, pray, repeat.
 
 ## About Ed Blackwood
 
-Ed Blackwood has been involved in worship ministry for over 30 years. His passion is helping families discover the joy of worshiping together. Through *Worship Connected*, he provides weekly Bible reading plans and resources designed specifically for household worship (often called family devotions) that are connected to the preaching texts of the weekly congregational worship.
+Ed Blackwood has been ordained as a pastor in the <a href="https://reformedpresbyterian.org/"  target="_blank">Reformed Presbyterian Church of North America</a> since 1992. He has a passion for helping families discover the joy of worshiping together. Through *Worship Connected*, he provides weekly Bible reading plans and resources designed specifically for household worship (often called family devotions) that are connected to the preaching texts of the weekly congregational worship.
 
 <div class="bg-blue-50 border-l-4 border-blue-500 p-4 my-8">
   <blockquote class="text-lg italic text-gray-700">
