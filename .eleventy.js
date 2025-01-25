@@ -10,6 +10,11 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
+  // Add posts collection
+  eleventyConfig.addCollection("posts", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/*.md");
+  });
+
   // human readable date
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(

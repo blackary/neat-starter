@@ -12,8 +12,8 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
+  - label: "Worship Notes"
+    name: "posts"
     folder: "src/posts"
     create: true
     editor:
@@ -21,48 +21,64 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Author", name: "author", widget: "string" }
+      - { label: "Author", name: "author", widget: "string", default: "Ed Blackwood" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
+      - { label: "Content", name: "body", widget: "markdown" }
+      - label: "Tags"
         name: "tags"
+        widget: "select"
         multiple: true
-        create: true
-        options: ["Tags", "created", "from", "config.yml"]
+        options:
+          - { label: "Bible Reading", value: "Bible Reading" }
+          - { label: "Worship", value: "Worship" }
+          - { label: "Prayer", value: "Prayer" }
+          - { label: "Family Worship", value: "Family Worship" }
+          - { label: "Old Testament", value: "Old Testament" }
+          - { label: "New Testament", value: "New Testament" }
+          - { label: "Psalms", value: "Psalms" }
+          - { label: "Church History", value: "Church History" }
+
+  - label: "Pages"
+    name: "pages"
+    editor:
+      preview: false
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "src/about.html"
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Path", name: "path", widget: "hidden", default: "about" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about/" }
+          - { label: "Content", name: "body", widget: "markdown" }
+
   - label: "Settings"
     name: "settings"
     editor:
       preview: false
     files:
+      - label: "Site Settings"
+        name: "site"
+        file: "src/_data/settings.yaml"
+        fields:
+          - { label: "Site Name", name: "name", widget: "string" }
+          - { label: "Site Author", name: "author", widget: "string" }
+          - { label: "Site URL", name: "url", widget: "string" }
+          - label: "Hero Section"
+            name: "hero"
+            widget: "object"
+            fields:
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Background Image", name: "image", widget: "image" }
+
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
         fields:
-          - label: Nav Items
-            name: items
-            widget: list
-            allow_add: false
-            collapsed: false
+          - label: "Nav Items"
+            name: "items"
+            widget: "list"
             fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
-      - label: "Meta Settings"
-        name: "settings"
-        file: "src/_data/settings.yaml"
-        fields:
-          - { label: Name, name: name, widget: string }
-          - { label: Author, name: author, widget: string }
-          - { label: URL, name: url, widget: string }
+              - { label: "Text", name: "text", widget: "string" }
+              - { label: "URL", name: "url", widget: "string" }
