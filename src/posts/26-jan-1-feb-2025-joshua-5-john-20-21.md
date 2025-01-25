@@ -7,7 +7,7 @@ tags:
   - Old Testament
   - New Testament
 ---
-We consider Joshua and the Commander of the Lord's Army and John's final account of the life and ministry of Jesus
+We look back on Joshua and the Commander of the Lord's Army and look forward to John's final account of the life and ministry of Jesus
 
 ## Daily Notes
 
