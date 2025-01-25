@@ -14,17 +14,17 @@ These household worship guides are written to complement the Lord’s Day sermon
 
 ## Family Worship Guide
 
-Family worship doesn't have to be complicated. one father put it this way:
+Family worship doesn't have to be complicated. one father* put it this way:
 
 The back of my shampoo bottle says, “Lather, rinse, repeat.” Simple enough that even I can do it. Though family worship may be a bit more complicated than sham-pooing hair, it ought not to be rated with “home dentistry” in the scale of difficulty.
 
-If you could buy family worship in the store, it would come in the form of a Bible, and the directions would simply say, “Read, pray, repeat.” Men should gather their families at least once daily. They should read a portion of the Scriptures to them. And they should pray with them. There need be no fireworks or pizzazz to keep the kids interested. There needs to be only a father with a heart-love for God–who desires to see that love appropriated by his children. 
+If you could buy family worship in the store, it would come in the form of a Bible, and the directions would simply say, “Read, pray, repeat.” Men^ should gather their families at least once daily. They should read a portion of the Scriptures to them. And they should pray with them. There need be no fireworks or pizzazz to keep the kids interested. There needs to be only a father with a heart-love for God–who desires to see that love appropriated by his children. 
 
 Read, pray, repeat.
 
-<small><i>What Shampoo and Family Worship Have in Common, written by Randy Greenwald, (Quoted from Tabletalk magazine, Nov 1997.)
+<div><small><i>*What Shampoo and Family Worship Have in Common, written by Randy Greenwald, (Quoted from Tabletalk magazine, Nov 1997.)
 
-Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.</i></small>
+^Fathers leading their family in worship is always the goal. When, in the Lord’s providence, the father is absent or uninterested, a godly mother will lead her children. In an extended household, mature members may share leading household worship.</i></small></div>
 
 ## About Ed Blackwood
 
