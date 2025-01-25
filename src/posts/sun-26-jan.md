@@ -2,7 +2,7 @@
 title: Sun 26 Jan
 description: Joshua 5
 author: Ed Blackwood
-date: 2025-01-26T07:01:05.816Z
+date: 2025-01-25T17:20:13.449Z
 tags:
   - Old Testament
 ---
