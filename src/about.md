@@ -14,7 +14,7 @@ These household worship guides are written to complement the Lord’s Day sermon
 
 ## Family Worship Guide
 
-Family worship doesn't have to be complicated. one father* put it this way:
+Family worship doesn't have to be complicated. One father* put it this way:
 
 The back of my shampoo bottle says, “Lather, rinse, repeat.” Simple enough that even I can do it. Though family worship may be a bit more complicated than sham-pooing hair, it ought not to be rated with “home dentistry” in the scale of difficulty.
 
