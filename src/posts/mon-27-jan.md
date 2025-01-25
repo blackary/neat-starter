@@ -2,10 +2,18 @@
 title: Mon 27 Jan
 description: Luke 14:25–35—The Cost of Following Jesus
 author: Ed Blackwood
-date: 2025-01-25T14:54:31.494Z
+date: 2025-01-27T07:00:00.000Z
 tags:
   - Old Testament
 ---
+### Reading
+
+Luke 14:25–35—The Cost of Following Jesus.
+
+### O﻿ptional Reading
+
+Joshua 5
+
 ### Notes
 
 It might seem at times, from a human perspective, that Jesus needed a better PR manager. Luke gives us the account that great crowds were following Jesus. Humanly speaking, it would seem best to encourage those crowds and seek to draw more. But here, and often, Jesus challenges the crowds in such a way that they might be less inclined to follow him, and even to turn away from him (see John 6:66). But as important as following Jesus is, Jesus makes clear that it comes at great cost. A cost, to be sure, that’s worth it. But a cost nevertheless.
@@ -21,11 +29,11 @@ It is this concept of wholehearted devotion that drove Joshua, in Joshua 5, to w
 3. How might Jesus be calling you to submit to him at this point in your life?
 4. \[﻿any way to get my images here?]
 
-#﻿## Praise
+### Praise
 
 P﻿salm 24a, 1a
 
-#﻿## Prayer
+### Prayer
 
 1. Pray that having counted the cost you will wholeheartedly follow Jesus as his disciple.
 2. Pray for a specific application from yesterday’s sermons.
