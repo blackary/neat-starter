@@ -4,7 +4,7 @@ description: Luke 14:25–35—The Cost of Following Jesus
 author: Ed Blackwood
 date: 2025-01-27T07:00:00.000Z
 tags:
-  - Old Testament
+  - New Testament
 ---
 ### Reading
 
