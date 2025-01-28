@@ -3,7 +3,7 @@ title: Thu 30 Jan
 description: John 20:24-31
 author: Ed Blackwood
 date: 2025-01-30T07:14:35.226Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - New Testament
 type: daily
