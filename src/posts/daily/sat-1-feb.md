@@ -5,7 +5,7 @@ author: Ed Blackwood
 date: 2025-02-01T07:22:03.345Z
 weekly_post: 26-jan-1-feb-2025
 tags:
-  - New Testament
+  - 1 Corinthians
 type: daily
 ---
 ### Reading
