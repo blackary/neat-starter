@@ -3,7 +3,7 @@ title: Wed 29 Jan
 description: Philippians 4:15–23
 author: Ed Blackwood
 date: 2025-01-29T07:10:55.918Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - New Testament
 type: daily
