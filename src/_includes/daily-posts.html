@@ -1,0 +1,29 @@
+{% if collections.daily %}
+<div class="mt-8 pt-8 border-t border-gray-200">
+  <h2 class="text-4xl font-semibold mb-4">Daily Notes</h2>
+  <img
+    src="/static/img/rythym-of-the-sacred.png"
+    alt="The Christian's Weekly Rhythm"
+    class="mb-4"
+  />
+  <div class="space-y-4">
+    {% for daily in collections.daily %} {% if daily.data.weekly_post ==
+    page.fileSlug %}
+    <article class="bg-gray-50 p-4 rounded-lg">
+      <h3 class="text-lg font-medium mb-2">
+        <a
+          href="{{ daily.url }}"
+          class="text-blue-600 hover:text-blue-800 hover:underline"
+        >
+          {{ daily.data.title }}
+        </a>
+      </h3>
+      <p class="text-gray-600 text-sm mb-2">
+        {{ daily.data.date | readableDate }}
+      </p>
+      <p class="text-gray-700">{{ daily.data.description }}</p>
+    </article>
+    {% endif %} {% endfor %}
+  </div>
+</div>
+{% endif %}

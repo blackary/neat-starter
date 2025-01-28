@@ -11,8 +11,17 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
 
   // Add posts collection
-  eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/*.md");
+  eleventyConfig.addCollection("weekly", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/weekly/*.md");
+  });
+
+  eleventyConfig.addCollection("daily", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/daily/*.md");
+  });
+
+  // Add a combined posts collection that includes both weekly and daily posts
+  eleventyConfig.addCollection("allPosts", function(collection) {
+    return collection.getFilteredByGlob("./src/posts/**/*.md");
   });
 
   // human readable date

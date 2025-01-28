@@ -8,13 +8,24 @@ prism: true
     <h1 class="font-bold text-5xl">{{title}}</h1>
     <p class="text-center text-base leading-6 font-medium text-gray-500 mt-4">
       <time>
-        {{ date | readableDate }} by
+        {% if type == "weekly" %}Week of {% endif %}{{ date | readableDate }} by
         <span class="text-blue-600">{{ author }}</span>
       </time>
     </p>
   </div>
 
   <article class="prose lg:prose-xl my-4 mx-auto">{{ content | safe }}</article>
+
+  {% if type == "weekly" %} {% include "daily-posts.html" %} {% endif %} {% if
+  type == "daily" and weekly_post %}
+  <div class="mt-8 pt-8 border-t border-gray-100">
+    <a
+      href="/posts/weekly/{{ weekly_post }}"
+      class="text-blue-600 hover:text-blue-800 hover:underline"
+      >&larr; Back to Weekly Overview</a
+    >
+  </div>
+  {% endif %}
 
   <div class="mt-8 pt-8 border-t border-gray-100">
     <a href="/notes" class="text-blue-600 hover:text-blue-800 hover:underline"
