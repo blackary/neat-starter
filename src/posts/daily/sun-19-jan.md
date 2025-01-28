@@ -3,7 +3,7 @@ title: Sun 19 Jan
 description: Isaiah 7:1-16, 1 Timothy 1:15-17
 author: Ed Blackwood
 date: 2025-01-19T07:36:42.282Z
-weekly_post: 26-jan-1-feb-2025
+weekly_post: 19-25-jan-2025-1
 tags:
   - Old Testament
 type: daily
