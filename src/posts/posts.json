@@ -1,6 +1,5 @@
 {
-    "layout": "posts",
-    "tags": [
-        "post"
-    ]
+  "layout": "posts",
+  "tags": ["post"],
+  "permalink": "{% if type == 'daily' %}posts/daily/{{ page.fileSlug }}/{% else %}posts/weekly/{{ page.fileSlug }}/{% endif %}"
 }

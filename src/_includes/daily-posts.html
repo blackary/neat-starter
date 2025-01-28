@@ -1,29 +1,28 @@
-{% if collections.daily %}
 <div class="mt-8 pt-8 border-t border-gray-200">
-  <h2 class="text-4xl font-semibold mb-4">Daily Notes</h2>
-  <img
-    src="/static/img/rythym-of-the-sacred.png"
-    alt="The Christian's Weekly Rhythm"
-    class="mb-4"
-  />
-  <div class="space-y-4">
-    {% for daily in collections.daily %} {% if daily.data.weekly_post ==
-    page.fileSlug %}
-    <article class="bg-gray-50 p-4 rounded-lg">
-      <h3 class="text-lg font-medium mb-2">
+  <h2 class="text-3xl font-bold mb-6">Daily Notes</h2>
+
+  <!-- Debug info -->
+  <div class="bg-yellow-100 p-4 mb-4">
+    <p>Collections.daily exists? {{ collections.daily != null }}</p>
+    <p>Number of daily posts: {{ collections.daily.length }}</p>
+    <p>Current page slug: {{ page.fileSlug }}</p>
+  </div>
+
+  <!-- Daily Posts -->
+  <div class="space-y-6">
+    {%- for post in collections.daily -%} {%- if post.data.weekly_post ==
+    page.fileSlug -%}
+    <article class="bg-gray-50 p-6 rounded-lg shadow-sm">
+      <h3 class="text-xl font-semibold mb-3">
         <a
-          href="{{ daily.url }}"
+          href="{{ post.url }}"
           class="text-blue-600 hover:text-blue-800 hover:underline"
         >
-          {{ daily.data.title }}
+          {{ post.data.date | date("EEEE") }}
         </a>
       </h3>
-      <p class="text-gray-600 text-sm mb-2">
-        {{ daily.data.date | readableDate }}
-      </p>
-      <p class="text-gray-700">{{ daily.data.description }}</p>
+      <p class="text-gray-700">{{ post.data.description }}</p>
     </article>
-    {% endif %} {% endfor %}
+    {%- endif -%} {%- endfor -%}
   </div>
 </div>
-{% endif %}

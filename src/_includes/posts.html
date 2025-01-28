@@ -14,10 +14,26 @@ prism: true
     </p>
   </div>
 
+  <!-- Debug info -->
+  <div class="bg-red-100 p-4 mb-4">
+    <p>Post type: {{ type }}</p>
+    <p>Is weekly? {{ type == "weekly" }}</p>
+    <p>Page slug: {{ page.fileSlug }}</p>
+  </div>
+
   <article class="prose lg:prose-xl my-4 mx-auto">{{ content | safe }}</article>
 
-  {% if type == "weekly" %} {% include "daily-posts.html" %} {% endif %} {% if
-  type == "daily" and weekly_post %}
+  <!-- TEST INCLUDE -->
+  <div style="border: 5px dashed orange; padding: 20px; margin: 20px 0">
+    <h3>Testing include location:</h3>
+    {% include "daily-posts.html" %}
+  </div>
+
+  {% if type == "weekly" %}
+  <div class="bg-green-100 p-4 mb-4">About to include daily-posts.html</div>
+  {% include "daily-posts.html" %}
+  <div class="bg-green-100 p-4 mb-4">After including daily-posts.html</div>
+  {% endif %} {% if type == "daily" and weekly_post %}
   <div class="mt-8 pt-8 border-t border-gray-100">
     <a
       href="/posts/weekly/{{ weekly_post }}"

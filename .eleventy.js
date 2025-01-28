@@ -10,18 +10,26 @@ module.exports = function (eleventyConfig) {
   // Merge data instead of overriding
   eleventyConfig.setDataDeepMerge(true);
 
-  // Add posts collection
+  // Add collections
   eleventyConfig.addCollection("weekly", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/weekly/*.md");
+    const items = collection.getFilteredByGlob("./src/posts/weekly/*.md");
+    console.log("Weekly posts found:", items.length);
+    return items;
   });
 
   eleventyConfig.addCollection("daily", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/daily/*.md");
+    const items = collection.getFilteredByGlob("./src/posts/daily/*.md");
+    console.log("Daily posts found:", items.length);
+    console.log("Daily posts paths:", items.map(item => item.inputPath));
+    return items;
   });
 
-  // Add a combined posts collection that includes both weekly and daily posts
-  eleventyConfig.addCollection("allPosts", function(collection) {
-    return collection.getFilteredByGlob("./src/posts/**/*.md");
+  // Add a test collection to see all content
+  eleventyConfig.addCollection("all", function(collection) {
+    const items = collection.getAll();
+    console.log("All items found:", items.length);
+    console.log("All item paths:", items.map(item => item.inputPath));
+    return items;
   });
 
   // human readable date
@@ -29,6 +37,11 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(
       "dd LLL yyyy"
     );
+  });
+
+  // Format date to show full day name
+  eleventyConfig.addFilter("date", (dateObj, format) => {
+    return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
   });
 
   // Syntax Highlighting for Code blocks

@@ -1,0 +1,49 @@
+<!-- Debug info -->
+<div class="bg-yellow-100 p-4 mb-4">
+  <p>Debug: collections.daily exists? {{ collections.daily != null }}</p>
+  <p>Debug: collections.daily length: {{ collections.daily.length }}</p>
+  <p>Debug: current page slug: {{ page.fileSlug }}</p>
+  <p>Debug: current page inputPath: {{ page.inputPath }}</p>
+</div>
+
+<!-- All Daily Posts -->
+<div class="bg-blue-100 p-4 mb-4">
+  <h3 class="font-bold mb-2">All Daily Posts:</h3>
+  <ul>
+    {% for post in collections.daily %}
+    <li class="mb-2">
+      <div>Title: {{ post.data.title }}</div>
+      <div>Weekly Post: {{ post.data.weekly_post }}</div>
+      <div>Input Path: {{ post.inputPath }}</div>
+      <div>URL: {{ post.url }}</div>
+      <div>FileSlug: {{ post.fileSlug }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<!-- Daily Notes -->
+<div class="mt-8 pt-8 border-t border-gray-200">
+  <h2 class="text-4xl font-semibold mb-4">Daily Notes</h2>
+  <div class="space-y-4">
+    {% for post in collections.daily %} {% assign matches =
+    post.data.weekly_post == page.fileSlug %}
+    <div class="text-xs text-gray-500">
+      Checking {{ post.data.title }} - weekly_post: {{ post.data.weekly_post }}
+      against {{ page.fileSlug }} = {{ matches }}
+    </div>
+    {% if matches %}
+    <article class="bg-gray-50 p-4 rounded-lg">
+      <h3 class="text-lg font-medium mb-2">
+        <a
+          href="{{ post.url }}"
+          class="text-blue-600 hover:text-blue-800 hover:underline"
+        >
+          {{ post.data.date | date: "EEEE" }}
+        </a>
+      </h3>
+      <p class="text-gray-700">{{ post.data.description }}</p>
+    </article>
+    {% endif %} {% endfor %}
+  </div>
+</div>
