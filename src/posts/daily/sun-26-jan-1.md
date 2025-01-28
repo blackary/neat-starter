@@ -3,7 +3,7 @@ title: Sun 26 Jan
 description: Joshua 5—Whose Side Are You On?
 author: Ed Blackwood
 date: 2025-01-26T07:00:00.000Z
-weekly_post: 26-jan-1-feb-2025-joshua-5-john-20-21
+weekly_post: 19-25-jan-2025
 tags:
   - Old Testament
 type: daily
@@ -48,9 +48,9 @@ The daily readings in this household worship guide have a few questions. However
 
 <p><img src="/static/img/family_worship_study_ed-copy_page_6.png" width="33" height = "33"> How do you see Jesus Christ in the service(s)?</p>
 
-### Praise
+### Praise (any or all)
 
-Psalm 24a, 1a
+Psalm 46c, 1a, 91a, 24a, 63a, 78d, 104c
 
 ### Prayer
 
