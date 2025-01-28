@@ -3,7 +3,7 @@ title: Tue 28 Jan
 description: Revelation 19
 author: Ed Blackwood
 date: 2025-01-28T07:06:09.234Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - New Testament
 type: daily
