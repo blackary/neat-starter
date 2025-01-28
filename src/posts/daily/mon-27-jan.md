@@ -1,5 +1,5 @@
 ---
-title: Monday
+title: Mon Jan 26
 description: Luke 14:25–35—The Cost of Following Jesus.
 author: Ed Blackwood
 date: 2025-01-28T01:49:48.029Z
