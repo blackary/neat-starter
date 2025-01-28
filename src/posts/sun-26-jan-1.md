@@ -35,6 +35,16 @@ The daily readings in this household worship guide have a few questions. However
 
 <p><img src="/src/static/img/family_worship_study_ed-copy_page_1.png" width="33" height = "33"> Is there something that ‘shines’ from the service(s)—whatever impacts most, or draws attention?</p>
 
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_2.png" width="33" height = "33"> Is there something you don’t understand, or a question the service(s) raises in your mind?</p>
+
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_3.png" width="33" height = "33"> Is there a personal application to your life?</p>
+
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_4.png" width="33" height = "33"> Is there something you plan to share with someone else–and who will you share it with?</p>
+
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_5.png" width="33" height = "33"> How do ideas in the service(s) interrelate? Or with other passages in this book–or in the whole Bible?</p>
+
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_6.png" width="33" height = "33"> How do you see Jesus Christ in the service(s)?</p>
+
 ### Praise
 
 Psalm 24a, 1a
