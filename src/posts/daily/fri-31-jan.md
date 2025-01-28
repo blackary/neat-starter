@@ -3,7 +3,7 @@ title: Fri 31 Jan
 description: John 21
 author: Ed Blackwood
 date: 2025-01-31T07:19:20.401Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - New Testament
 type: daily
