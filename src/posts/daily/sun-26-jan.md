@@ -1,5 +1,5 @@
 ---
-title: Sun 26 Jan
+title: Sunday, The Lord's Day
 description: Joshua 5 — Whose Side Are You On?
 author: Ed Blackwood
 date: 2025-01-27T01:51:06.896Z
