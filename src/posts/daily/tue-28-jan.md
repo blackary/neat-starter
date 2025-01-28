@@ -6,6 +6,7 @@ date: 2025-01-28T07:06:09.234Z
 weekly_post: 26-jan-1-feb-2025
 tags:
   - Revelation
+  - Joshua
 type: daily
 ---
 ### Reading
