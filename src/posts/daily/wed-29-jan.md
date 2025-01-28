@@ -6,6 +6,7 @@ date: 2025-01-29T07:10:55.918Z
 weekly_post: 26-jan-1-feb-2025
 tags:
   - Philippians
+  - Joshua
 type: daily
 ---
 ### Reading
