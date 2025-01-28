@@ -64,6 +64,10 @@ collections:
           - { label: "New Testament", value: "New Testament" }
           - { label: "Church History", value: "Church History" }
           - { label: "Genesis", value: "Genesis" }
+          - { label: "Exodus", value: "Exodus" }
+          - { label: "Leviticus", value: "Leviticus" }
+          - { label: "Numbers", value: "Numbers" }
+          - { label: "Deuteronomy", value: "Deuteronomy" }
           - { label: "Psalms", value: "Psalms" }
       - { label: "Type", name: "type", widget: "hidden", default: "daily" }
 
