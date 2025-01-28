@@ -35,9 +35,7 @@ collections:
           - { label: "Family Worship", value: "Family Worship" }
           - { label: "Old Testament", value: "Old Testament" }
           - { label: "New Testament", value: "New Testament" }
-          - { label: "Psalms", value: "Psalms" }
           - { label: "Church History", value: "Church History" }
-          - { label: "Genesis", value: "Genesis" }
       - { label: "Type", name: "type", widget: "hidden", default: "weekly" }
 
   - label: "Daily Notes"
@@ -64,9 +62,9 @@ collections:
           - { label: "Family Worship", value: "Family Worship" }
           - { label: "Old Testament", value: "Old Testament" }
           - { label: "New Testament", value: "New Testament" }
-          - { label: "Psalms", value: "Psalms" }
           - { label: "Church History", value: "Church History" }
           - { label: "Genesis", value: "Genesis" }
+          - { label: "Psalms", value: "Psalms" }
       - { label: "Type", name: "type", widget: "hidden", default: "daily" }
 
   - label: "Pages"
