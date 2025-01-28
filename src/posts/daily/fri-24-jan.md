@@ -3,7 +3,7 @@ title: Fri 24 Jan
 description: Joshua 5:10-12
 author: Ed Blackwood
 date: 2025-01-24T23:10:53.790Z
-weekly_post: 26-jan-1-feb-2025
+weekly_post: 19-25-jan-2025-1
 tags:
   - Old Testament
 type: daily
