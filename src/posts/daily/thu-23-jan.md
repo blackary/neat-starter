@@ -3,7 +3,7 @@ title: Thu 23 Jan
 description: Joshua 5:1-12
 author: Ed Blackwood
 date: 2025-01-23T23:08:28.286Z
-weekly_post: 26-jan-1-feb-2025
+weekly_post: 19-25-jan-2025-1
 tags:
   - Old Testament
 type: daily
