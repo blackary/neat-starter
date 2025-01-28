@@ -3,7 +3,7 @@ title: Sun 26 Jan
 description: Joshua 5—Whose Side Are You On?
 author: Ed Blackwood
 date: 2025-01-26T07:00:00.000Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - Old Testament
 type: daily
