@@ -3,7 +3,7 @@ title: Sat 1 Feb
 description: 1 Corinthians 11:23–34
 author: Ed Blackwood
 date: 2025-02-01T07:22:03.345Z
-weekly_post: 19-25-jan-2025
+weekly_post: 26-jan-1-feb-2025
 tags:
   - New Testament
 type: daily
