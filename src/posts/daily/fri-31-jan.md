@@ -5,7 +5,7 @@ author: Ed Blackwood
 date: 2025-01-31T07:19:20.401Z
 weekly_post: 26-jan-1-feb-2025
 tags:
-  - New Testament
+  - John
 type: daily
 ---
 ### Reading
