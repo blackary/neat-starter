@@ -38,3 +38,4 @@ P﻿salm 24a, 1a
 1. Pray that having counted the cost you will wholeheartedly follow Jesus as his disciple.
 2. Pray for a specific application from yesterday’s sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+4. <p><img src="/static/img/family_worship_study_ed-copy_page_1.png" width="33" height = "33"> <img src="/static/img/family_worship_study_ed-copy_page_2.png" width="33" height = "33"> <img src="/static/img/family_worship_study_ed-copy_page_3.png" width="33" height = "33"> </p>
