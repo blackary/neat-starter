@@ -33,7 +33,7 @@ tags:
 
 The daily readings in this household worship guide have a few questions. However, we encourage you, as appropriate for your family, to ask the following general questions of the sermon(s) and the whole service(s) today and the readings each day.
 
-<p><img src="/src/static/img/family_worship_study_ed-copy_page_1.png" width=100 height = "100"> Is there something that ‘shines’ from the service(s)—whatever impacts most, or draws attention?</p>
+<p><img src="/src/static/img/family_worship_study_ed-copy_page_1.png" width="33" height = "33"> Is there something that ‘shines’ from the service(s)—whatever impacts most, or draws attention?</p>
 
 ### Praise
 
