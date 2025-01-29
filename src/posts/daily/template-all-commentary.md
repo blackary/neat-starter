@@ -4,8 +4,7 @@ description: scripture
 author: Ed Blackwood
 date: 2020-01-01T22:52:00.000Z
 weekly_post: ""
-tags:
-  - John
+tags: null
 type: daily
 ---
 ### Reading
