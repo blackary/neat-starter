@@ -9,13 +9,9 @@ type: daily
 ---
 ### Reading
 
-
-
 ### Notes
 
-<div><small><i>Today’s notes are from a commentary on John by \_\_\_\_.</i></small></div>
-
-
+<div><small><i>Today’s notes are from a commentary on John by SOMEONE.</i></small></div>
 
 ### Questions
 
