@@ -54,6 +54,5 @@ Psalm 46c, 1a, 91a, 24a, 63a, 78d, 104c
 
 ### Prayer
 
-1. Pray that, having counted the cost, you will wholeheartedly follow Jesus as His disciple.
-2. Pray for a specific application from yesterday's sermons.
-3. Pray for a member of our church, for your family, and for a non-Christian friend or family member.
+1. Pray that you would hide the word read and preached in your hearts, and bring forth its fruit in your lives.
+2. Pray for a member of our church, for your family, and for a non-Christian friend or family member.
