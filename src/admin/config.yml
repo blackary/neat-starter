@@ -14,7 +14,7 @@ common_tags: &common_tags
   name: "tags"
   widget: "select"
   multiple: true
-  required: false
+  required: true
   options:
     - { label: "Bible Reading", value: "Bible Reading" }
     - { label: "Worship", value: "Worship" }
@@ -121,7 +121,7 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Author", name: "author", widget: "string", default: "Ed Blackwood" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Related Weekly Post", name: "weekly_post", widget: "relation", collection: "weekly", search_fields: ["title"], value_field: "{{slug}}", display_fields: ["title"], required: false }
+      - { label: "Related Weekly Post", name: "weekly_post", widget: "relation", collection: "weekly", search_fields: ["title"], value_field: "{{slug}}", display_fields: ["title"], required: true }
       - { label: "Content", name: "body", widget: "markdown" }
       - *common_tags  # Reference to common tags
       - { label: "Type", name: "type", widget: "hidden", default: "daily" }
