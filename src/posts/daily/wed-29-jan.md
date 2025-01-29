@@ -43,5 +43,5 @@ P﻿salm 104c, 1a
 ### Prayer
 
 1. Give thanks for God providing your daily bread and other needs.
-2. Give thanks for God providing your daily bread and other needs.
+2. Pray for change in you from last Lord’s Day’s sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
