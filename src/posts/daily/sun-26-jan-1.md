@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**: Joshua 5 — Whose Side Are You On?
+**[AM Sermon](https://www.sermonaudio.com/sermons/128251915593562)**: Joshua 5 — Whose Side Are You On?
 
-**PM Sermon**: Joshua 5:11-12 — There Was No More Manna
+**[PM Sermon](https://www.sermonaudio.com/sermons/128251931347281)**: Joshua 5:11-12 — There Was No More Manna
 
 ### Discuss one or more of these questions
 
