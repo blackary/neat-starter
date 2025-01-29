@@ -2,7 +2,7 @@
 title: Template standard daily
 description: scripture
 author: Ed Blackwood
-date: 2025-01-29T22:56:51.596Z
+date: 2020-01-01T22:56:00.000Z
 weekly_post: ""
 tags: null
 type: daily
