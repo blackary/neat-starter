@@ -1,42 +1,47 @@
 ---
-title: Thu 30 Jan
-description: John 20:24-31
+title: Thu Feb 6
+description: Judges 2:1-5
 author: Ed Blackwood
-date: 2025-01-30T07:14:35.226Z
-weekly_post: 26-jan-1-feb-2025
+date: 2025-02-06T07:14:35.226Z
+weekly_post: feb-2-8-2025
 tags:
-  - John
+  - Judges
+  - 1 Corinthians
 type: daily
 ---
 ### Reading
 
-John 20:24-31—That You May Believe
+Judges 2:1-5—Covenant Faithfulness/Unfaithfulness
+
+### Optional Reading
+
+1 Cor 5:1–8
 
 ### Notes
 
-<div><small><i>Today’s notes are from a commentary on John by Richard Philipps.</i></small></div>
+Most, although not all, of Canaan has been conquered by Israel. God here reaffirms his covenant faithfulness. What a wonderful reminder that he will never break his covenant with his people! We want to have our family and friends never break their promises to us and we want to never break our promises to them. But they do, and we do, sadly. God never will! Never.
 
-*The Bible might be called God’s book of blessings. This is not to say that the Scriptures contain only blessings. There are commands, warnings, and even curses as well. But the Bible predominates in blessings. The purpose of the Bible is to lead us into God’s blessings so that God might be blessed in blessing his people. …*
+Here God rebukes his people. They have made covenants with the sinful people living in Canaan and not obeyed God’s voice. Do you ever join with the world instead of listening to and obeying God’s voice? We are certainly tempted to. James reminds us that friendship with the world is hostility toward God (James 4:4).
 
-*In the Gospel of John, Jesus spoke his last blessing when the disciple Thomas had believed, an especially significant blessing since it refers directly to us: “Blessed are those who have not seen and yet have believed” (John 20:29). Since salvation is received through faith, this blessing provides a key to them all …*
+How did Israel respond? Keddie notes that *the response of God’s people (2:5) is as instructive as it is heart-rending. First there was sorrow for sin, touchingly signalized in the name given to the place of confrontation—Bokim, literally ‘weepers’. Men weep for many reasons—laughter, separation, bereavement, anger—but least of all for their sins. When did you last weep as you considered your sins? When were you last ‘stricken’ while in prayer? This is the beginning of a real devotion and of blessed communion with the Lord … a sense of helplessness, of need and of a lack of any deserving of blessing by reason of having offended a holy God. The second element is that of appealing to the mercy of God. Israel ‘offered sacrifices to the Lord’.*
 
-*Jesus insisted to Thomas that if you believe without having seen him, you will be blessed. What are these blessings? They include the blessings received by anyone who has ever believed: your sins will be forgiven, you will receive the free gift of eternal life, you will be accepted into God’s embrace as a dearly beloved child, you will be delivered from the judgment that is to come, you will be raised in a glorious body like the resurrected body of Christ, you will have power to lead a holy and spiritually peaceful life, and you will be blessed to be used by God as a witness for the salvation of others*.
+May we weep over our sins and flee from them to Christ!
 
 ### Questions
 
-1. What did Thomas insist on to believe Jesus was risen?
-2. What blessing comes if we believe without having seen Jesus?
-3. Why did John write his gospel account of the life and ministry of Jesus?
+1. What was God’s promise to his people?
+2. To whom did Israel make covenant?
+3. How should we respond to our sin?
 4. ![](/static/img/family_worship_study_ed-swedish_questions.png)
 
 <div><small><i>See the Sunday reading for meaning of the symbols.</i></small></div>
 
 ### Praise
 
-P﻿salm 20b, 119r
+P﻿salm 51a, 119r
 
 ### Prayer
 
-1. Rejoice that you have come to believe without seeing Jesus with your physical eyes.
+1. Ask God to turn you from sin for his name’s sake.
 2. Pray for the preparation for preaching God’s word this Sunday.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
