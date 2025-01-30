@@ -2,7 +2,7 @@
 title: Lord’s Day  Feb 2
 description: John 20, 21
 author: Ed Blackwood
-date: 2025-01-30T21:21:02.197Z
+date: 2025-02-02T21:21:02.197Z
 weekly_post: feb-2-8-2025
 tags:
   - John
