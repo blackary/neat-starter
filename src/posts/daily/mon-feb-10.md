@@ -12,7 +12,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words do and law
+Listen for the words *do* and *law*
 
 ### Reading
 
