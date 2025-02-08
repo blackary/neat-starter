@@ -64,3 +64,5 @@ P﻿salm 119r
 1. Thank God for Christ rescuing you from the power of sin.
 2. Pray for a specific application from yesterday's sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+
+<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Stuart Olyott , Simon J. Kistemaker, the Theological Dictionary of the Old Testament (TDOT) and from notes from the CSB Study Bible, and the Reformation Study Bible.</i></small></div>
