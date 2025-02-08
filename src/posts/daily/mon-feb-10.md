@@ -6,6 +6,7 @@ date: 2025-02-10T23:12:25.843Z
 weekly_post: feb-9-15-2025
 tags:
   - Judges
+  - Romans
 type: daily
 ---
 ### Listen up, little ones
