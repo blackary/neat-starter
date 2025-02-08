@@ -9,7 +9,7 @@ tags:
   - 2 Timothy
 type: daily
 ---
-### Listen up, little ones
+### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
@@ -23,7 +23,7 @@ Listen for the word *judge*
 
 Optional Reading Judges 2:16–23
 
-### Keys for kids
+### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
