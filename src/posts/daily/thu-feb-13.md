@@ -8,7 +8,7 @@ tags:
   - Ruth
 type: daily
 ---
-### Listen up, little ones
+### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
@@ -18,7 +18,7 @@ Listen for the names *Naomi* and *Ruth*
 
 Ruth 1:1-5—Bad Choices, Bad Results
 
-### Keys for kids
+### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
