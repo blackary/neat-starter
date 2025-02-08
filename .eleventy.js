@@ -44,6 +44,20 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj, { zone: "utc" }).toFormat(format);
   });
 
+  // Filter for dates before or equal to today
+  eleventyConfig.addFilter("dateIsBeforeOrToday", (collection) => {
+    const today = DateTime.now().startOf('day');
+    return collection.filter(item => {
+      const postDate = DateTime.fromJSDate(item.data.date, { zone: "utc" }).startOf('day');
+      return postDate <= today;
+    });
+  });
+
+  // Limit filter
+  eleventyConfig.addFilter("limit", (collection, limit) => {
+    return collection.slice(0, limit);
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 

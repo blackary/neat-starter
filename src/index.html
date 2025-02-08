@@ -21,10 +21,12 @@ path: home
         alt="Worship Connected Hero Image"
       />
     </div>
-    <div class="relative h-full flex items-center justify-center">
-      <h1
-        class="text-2xl sm:text-4xl lg:text-5xl font-bold text-white text-center px-4"
-      >
+  </div>
+
+  <!-- Welcome Section -->
+  <div class="container mx-auto px-4 py-8">
+    <div class="max-w-4xl mx-auto">
+      <h1 class="text-2xl sm:text-4xl lg:text-5xl font-bold text-center px-4">
         Welcome to Worship Connected
       </h1>
     </div>
@@ -38,8 +40,8 @@ path: home
       </h2>
 
       <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2 xl:gap-8">
-        {%- for post in collections.weekly | reverse -%} {% if loop.index <= 4
-        %}
+        {%- for post in collections.weekly | dateIsBeforeOrToday | reverse |
+        limit(4) -%}
         <article
           class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300"
         >
@@ -65,7 +67,7 @@ path: home
             </div>
           </div>
         </article>
-        {% endif %} {%- endfor -%}
+        {%- endfor -%}
       </div>
 
       <div class="text-center mt-10">
