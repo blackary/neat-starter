@@ -12,71 +12,84 @@ path: home
 </style>
 
 <div class="min-h-screen">
-  <!-- Hero Section -->
-  <div class="relative h-[300px] sm:h-[450px] lg:h-[600px]">
-    <div class="absolute inset-0">
-      <img
-        src="static/img/rythym-of-the-sacred-wider.png"
-        class="w-full h-full object-cover brightness-90"
-        alt="Worship Connected Hero Image"
-      />
-    </div>
-  </div>
-
   <!-- Welcome Section -->
-  <div class="container mx-auto px-4 py-8">
+  <div class="container mx-auto px-4 pt-24 pb-8">
     <div class="max-w-4xl mx-auto">
       <h1 class="text-2xl sm:text-4xl lg:text-5xl font-bold text-center px-4">
         Welcome to Worship Connected
       </h1>
+      <p class="text-gray-600 text-center mt-4 text-lg max-w-2xl mx-auto">
+        A guide to help you and your family maintain a consistent rhythm of
+        worship throughout the week, centered on the Lord's Day.
+      </p>
+    </div>
+  </div>
+
+  <!-- Hero Section -->
+  <div class="relative h-[250px] sm:h-[350px] lg:h-[450px]">
+    <div class="max-w-5xl mx-auto relative">
+      <img
+        src="static/img/rythym-of-the-sacred-wider.png"
+        class="w-full h-full object-contain"
+        alt="Worship Connected Hero Image"
+      />
+      <p class="text-center text-gray-600 mt-4 text-sm">
+        The Christian's Weekly Rhythm: From preparation to reflection, centered
+        on the Lord's Day
+      </p>
     </div>
   </div>
 
   <!-- Recent Posts Section -->
-  <div class="container mx-auto px-4 py-16">
-    <div class="max-w-6xl mx-auto">
-      <h2 class="text-3xl font-semibold mb-8 text-center">
-        Recent Worship Connected Weeks
-      </h2>
+  <div class="bg-gray-50">
+    <div class="container mx-auto px-4 pt-12 pb-16">
+      <div class="max-w-6xl mx-auto">
+        <h2 class="text-3xl font-semibold mb-2 text-center">
+          Recent Worship Connected Weeks
+        </h2>
+        <p class="text-gray-600 text-center mb-8 text-lg">
+          Start your weekly worship journey with our latest guides
+        </p>
 
-      <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2 xl:gap-8">
-        {%- for post in collections.weekly | dateIsBeforeOrToday | reverse |
-        limit(4) -%}
-        <article
-          class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300"
-        >
-          <div class="p-6">
-            <h3 class="text-xl font-semibold mb-3">
-              <a
-                href="{{ post.url }}"
-                class="text-blue-600 hover:text-blue-800 hover:underline"
-                >{{ post.data.title }}</a
-              >
-            </h3>
-            <p class="text-gray-600 text-sm mb-4">
-              Week of {{ post.data.date | readableDate }}
-            </p>
-            <p class="text-gray-700 mb-4">{{ post.data.description }}</p>
-            <div class="flex flex-wrap gap-2">
-              {% for tag in post.data.tags %}
-              <span
-                class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm"
-                >{{ tag }}</span
-              >
-              {% endfor %}
+        <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2 xl:gap-8">
+          {%- for post in collections.weekly | dateIsBeforeOrToday | reverse |
+          limit(4) -%}
+          <article
+            class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100"
+          >
+            <div class="p-6">
+              <p class="text-blue-600 text-sm font-medium mb-2">
+                Week of {{ post.data.date | readableDate }}
+              </p>
+              <h3 class="text-xl font-semibold mb-3">
+                <a
+                  href="{{ post.url }}"
+                  class="text-gray-900 hover:text-blue-600 transition-colors duration-200"
+                  >{{ post.data.title }}</a
+                >
+              </h3>
+              <p class="text-gray-600 mb-4">{{ post.data.description }}</p>
+              <div class="flex flex-wrap gap-2">
+                {% for tag in post.data.tags %}
+                <span
+                  class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm"
+                  >{{ tag }}</span
+                >
+                {% endfor %}
+              </div>
             </div>
-          </div>
-        </article>
-        {%- endfor -%}
-      </div>
+          </article>
+          {%- endfor -%}
+        </div>
 
-      <div class="text-center mt-10">
-        <a
-          href="/notes"
-          class="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors duration-300"
-        >
-          View All Worship Connected Weeks
-        </a>
+        <div class="text-center mt-12">
+          <a
+            href="/notes"
+            class="inline-block bg-blue-600 text-white px-8 py-4 rounded-lg hover:bg-blue-700 transition-colors duration-300 font-medium"
+          >
+            View All Worship Connected Weeks
+          </a>
+        </div>
       </div>
     </div>
   </div>
