@@ -6,6 +6,7 @@ date: 2025-02-11T23:26:42.759Z
 weekly_post: feb-9-15-2025
 tags:
   - Judges
+  - 2 Timothy
 type: daily
 ---
 ### Listen up, little ones
