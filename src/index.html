@@ -52,7 +52,7 @@ path: home
         </p>
 
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2 xl:gap-8">
-          {%- for post in collections.weekly | reverse -% } {% if loop.index <= 4  %}
+          {%- for post in collections.weekly | reverse -% } 
           <article
             class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100"
           >
@@ -78,7 +78,7 @@ path: home
               </div>
             </div>
           </article>
-          {% endif %} {%- endfor -%}
+          {%- endfor -%}
         </div>
 
         <div class="text-center mt-12">
