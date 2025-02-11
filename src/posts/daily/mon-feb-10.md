@@ -1,6 +1,6 @@
 ---
 title: Mon Feb 10
-description: Judges 2:1-15
+description: Romans 7:14-25
 author: Ed Blackwood
 date: 2025-02-10T23:12:25.843Z
 weekly_post: feb-9-15-2025
