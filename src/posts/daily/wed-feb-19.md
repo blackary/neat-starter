@@ -3,7 +3,7 @@ title: Wed Feb 19
 description: 1 Thessalonians 1:2-10
 author: Ed Blackwood
 date: 2025-02-19T12:21:16.526Z
-weekly_post: feb-9-15-2025
+weekly_post: feb-16-22-2025
 tags:
   - 1 Thessalonians
   - Ruth
