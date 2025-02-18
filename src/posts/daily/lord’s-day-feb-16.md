@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**: Ruth 1—On  the Road to Somewhere
+**AM Sermon**: [Ruth 1—On  the Road to Somewhere](https://www.sermonaudio.com/sermons/217251834523210)
 
-**PM Sermon**: Ruth 1:16–17—Your God will be my God
+**PM Sermon**: [Ruth 1:16–17—Your God will be my God](https://www.sermonaudio.com/sermons/217251850594243)
 
 ### Discuss one or more of these questions
 
