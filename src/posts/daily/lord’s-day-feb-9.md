@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**: Judges 2—The  Judge (and King) We Need
+**AM Sermon**: [Judges 2—The  Judge (and King) We Need](https://www.sermonaudio.com/sermons/210251843477790)
 
-**PM Sermon**: Judges 2:1-5—I Will Never Break My Covenant with You
+**PM Sermon**: [Judges 2:1-5—I Will Never Break My Covenant with You](https://www.sermonaudio.com/sermons/21025190414529)
 
 ### Discuss one or more of these questions
 
