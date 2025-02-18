@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**: John 20:24-31—That You May Believe
+**AM Sermon**: [John 20:24-31—That You May Believe](https://www.sermonaudio.com/sermons/2325195513267)
 
-**PM Sermon**: John 21—Faith Moving Forward
+**PM Sermon**: [John 21—Faith Moving Forward](https://www.sermonaudio.com/sermons/232520549787)
 
 ### Discuss one or more of these questions
 
