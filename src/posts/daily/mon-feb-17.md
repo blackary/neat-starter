@@ -41,7 +41,7 @@ Optional Reading Ruth 1:1-5
 
 ### Notes
 
-(See last page for authors)	When we read of people in the Bible who make poor decisions and then have bad things happen, we tend to think right away that those bad things happened to them because they made bad decisions. And that might be true. But we can’t know for sure!
+When we read of people in the Bible who make poor decisions and then have bad things happen, we tend to think right away that those bad things happened to them because they made bad decisions. And that might be true. But we can’t know for sure!
 
 It seems like Elimelech and Noami shouldn’t have gone to Moab in Ruth 1. It seems like their two sons shouldn’t have married Moabite women. So, we might conclude that’s why Elimelech and their two sons died. Here in Luke some people reported to Jesus terrible things that had happened to some Galileans. Based on Jesus’s answer to them, it seems like they thought this terrible thing had happened because the Galileans had done something bad.
 
