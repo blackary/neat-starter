@@ -1,46 +1,44 @@
 ---
-title: Sat Feb 22
-description: 1 Samuel 17:50-58
+title: Sat MAr 1
+description: 1 Corinthians 11:23-34
 author: Ed Blackwood
-date: 2025-02-22T15:34:22.902Z
-weekly_post: feb-16-22-2025
+date: 2025-03-01T15:34:22.902Z
+weekly_post: feb-23-mar-1-2025
 tags:
-  - 1 Samuel
+  - 1 Corinthians
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *head*.
+Listen for the words *bread* and *cup*.
 
 ### Reading
 
-1 Samuel 17:50-58—David cut off Goliath’s head
+1 Corinthians 11:23-34—The Lord’s Supper
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* David cut off Goliath’s head with Goliath’s sword.
-* Nobody can live without a head.
-* Israel defeated the Philistines after David killed Goliath.
+* Jesus gives us the Lord’s Supper.
+* In the first Lord’s Supper, Jesus took bread.
+* The bread signifies Jesus’s body.
 
 ### Questions
 
 <div><small><i>(some read these before notes, then ask them after)</i></small></div>
 
-1. How did David kill Goliath?
-2. What did David do with Goliath’s head?
-3. What do we know for sure about a body without a head?
+1. How many significant acts are described in our text?
+2. What is the first significant act?
+3. What is significant about this act?
 
 ### Notes
 
-David defeated Goliath with a sling and a stone. He killed him without having a sword. But having killed him, he took the giant’s own sword and cut off his head. Keddie comments that Go*liath had gone the way of his god, Dagon, when he fell before the ark of the covenant—even to the loss of his head (1 Sam 5:4)! The Philistines’ hero was as dead as their so-called god! And they knew there was a God in Israel!*
+(Today’s notes are taken from the Young People's manual of RPCNA) *We see in the words of institution, given by Christ to the apostle Paul, the reasons and instructions for the Lord's Supper.  Notice the beauty and simplicity of the passage.  It specifics six significant acts, which should be understood as we come to the table.* 
 
-And knowing that, the change in both the Philistine army and the army of Israel was dramatic. The army of Israel, that had quaked in fear of Goliath, rose with a shout and plundered the Philistine army that ran in terror before them.
-
-Goliath’s head keeps being central to the story, though. We’re told that David took it to Jerusalem. Those who study the Bible differ on what is going on here. Is this a historical note looking forward to when King David would conquer Jerusalem in 2 Samuel 5? Or did David meet Saul in the lower city of Jerusalem that was partially captured (Judges 18,21)? We just don’t know for sure. But David has Goliath’s head with him—a certain sign of his victory!
+ *First, he took bread—that was a significant act.  It signified that he, the son of God, had come from heaven and taken a human body like ours to dwell in while on earth.  Taking the bread, He said, "This is my body."  This act indicates that he took a body and came in the likeness of sinful flesh when he was born at Bethlehem.  It sets forth what we call the doctrine of the incarnation—that the Word was made flesh and dwelled among us.  He took bread; he became one of us by taking our nature.*
 
 ### Swedish Method questions
 
@@ -50,10 +48,10 @@ Goliath’s head keeps being central to the story, though. We’re told that Dav
 
 ### Praise
 
-P﻿salm 7b, 119r
+P﻿salm 40a, 133a
 
 ### Prayer
 
-1. Give thanks for God’s sure victory over his and our enemies.
+1. Give thanks that Christ became human to save humans like you.
 2. Pray for the reading and preaching of God’s word tomorrow.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
