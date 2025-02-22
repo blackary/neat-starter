@@ -1,5 +1,5 @@
 ---
-title: Sat MAr 1
+title: Sat Mar 1
 description: 1 Corinthians 11:23-34
 author: Ed Blackwood
 date: 2025-03-01T15:34:22.902Z
