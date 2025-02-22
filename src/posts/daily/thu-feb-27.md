@@ -5,7 +5,7 @@ author: Ed Blackwood
 date: 2025-02-27T15:29:20.096Z
 weekly_post: feb-23-mar-1-2025
 tags:
-  - 1 Samuel
+  - 2 Samuel
 type: daily
 ---
 ### *Listen up, little ones*
