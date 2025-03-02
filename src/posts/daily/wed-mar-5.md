@@ -2,8 +2,8 @@
 title: Wed Mar 5
 description: Matthew 11:25-30
 author: Ed Blackwood
-date: 2025-03-02T21:20:21.143Z
-weekly_post: feb-23-mar-1-2025
+date: 2025-03-05T21:20:21.143Z
+weekly_post: mar-2-8-2025
 tags:
   - Matthew
   - 2 Samuel
