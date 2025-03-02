@@ -2,8 +2,8 @@
 title: Tue Mar 4
 description: Matthew 16:13–20
 author: Ed Blackwood
-date: 2025-03-02T21:16:41.344Z
-weekly_post: feb-23-mar-1-2025
+date: 2025-03-04T21:16:41.344Z
+weekly_post: mar-2-8-2025
 tags:
   - Matthew
   - 2 Samuel
