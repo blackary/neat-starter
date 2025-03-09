@@ -2,7 +2,7 @@
 title: Mon Mar 10
 description: Nehemiah 4:1-6
 author: Ed Blackwood
-date: 2025-03-03T21:11:54.218Z
+date: 2025-03-10T20:11:54.218Z
 weekly_post: mar-9-15-2025
 tags:
   - Nehemiah
