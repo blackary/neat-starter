@@ -1,53 +1,46 @@
 ---
-title: Mon Mar 3
-description: Acts 17:1–9
+title: Mon Mar 10
+description: Nehemiah 4:1-6
 author: Ed Blackwood
 date: 2025-03-03T21:11:54.218Z
-weekly_post: mar-2-8-2025
+weekly_post: mar-9-15-2025
 tags:
-  - Acts
-  - 2 Samuel
+  - Nehemiah
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words *Jesus* and *king*.
+Listen for the words *they* and *their*.
 
 ### Reading
 
-Acts 17:1–9—Another King—Jesus
-
-### O﻿ptional Reading
-
-Optional Reading 2 Samuel 7:1-12
+Nehemiah 4:1-6—What are these Feeble Jews Doing?
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* Jesus is the true King over all.
-* People who believe Jesus is king shake up the world.
-* All need to bow to King Jesus.
+* God’s people’s enemies got angry at their work for God.
+* They also made fun of their work.
+* But God’s people kept working hard.
 
 ### Questions
 
 <div><small><i>(some read these before notes, then ask them after)</i></small></div>
 
-1. What did God promise about David’s son’s kingdom?
-2. Who is the eternal King?
-3. What happens when people submit to Jesus?
+1. What did Sanballat do?
+2. What did God’s people pray?
+3. What did God’s people keep doing?
 
 ### Notes
 
-God promised David that he would have a line of kings from his offspring. We can read about many of these kings in the Old Testament. But as significant as that kingly line was, God promised David more. In fact, God promised David’s Son an eternal kingdom.
+(Today’s notes are from a commentary on Nehemiah by Wallace P. Benn)	*If you read Ezra and Nehemiah consecutively, you will no doubt have a sense of deja vu when you get to these chapters as they parallel the opposition that the Jewish people faced in rebuilding the temple (Ezra 4–7). As the people of God set about the work God had called them to do, opposition mounted. The book of Ezra makes the important point that this opposition will reappear in different ways in each generation; we must expect it and by God’s grace overcome it. Nehemiah’s point is equally important: the opposition can get very intense indeed, but with God’s help we can overcome that too.*
 
-The New Testament makes clear that Jesus is that eternal king and his kingdom is that promised eternal kingdom. Matthew’s gospel quotes from Micah that a ruler would come from Bethlehem (Matt 2:6), and from Isaiah and Zechariah that the king would ride into Jerusalem (Matt 21:5). The charge put over Jesus’s cross was that he was the king of the Jews Matt 27:37).
+*Notice how opposition mounted as the people of God set about the task and refused to give up. … Nehemiah 4:6 tells us that the wall was already half built because “the people had a mind to work,” or as the NLT puts it, “the people had worked with enthusiasm.” It was an impossible job and would have remained an incomplete vision unless everyone played their part. But they had responded well to the task and to the enemies’ challenges.*
 
-And the New Testament church believed this. In our text today we see that those who opposed the church said two significant things about this church. 1. They were turning the world upside down. (Do we so believe God and live for Jesus that people say that about us?) 2. These Christians were claiming another king than Caesar—Jesus. It’s not just that one day Jesus will be king. Jesus is king.
-
-Keddie notes that *the gospel is meant to transform the world. Christ is declared the Lord not only of individuals and the church, of inward piety and the corporate worship of God’s people. He is Lord of the nations themselves!* Jesus is the eternal king!
+*We see the people united in their task and pulling together. We should all seek to fulfill the advice of Paul to live a life “worthy” of the gospel, “eager to maintain the unity of the Spirit in the bond of peace” (Ephesians 4:1–3).*
 
 ### Swedish Method questions
 
@@ -57,12 +50,12 @@ Keddie notes that *the gospel is meant to transform the world. Christ is declare
 
 ### Praise
 
-P﻿salm 72e, 133a
+P﻿salm 127a, 133a
 
 ### Prayer
 
-1. Pray that you might shake up your world as you follow Jesus.
+1. Pray that the opposition of God’s enemies won’t stop you.
 2. Pray for a specific application from yesterday's sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
 
-<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Godron Keddie, Warren Wiersbe, James E. Smith, Steve Wilmshurst, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
+<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Wallace P. Benn, Stan K. Evers, Steve Wilmshurst, Daniel M. Doriani, Craig S. Keener, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
