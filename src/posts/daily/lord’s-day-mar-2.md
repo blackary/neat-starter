@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)2 Samuel 7—Who’ll Build Whose House?
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)[2 Samuel 7—Who’ll Build Whose House?](https://www.sermonaudio.com/sermons/3325192018109?autoplay=1)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)2 Samuel 7:1–5—Do all that is in your heart
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)[2 Samuel 7:1–5—Do all that is in your heart](https://www.sermonaudio.com/sermons/33251933524657?autoplay=1)
 
 ### Discuss one or more of these questions
 
