@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)1 Samuel 17—Killing Giants
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)[1 Samuel 17—Killing Giants](https://www.sermonaudio.com/sermons/22425189576584?autoplay=1)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)1 Samuel 17:50–58— Off with its head!
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)[1 Samuel 17:50–58— Off with its head!](https://www.sermonaudio.com/sermons/224251817307364?autoplay=1)
 
 ### Discuss one or more of these questions
 
