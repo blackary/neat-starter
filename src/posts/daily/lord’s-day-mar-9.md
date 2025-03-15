@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)Nehemiah 4:1-14—What Are these Feeble Jews Doing?
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/217251834523210)[Nehemiah 4:1-14—What Are these Feeble Jews Doing?](https://www.sermonaudio.com/sermons/310251835101763?autoplay=1)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)Mark 4:21-34—Parables of the Kingdom
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)[Mark 4:21-34—Parables of the Kingdom](https://www.sermonaudio.com/sermons/31025184234844?autoplay=1)
 
 ### Discuss one or more of these questions
 
