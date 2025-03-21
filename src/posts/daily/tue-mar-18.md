@@ -36,11 +36,15 @@ Matthew 13:28-30, 39-42—Two Crops Harvested
 
 ### Notes
 
-(Today’s notes are from a commentary on Matthew by Douglas Sean O’Donnell)	*The gospel brings joy to those who believe, but judgment to those who do not. … In fact, this theme of judgment is prevalent almost everywhere in Matthew where Jesus speaks in parables.
-But that is just the subtle stuff. There is nothing subtle about the endings of the Parable of the Weeds and the Parable of the Net. Both parables end with these same words, “and throw them into the fiery furnace. In that place, there will be weeping and gnashing of teeth”. …
-Now that’s judgment, and there is no way around it. But why are we always looking for a way around it? What is wrong with judgment? Why does judgment, when found on the lips of Jesus, get a bad rap? …
-When you wake up in the morning and open the newspaper and read what it reports—everything from terrorism to murder to sex scandals to kidnappings—don’t you long for justice? Don’t you long for a world made right? Don’t you long for the kingdom of heaven to reign on earth?
-Jesus will judge the world in righteousness. Jesus will also judge the church in righteousness.*
+(Today’s notes are from a commentary on Matthew by Douglas Sean O’Donnell)	*The gospel brings joy to those who believe, but judgment to those who do not. … In fact, this theme of judgment is prevalent almost everywhere in Matthew where Jesus speaks in parables.*
+
+*But that is just the subtle stuff. There is nothing subtle about the endings of the Parable of the Weeds and the Parable of the Net. Both parables end with these same words, “and throw them into the fiery furnace. In that place, there will be weeping and gnashing of teeth”. …*
+
+*Now that’s judgment, and there is no way around it. But why are we always looking for a way around it? What is wrong with judgment? Why does judgment, when found on the lips of Jesus, get a bad rap? …*
+
+*When you wake up in the morning and open the newspaper and read what it reports—everything from terrorism to murder to sex scandals to kidnappings—don’t you long for justice? Don’t you long for a world made right? Don’t you long for the kingdom of heaven to reign on earth?*
+
+*Jesus will judge the world in righteousness. Jesus will also judge the church in righteousness.*
 
 ### Swedish Method questions
 
