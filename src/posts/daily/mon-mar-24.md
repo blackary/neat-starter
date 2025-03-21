@@ -34,7 +34,7 @@ John 14:18–26, 1 Corinthians 3:9–17—The House for God’s Name is Jesus’
 
 ### Questions
 
-<div><small><i>(some read these before notes, then ask them after)</i></small></div>
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
 1. With whom does God make his home?
 2. Is God’s home Jesus or the church? Explain.
