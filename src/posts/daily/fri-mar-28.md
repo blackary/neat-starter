@@ -5,7 +5,7 @@ author: Ed Blackwood
 date: 2025-03-28T20:13:13.418Z
 weekly_post: mar-23-29-2025
 tags:
-  - 1 Kings
+  - 2 Kings
 type: daily
 ---
 ### *Listen up, little ones*
@@ -22,27 +22,27 @@ Listen for the words *her* and *she* and *son*.
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* God can’t be enclosed in his house—or even in all of heaven.
-* God hears his people’s prayers from heaven.
-* We should pray to God about all sorts of things.
+* Elisha was given food and a room to stay in.
+* Elisha prayed and this woman was given a son.
+* Elisha prayed and this woman’s son was raised back to life.
 
 ### Questions
 
-<div><small><i>(some read these before notes, then ask them after)</i></small></div>
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
-1. What do we want God to do when we pray?
-2. What sort of things might we ask God to do when we pray?
-3. Why pray?
+1. Why did the woman and her husband build a room for Elisha?
+2. Did the woman ask for a son? Explain.
+3. How did the dead son get raised back to life?
 
 ### Notes
 
-Solomon prays a long prayer at the dedication of God’s temple. This prayer, which takes over 5 minutes to read is a heartfelt plea to God to hear. Solomon asks the Lord God to see, to listen, and to hear his plea. Ellsworth states that *Solomon’s adoration of God abounds with meaning for us. It tells us that great praying is born in great awareness of the greatness of God. Such awareness is produced by feasting on the Word of God*.
+As Elisha was traveling, a woman from Shunem began showing great hospitality to him. She provided food for him and encouraged her husband to build a room for him so that he could stay when traveling. 
 
-In our morning worship at SRC we pray the prayer that Jesus taught his disciples to pray. In the prayers of invocation and intercession the elders often pray the words or the themes of the Bible. So, we can, having feasted on the Word of God, pray the word of God and the themes of the word of God. 
+This idea of a prophet’s chamber continues to this day. As Morris notes, *this sparsely furnished little room, built by a kindly woman and her elderly husband, was the prototype of all the so-called "prophet's chambers" that have been built for traveling teachers and evangelists ever since*. Though I am neither a prophet nor a son of a prophet, I have stayed in various prophet’s chambers in my life.
 
-Over and over in this prayer, Solomon asks God to hear. To hear when his people pray. To hear and judge. To hear and forgive. To hear and teach. To hear and save. To hear and protect. To hear and restore. God has promised to do those things. So, why pray? In fact, if God is the sovereign God who controls all things according to his will, why pray?
+In thanks for the woman’s kindness, Elisha seeks God’s favor for the woman to have a son. And she does—great joy! However, when still a boy working with his father, the boy falls severely sick and dies—great grief! She goes to Elisha in her grief, and he follows her to the house where the boy lies dead in Elisha’s bed. Elisha prays to Yahweh, the God who gives life. He then stretches out on the child and the boy is brought back to life—great joy!
 
-The answer, Ellsworth says, is that *God is the Father of his people and he delights, as any good father does, in his children coming to him and asking him for what he has promised. It gives him pleasure to hear the prayers of his children and to answer those prayers according to his unsearchable wisdom and his unfailing promises*.
+Inrig comments that *no explanation is given for some of these actions or why there were seven sneezes. But the miracle was not the result of Elisha’s technique; it happened because of God’s intervention*. Our God can indeed do great things!
 
 ### Swedish Method questions
 
@@ -52,10 +52,10 @@ The answer, Ellsworth says, is that *God is the Father of his people and he deli
 
 ### Praise
 
-P﻿salm 86a, 133a
+P﻿salm 113a, 133a
 
 ### Prayer
 
-1. Ask God to hear as you pray for what you want him to do.
+1. Give thanks to God that he can do great things.
 2. Pray for the hearing of God’s word preached this Sunday.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
