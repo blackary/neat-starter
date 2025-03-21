@@ -53,7 +53,7 @@ path: home
         </p>
         
         <div class="grid gap-6 md:grid-cols-2 lg:grid-cols-2 xl:gap-8">
-          {%- for post in collections.weekly | reverse | limit(4) -%}
+          {%- for post in collections.weekly | dateIsBeforeOrToday | reverse | limit(4) -%}
           <article
             class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 border border-gray-100"
           >
