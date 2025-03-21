@@ -2,8 +2,8 @@
 title: Fri Mar 28
 description: 2 Kings 4:8-37
 author: Ed Blackwood
-date: 2025-03-21T20:13:13.418Z
-weekly_post: mar-16-22-2025
+date: 2025-03-28T20:13:13.418Z
+weekly_post: mar-23-29-2025
 tags:
   - 1 Kings
 type: daily
