@@ -2,8 +2,8 @@
 title: Tue Mar 25
 description: John 16.23-33
 author: Ed Blackwood
-date: 2025-03-21T19:57:12.490Z
-weekly_post: mar-16-22-2025
+date: 2025-03-25T19:57:12.490Z
+weekly_post: mar-23-29-2025
 tags:
   - John
   - 1 Kings
