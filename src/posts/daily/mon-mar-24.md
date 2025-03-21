@@ -2,8 +2,8 @@
 title: Mon Mar 24
 description: John 14:18–26, 1 Corinthians 3:9–17
 author: Ed Blackwood
-date: 2025-03-21T19:49:02.320Z
-weekly_post: mar-16-22-2025
+date: 2025-03-24T19:49:02.320Z
+weekly_post: mar-23-29-2025
 tags:
   - John
   - 1 Corinthians
