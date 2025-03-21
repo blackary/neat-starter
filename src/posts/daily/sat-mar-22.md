@@ -1,44 +1,46 @@
 ---
-title: Sat Mar 22
-description: 1 Kings 8:54-66
+title: Sat Mar 29
+description: Psalm 124
 author: Ed Blackwood
-date: 2025-03-22T19:29:59.860Z
-weekly_post: mar-16-22-2025
+date: 2025-03-29T19:29:59.860Z
+weekly_post: mar-23-29-2025
 tags:
-  - 1 Kings
+  - Psalms
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words *Lord* and *offering*.
+Listen for the words *us* and *our*.
 
 ### Reading
 
-1 Kings 8:54-66—Blessing to God’s People
+Psalm 124—Unless the Lord Had Been on Our Side.
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* After praying, Solomon spoke God’s blessing on the people.
-* Solomon asked for God to bless his people.
-* This dedication of the temple took fifteen days!
+* God is on our side.
+* God’s people face troubles.
+* We bless the Lord for saving us.
 
 ### Questions
 
 <div><small><i>(some read these before notes, then ask them after)</i></small></div>
 
-1. Why do we want God to bless us?
-2. How do we sacrifice to God today?
-3. How did the people leave the assembly?
+1. What dangers does this Psalm speak of?
+2. How do we know if God is on our side?
+3. How did God rescue Jesus?
 
 ### Notes
 
-Why do we want God to bless us? Solomon ends his prayer at the dedication of God’s temple with a prayer for blessing. In this prayer for blessing, Inrig comments, *there are two requests in the Hebrew text: that God would dwell with his people so his people would live lives of obedience (vv. 57–58) and that God would hear Solomon’s prayer so Israel’s lifestyle would cause pagan nations to know that the Lord alone is God (vv. 59–60).*
+(Today’s notes are from a commentary on the Psalms by Christopher Ash)	*We do not, cannot, and are not meant to know what episode in David’s life first prompted the psalm. …This song, writes Ernst Wilhelm Hengstenberg, is “useful to the church of all ages in similar circumstances.”*
 
-Aren’t those things reasons why we want God to bless us as well? We long to live lives of obedience and the blessing of God and his answer to our prayers are a help to us in our obedience. We also want non-Christians to become Christians. God blesses us so that non-Christians will see God’s blessing and desire to know this God. In response to this blessing, Solomon and all Israel offered sacrifices to God. Similarly, we, in view of the mercies of God, present our bodies as a living sacrifice, holy and pleasing to God; this is our true worship (see Romans 12:1).
+*David experienced many narrow escapes (e.g., 1 Sam. 21:1–23:29; 2 Sam. 5:17–25; Ps. 60). Other escapes for the church of God, before and after David, include (1) Noah (Gen. 6–9, linking with imagery of floodwaters in the psalm), (2) the exodus (Ex. 14–15), (3) Hezekiah’s Jerusalem (Isa. 36–37), (4) return from Babylonian exile (a second exodus from a captivity that threatened the existence of the church), (5) the book of Esther, and (6) the postexilic community under attack (Neh. 4:7–23).*
+
+*All these prepare us for the life of faith lived for us by Jesus, who experienced many escapes from danger (e.g., Luke 4:30; John 7:32, 45–46; 8:59; 10:39) and then one final astonishing escape, from death itself, in the resurrection. Jesus is the true Israel who sings this psalm (“Let Israel now say,” Ps. 124:1). As our federal head, he now leads his church in celebrating the greatest of escapes, from sin and death itself, and in rejoicing whenever God grants to Christ’s people any escape from a danger that threatens the church*.
 
 ### Swedish Method questions
 
@@ -48,10 +50,10 @@ Aren’t those things reasons why we want God to bless us as well? We long to li
 
 ### Praise
 
-P﻿salm 134b, 133a
+P﻿salm 124, 133a
 
 ### Prayer
 
-1. Ask God to bless you and use your gospel witness.
+1. Thank the Lord that he is on our side.
 2. Pray for the reading and preaching of God’s word tomorrow.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
