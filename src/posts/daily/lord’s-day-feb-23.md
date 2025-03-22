@@ -52,6 +52,8 @@ The daily readings in this household worship guide have a few questions. However
 
 Psalm 3b, 119r, 8b, 110b, 97c, 39b, 119b
 
+<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
+
 ### Prayer
 
 1. Pray that you would hide the word read and preached in your hearts, and bring forth its fruit in your lives.
