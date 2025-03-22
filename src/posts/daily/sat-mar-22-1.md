@@ -2,7 +2,7 @@
 title: Sat Mar 22
 description: 1 Kings 8:54-66
 author: Ed Blackwood
-date: 2025-03-23T02:21:02.390Z
+date: 2025-03-22T07:21:02.390Z
 weekly_post: mar-16-22-2025
 tags:
   - 1 Kings
