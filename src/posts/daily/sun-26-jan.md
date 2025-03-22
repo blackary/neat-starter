@@ -1,5 +1,5 @@
 ---
-title: Sun 26 Jan
+title: Lord's Day 26 Jan
 description: Joshua 5
 author: Ed Blackwood
 date: 2025-01-26T07:00:00.000Z
@@ -51,6 +51,8 @@ The daily readings in this household worship guide have a few questions. However
 ### Praise (any or all)
 
 Psalm 46c, 1a, 91a, 24a, 63a, 78d, 104c
+
+<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
 ### Prayer
 
