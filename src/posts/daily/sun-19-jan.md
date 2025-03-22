@@ -1,5 +1,5 @@
 ---
-title: Sun 19 Jan
+title: Lord's Day 19 Jan
 description: Isaiah 7:1-16, 1 Timothy 1:15-17
 author: Ed Blackwood
 date: 2025-01-19T07:36:42.282Z
@@ -51,6 +51,8 @@ The daily readings in this household worship guide have a few questions. However
 ### Praise (any or all)
 
 Psalm Psalm  115b, 127a, 1a, 30b, 125, 145a, 119n, 98b
+
+<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
 ### Prayer
 
