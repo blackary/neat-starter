@@ -52,7 +52,7 @@ The daily readings in this household worship guide have a few questions. However
 
 Psalm 84a, 127a, 133a, 86a, 84b, 50a, 85b, 89c
 
-<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see [psalter.org](https://psalter.org/sing/psalter?psalter_in=worship))</i></small></div>
+<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
 ### Prayer
 
