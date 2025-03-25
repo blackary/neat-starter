@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  1 Kings 8—A House for My Name
+**AM Sermon**:  [1 Kings 8—A House for My Name](https://www.sermonaudio.com/sermons/32425213031645)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)1 Kings 8:10-13—The Glory of the LORD Filled the Temple
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)[1 Kings 8:10-13—The Glory of the LORD Filled the Temple](https://www.sermonaudio.com/sermons/32425213773545)
 
 ### Discuss one or more of these questions
 
