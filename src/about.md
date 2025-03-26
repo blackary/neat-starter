@@ -30,7 +30,7 @@ Read, pray, repeat.
 
 Dr. Edwin (Ed) Blackwood attended the <a href="https://rpts.edu/"  target="_blank">Reformed Presbyterian Theological Seminary</a> for both his MDiv (1991) and his DMin (2025). He has been ordained as a pastor in the <a href="https://reformedpresbyterian.org/"  target="_blank">Reformed Presbyterian Church of North America</a> since 1992. 
 
-He has a passion for helping families discover the joy of worshiping together. Through *Worship Connected*, he provides weekly Bible reading plans and resources designed specifically for *household worship* (often called *family devotions*) that are connected to the preaching texts of the weekly congregational worship.
+He has a passion for helping families discover the joy of worshiping together. Through *Worship Connected*, he provides weekly Bible reading plans and resources designed specifically for *household worship* (often called *family devotions*) that are connected to the preaching texts of the weekly congregational worship. To hear more about Ed's idea of *Worship Connected* you [can go here](https://gentlereformation.com/2025/03/10/episode-330-worship-connected-with-ed-blackwood/): 
 
 He would love to connect with ***your pastor*** to encourage him to develop such a weekly guide.
 
