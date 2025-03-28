@@ -2,8 +2,8 @@
 title: Wed Apr 2
 description: Romans 8:31-39
 author: Ed Blackwood
-date: 2025-03-28T18:28:41.943Z
-weekly_post: mar-23-29-2025
+date: 2025-04-02T18:28:41.943Z
+weekly_post: mar-30-apr-5-2025
 tags:
   - Romans
   - Psalms
