@@ -2,8 +2,8 @@
 title: Mon Mar 31
 description: Luke 4:14-30
 author: Ed Blackwood
-date: 2025-03-28T18:17:23.413Z
-weekly_post: mar-23-29-2025
+date: 2025-03-31T18:17:23.413Z
+weekly_post: mar-30-apr-5-2025
 tags:
   - Luke
   - 2 Kings
