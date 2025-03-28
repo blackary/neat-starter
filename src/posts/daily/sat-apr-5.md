@@ -2,7 +2,7 @@
 title: Sat Apr 5
 description: 1 Corinthians 11:23-34—He took the bread and blessed it
 author: Ed Blackwood
-date: 2025-03-28T20:12:33.844Z
+date: 2025-04-05T20:12:33.844Z
 weekly_post: mar-30-apr-5-2025
 tags:
   - 1 Corinthians
