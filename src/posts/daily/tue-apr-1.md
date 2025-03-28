@@ -2,8 +2,8 @@
 title: Tue Apr 1
 description: John 16.23-33
 author: Ed Blackwood
-date: 2025-03-28T18:22:44.860Z
-weekly_post: mar-23-29-2025
+date: 2025-04-01T18:22:44.860Z
+weekly_post: mar-30-apr-5-2025
 tags:
   - John
   - 2 Kings
