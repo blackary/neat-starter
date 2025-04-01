@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)2 Kings 4—Once Upon Elisha’s Time
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)[2 Kings 4—Once Upon Elisha’s Time](https://www.sermonaudio.com/sermons/41251910433652)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/217251850594243)[](https://www.sermonaudio.com/sermons/32425213773545)(Psalm 124 Joint Service at BFRC)
+**PM Sermon**:  [Psalm 124—On Our Side (Joint Service at BFRC)](https://www.sermonaudio.com/sermons/33125055182323)
 
 ### Discuss one or more of these questions
 
