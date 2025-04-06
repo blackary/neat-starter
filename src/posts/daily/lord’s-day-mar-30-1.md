@@ -2,8 +2,8 @@
 title: Lord’s Day  Mar 30
 description: 1 Chronicles 1
 author: Ed Blackwood
-date: 2025-04-06T00:06:48.010Z
-weekly_post: mar-30-apr-5-2025
+date: 2025-04-07T00:06:48.010Z
+weekly_post: apr-6-12-2025
 tags:
   - 1 Chronicles
 type: daily
