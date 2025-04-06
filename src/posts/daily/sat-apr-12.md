@@ -2,7 +2,7 @@
 title: Sat Apr 12
 description: 2 Chronicles 36:22-23
 author: Ed Blackwood
-date: 2025-04-13T00:27:10.045Z
+date: 2025-04-12T06:00:10.045Z
 weekly_post: apr-6-12-2025
 tags:
   - 2 Chronicles
