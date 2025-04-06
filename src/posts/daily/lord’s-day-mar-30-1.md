@@ -1,5 +1,5 @@
 ---
-title: Lord’s Day  Mar 30
+title: Lord’s Day  Apr 6
 description: 1 Chronicles 1
 author: Ed Blackwood
 date: 2025-04-07T00:06:48.010Z
