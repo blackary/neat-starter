@@ -2,7 +2,7 @@
 title: Thu Apr 10
 description: 2 Chronicles 36:1-14
 author: Ed Blackwood
-date: 2025-04-10T12:20:20.082Z
+date: 2025-04-10T06:00:20.082Z
 weekly_post: apr-6-12-2025
 tags:
   - 2 Chronicles
