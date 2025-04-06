@@ -2,7 +2,7 @@
 title: Lord’s Day  Apr 6
 description: 1 Chronicles 1
 author: Ed Blackwood
-date: 2025-04-07T00:05:48.010Z
+date: 2025-04-06T06:00:48.010Z
 weekly_post: apr-6-12-2025
 tags:
   - 1 Chronicles
