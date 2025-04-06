@@ -2,7 +2,7 @@
 title: Wed Apr 9
 description: Romans 5:12–21
 author: Ed Blackwood
-date: 2025-04-10T00:16:43.424Z
+date: 2025-04-09T06:00:43.424Z
 weekly_post: apr-6-12-2025
 tags:
   - Romans
