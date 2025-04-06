@@ -2,7 +2,7 @@
 title: Fri Apr 11
 description: 2 Chronicles 36:15–21
 author: Ed Blackwood
-date: 2025-04-12T00:24:24.364Z
+date: 2025-04-11T12:24:24.364Z
 weekly_post: apr-6-12-2025
 tags:
   - 2 Chronicles
