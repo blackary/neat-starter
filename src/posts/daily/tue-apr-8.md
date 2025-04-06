@@ -2,7 +2,7 @@
 title: Tue Apr 8
 description: Revelation 20:11-15
 author: Ed Blackwood
-date: 2025-04-09T00:13:25.718Z
+date: 2025-04-08T06:00:25.718Z
 weekly_post: apr-6-12-2025
 tags:
   - Revelation
