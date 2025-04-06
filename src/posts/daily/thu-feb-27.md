@@ -3,7 +3,7 @@ title: Thu Feb 27
 description: 2 Samuel 7:1–17
 author: Ed Blackwood
 date: 2025-02-27T21:39:11.688Z
-weekly_post: feb-23-mar-2025
+weekly_post: feb-23-mar-1-2025
 tags:
   - 2 Samuel
 type: daily
