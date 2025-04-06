@@ -2,7 +2,7 @@
 title: Mon Apr 7
 description: Luke 3:23–38
 author: Ed Blackwood
-date: 2025-04-08T00:07:32.432Z
+date: 2025-04-07T06:00:32.432Z
 weekly_post: apr-6-12-2025
 tags:
   - 1 Chronicles
