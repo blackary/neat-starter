@@ -24,7 +24,7 @@ Listen for the names *Adam* and *Noah*.
 
 * This chapter begins with 10 names—Adam to Noah.
 * We know more about Noah, Methuselah, Enoch, and Adam.
-* In his grace, Adam undid what Adam did in his sin.
+* In his grace, Jesus undid what Adam did in his sin.
 
 ### Questions
 
