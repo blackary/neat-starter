@@ -42,12 +42,12 @@ Noami, bitter and empty, decides to return to Bethlehem. She had heard there was
 
 But Ruth said, No. Don’t ask me to go back; I will go with you. And she speaks these sweet and deep words of committed love:
 
-*Where you go, I will go
-where you live, I will live; 
-your people will be my people, 
-your God will be my God. 
-Where you die, I will die, 
-there I will be buried.* 
+*Where you go, I will go<br>
+where you live, I will live; <br>
+your people will be my people, <br>
+your God will be my God. <br>
+Where you die, I will die, <br>
+there I will be buried.<br>* 
 
 These beautiful covenant words of commitment, though said from a daughter-in-law to her mother-in-law, are used often as part of wedding vows.
 
