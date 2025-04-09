@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)1 Chronicles 1—Written in God’s Book
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)[1 Chronicles 1—Written in God’s Book](https://www.sermonaudio.com/sermons/47251830374154)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)1 Chronicles 1:1-4—Sons of Adam
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[1 Chronicles 1:1-4—Sons of Adam](https://www.sermonaudio.com/sermons/4725184328358)
 
 ### Discuss one or more of these questions
 
