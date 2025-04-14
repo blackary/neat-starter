@@ -2,8 +2,8 @@
 title: Sat Apr 19
 description: 2 Timothy 3:14-17
 author: Ed Blackwood
-date: 2025-04-14T12:40:30.257Z
-weekly_post: apr-6-12-2025
+date: 2025-04-19T12:40:30.257Z
+weekly_post: apr-13-19-2025
 tags:
   - 2 Timothy
 type: daily
