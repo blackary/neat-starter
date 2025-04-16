@@ -21,7 +21,7 @@ Mark 9:43–50—Cut it off!
 
 ### O﻿ptional Reading
 
-1 Samu 17:50-58
+1 Samuel 17:50-58
 
 ### *Keys for kids*
 
