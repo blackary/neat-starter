@@ -21,7 +21,7 @@ Hebrews 2:10–18—The Captain of our Salvation
 
 ### O﻿ptional Reading
 
-Optional Reading 1 Samu 17:23-54el
+Optional Reading 1 Samuel 17:23-54
 
 ### *Keys for kids*
 
