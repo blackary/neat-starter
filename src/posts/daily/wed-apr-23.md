@@ -3,7 +3,7 @@ title: Wed Apr 23
 description: 2 Timothy 3:14-17
 author: Ed Blackwood
 date: 2025-04-23T13:21:07.080Z
-weekly_post: apr-20-26-2025-1
+weekly_post: apr-20-26-2025
 tags:
   - 2 Timothy
 type: daily
