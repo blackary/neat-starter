@@ -3,7 +3,7 @@ title: Thu Apr 24
 description: Psalm 78:1-8
 author: Ed Blackwood
 date: 2025-04-24T13:23:28.398Z
-weekly_post: apr-20-26-2025
+weekly_post: apr-20-26-2025-1
 tags:
   - Psalms
   - 2 Chronicles
