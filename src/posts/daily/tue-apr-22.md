@@ -3,7 +3,7 @@ title: Tue Apr 22
 description: Philippians 2:9-11—The Exaltation of Christ
 author: Ed Blackwood
 date: 2025-04-22T13:18:14.837Z
-weekly_post: apr-20-26-2025
+weekly_post: apr-20-26-2025-1
 tags:
   - Philippians
 type: daily
