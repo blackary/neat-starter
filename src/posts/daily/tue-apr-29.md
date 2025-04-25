@@ -2,8 +2,8 @@
 title: Tue Apr 29
 description: 1 Thessalonians 1:2–10
 author: Ed Blackwood
-date: 2025-04-25T19:35:03.765Z
-weekly_post: apr-20-26-2025
+date: 2025-04-29T10:35:03.765Z
+weekly_post: apr-27-may-3-2025
 tags:
   - 1 Thessalonians
   - 2 Chronicles
