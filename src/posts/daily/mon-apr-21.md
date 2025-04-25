@@ -3,7 +3,7 @@ title: Mon Apr 21
 description: Philippians 2:6-8
 author: Ed Blackwood
 date: 2025-04-21T13:14:48.525Z
-weekly_post: apr-20-26-2025-1
+weekly_post: apr-20-26-2025
 tags:
   - Philippians
 type: daily
