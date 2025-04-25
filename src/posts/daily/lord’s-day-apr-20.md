@@ -3,7 +3,7 @@ title: Lord’s Day  Apr 20
 description: Philippians 2, 2 Timothy 3
 author: Ed Blackwood
 date: 2025-04-20T13:13:20.482Z
-weekly_post: apr-20-26-2025
+weekly_post: apr-20-26-2025-1
 tags:
   - Philippians
   - 2 Timothy
