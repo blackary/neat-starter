@@ -2,8 +2,8 @@
 title: Sat May 3
 description: 1 Corinthians 11:23-34
 author: Ed Blackwood
-date: 2025-04-25T20:05:38.562Z
-weekly_post: apr-20-26-2025
+date: 2025-05-03T16:05:38.562Z
+weekly_post: apr-27-may-3-2025
 tags:
   - 1 Corinthians
 type: daily
