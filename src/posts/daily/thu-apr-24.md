@@ -15,7 +15,7 @@ For Sermon prep / review notes: [worshipconnected.org/posts/daily/thu-apr-10](ht
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-words fathers and children.
+Listen for the words fathers and children.
 
 ### Reading
 
