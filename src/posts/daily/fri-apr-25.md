@@ -2,8 +2,8 @@
 title: Fri May 2
 description: Ezra 1:5–11
 author: Ed Blackwood
-date: 2025-04-25T13:29:04.058Z
-weekly_post: apr-20-26-2025
+date: 2025-05-02T13:29:04.058Z
+weekly_post: apr-27-may-3-2025
 tags:
   - Ezra
 type: daily
