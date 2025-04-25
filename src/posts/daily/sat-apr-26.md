@@ -3,7 +3,7 @@ title: Sat Apr 26
 description: Exodus 20:8–11, Deuteronomy 5:12–15
 author: Ed Blackwood
 date: 2025-04-26T13:34:05.590Z
-weekly_post: apr-20-26-2025-1
+weekly_post: apr-20-26-2025
 tags:
   - Exodus
   - Deuteronomy
