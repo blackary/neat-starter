@@ -3,7 +3,7 @@ title: Fri Apr 25
 description: 1 Thessalonians 2:1–13
 author: Ed Blackwood
 date: 2025-04-25T13:29:04.058Z
-weekly_post: apr-20-26-2025-1
+weekly_post: apr-20-26-2025
 tags:
   - 1 Thessalonians
 type: daily
