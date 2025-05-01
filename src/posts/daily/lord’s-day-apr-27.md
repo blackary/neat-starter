@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)2 Chronicles 36—In Wrath Remember Mercy
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/32425213031645)[2 Chronicles 36—In Wrath Remember Mercy](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)2 Chronicles 36:18–19--They Burned the House of God
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[2 Chronicles 36:18–19--They Burned the House of God](https://www.sermonaudio.com/sermons/42925030211933)
 
 ### Discuss one or more of these questions
 
