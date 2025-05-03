@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *discipline*.
+Listen for the word *anointed*.
 
 ### Reading
 
