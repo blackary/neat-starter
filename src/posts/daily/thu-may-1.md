@@ -1,44 +1,48 @@
 ---
-title: Thu May 1
-description: Ezra 1:1-4
+title: Thu May 8
+description: Nehemiah 8:1-8
 author: Ed Blackwood
-date: 2025-05-01T12:46:29.114Z
-weekly_post: apr-27-may-3-2025
+date: 2025-05-08T12:46:29.114Z
+weekly_post: may-4-10-2025
 tags:
-  - Ezra
+  - Nehemiah
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the name *Cyrus*.
+Listen for the words *book* and *law*.
 
 ### Reading
 
-Ezra 1:1-4—Cyrus, God’s Anointed Servant
+Nehemiah 8:1-8—Listening Attentively to the Word Preached
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* Cyrus was king of Persia who defeated Babylon.
-* Isaiah spoke of Cyrus, by name, 100 years before Cyrus was born.
-* God can use sinners to carry out his will.
+* The people wanted to hear the Bible.
+* Ezra read the Word of God to them for hours!
+* Ezra and his helpers explained the Bible as well.
 
 ### Questions
 
 <div><small><i>(some read these before notes, then ask them after)</i></small></div>
 
-1. What do we know about Cyrus from the Bible?
-2. What did Cyrus do here for the Jewish people?
-3. How can God use sinners to do his will?
+1. What did the people want Ezra to bring out?
+2. How can you listen attentively to the Bible read and preached?
+3. How should we respond to the word read and preached?
 
 ### Notes
 
-As we noted earlier, the end of 2 Chronicles and the beginning of Ezra are nearly identical, word-for-word. This Cyrus is, as Ezra notes, the king of Persia. God brought Babylon to take the people into captivity for their rebellion against Him. When King Cyrus of Persia conquered Babylon in 538 B.C., he issued a proclamation that the Jewish people could return to their homeland and rebuild God’s house. Evers notes that *the journey to Judah was the outcome of a decree issued by the Persian king, Cyrus, but behind this edict was the plan of the sovereign God, who was preparing the Jewish race for the coming of Christ, the Saviour of the world*.
+In Nehemiah we have the continuation of the resettlement of the exiles from Babylon to Jerusalem. While Ezra focuses on rebuilding the temple, Nehemiah focuses on re-building the wall around Jerusalem. Now that the wall was completed (6:15) we find the people gathered for an hour of worship. No, that’s not right. They gathered for a day of worship. No, that’s not right either. We read in Nehemiah 8 that they gathered for a week of worship! (Although our text only covers the first 6 or so hours of that worship.)
 
-So, other than the King of Persia, who is this Cyrus? We first encounter him here and at the end of Chronicles. He interacts with the rebuilding Jews throughout Ezra. The prophets Isaiah and Daniel also speak of Him. Isaiah, however, speaks of Cyrus, by name, some 100 years before his birth! This unbelieving king is called by God through Isaiah “my shepherd” and “the LORD’s anointed.” Unbelievable! Both that Isaiah called him by name generations before he was born and that the almighty God would use an unbeliever in this way. But God did. So we must believe it!
+The people asked Ezra to bring The Book. As Ezra and his assistants read and explained the Law of God, the people listened attentively and worshipfully. They wanted to hear and understand.
+
+We need this message in our day, as well. Brown notes that *western materialistic culture has become increasingly indifferent to the Bible. ... Of the 700 people interviewed in connection with a recent survey (30 years ago, likely worse today), only 15% were committed to day-by-day Bible reading. …Almost 40% indicated that they read the Bible at home only once a year or less. Committed Christians who neglect the privilege and discipline of daily Bible reading are severing their links with vital spiritual resources*. Worship Connected seeks to encourage daily household worship and connect that reading with the weekly sermons of our church.
+
+Might we be people who delight to bring out the Book, read it, listen attentively to it preached, hide it in our hearts and bring forth its fruit, with God’s help, in our lives.
 
 ### Swedish Method questions
 
@@ -48,10 +52,10 @@ So, other than the King of Persia, who is this Cyrus? We first encounter him her
 
 ### Praise
 
-Psalm 5a, 84a
+Psalm 119m, 84a
 
 ### Prayer
 
-1. Thank God for his sovereignty even over sinners.
+1. Ask God to give you a hunger and thirst for His Word.
 2. Pray for the preparation for preaching God’s word this Sunday.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
