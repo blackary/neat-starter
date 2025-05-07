@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Ezra 1—God’s Anointed Servant[](https://www.sermonaudio.com/sermons/32425213031645)[2 Chronicles 36—In Wrath Remember Mercy](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [Ezra 1—God’s Anointed Servant](https://www.sermonaudio.com/sermons/5625193203833)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)Ezra 1:5–8—Spirits Stirred Up by God
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[Ezra 1:5–8—Spirits Stirred Up by God](https://www.sermonaudio.com/sermons/56251936404205)
 
 ### Discuss one or more of these questions
 
