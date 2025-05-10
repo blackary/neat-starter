@@ -61,7 +61,7 @@ P﻿salm 119e, 84a
 
 ### Prayer
 
-1. Rejoice that Jesus is the Lord’s Anointed One.
+1. Ask God to help you love his word and see Jesus in it.
 2. Pray for a specific application from yesterday's sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
 
