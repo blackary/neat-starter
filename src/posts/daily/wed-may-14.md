@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *church*.
+Listen for the words *him* and *joy*.
 
 ### Reading
 
