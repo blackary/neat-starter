@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Nehemiah 8—Bring the Book[](https://www.sermonaudio.com/sermons/5625193203833)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [Nehemiah 8—Bring the Book](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/5625193203833)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)Nehemiah 8:10-12—The Joy of the Lord is Your Strength
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[Nehemiah 8:10-12—The Joy of the Lord is Your Strength](https://www.sermonaudio.com/sermons/513251921222642)
 
 ### Discuss one or more of these questions
 
