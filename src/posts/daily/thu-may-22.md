@@ -20,7 +20,7 @@ Job 38:1-15—Who?
 
 ### Optional Reading
 
-Reading Job 37-42
+Job 37-42
 
 ### *Keys for kids*
 
