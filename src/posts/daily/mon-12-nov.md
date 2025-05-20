@@ -1,5 +1,5 @@
 ---
-title: Mon 12 Nov
+title: Tue 12 Nov
 description: Luke 24:30-53
 author: Ed Blackwood
 date: 2024-11-12T19:28:04.209Z
