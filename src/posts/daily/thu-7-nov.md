@@ -1,30 +1,30 @@
 ---
-title: Thu 7 Nov
-description: Luke 24:13-33
+title: Mon 11 Nov
+description: Luke 24:13-35
 author: Ed Blackwood
-date: 2024-11-07T21:17:22.533Z
-weekly_post: 3-9-nov-2024
+date: 2024-11-11T19:17:22.533Z
+weekly_post: 10-16-nov-2024
 tags:
   - Luke
 type: daily
 ---
 ### Reading
 
-Luke 24:13-33 – Jesus in all the Scriptures.
+Luke 24:13-35 – Burning Hearts
 
 ### Notes
 
-For the New Testament writers, with only one possible exception, the Scriptures means to them what we call the Old Testament. If the Lord is willing, over the next several months, we will be considering Christ in the Old Testament. My plan is to preach each week from a chapter in each book in the Old Testament looking for Christ. Why would we do that? Because, as we read in v. 27, Jesus tells us that the Scriptures all speak of him.
+How do you react to the reading of the Bible? Is it ordinary or explosive? More of the same—or something new and exciting? Information to think about? Or news to change who you are and how you live? We should all hope that it is explosive, new and exciting, and that it changes us—every time. But we know that it isn’t always and doesn’t always. For these two disciples, their encounter with the risen Jesus and their understanding of the Scriptures from his explanation left their hearts burning. 
 
-But rather than starting in Genesis, we will start here in Luke 24. On his resurrection day, Jesus appeared to these two disciples, Cleopas and another unnamed disciple, as they walked from Jerusalem to Emmaus. These two were, as many of Jesus’s disciples, downcast and confused. We thought he was the king. Now he’s dead. But there are some rumors that he’s alive. What in the world is going on?!
+Bock comments, *with a flame relit in their hearts, they return to the gathering of disciples in Jerusalem. The news is too good to keep to themselves. To know Jesus is to be thrilled at the prospect of sharing news of him with others*.
 
-For most of the encounter, these two discipled didn’t recognize Jesus. As they explained their sorrow and confusion, Jesus rebuked them and then explained to them the Scriptures about himself. Hughes suggests that *If there is anything that would make a preacher swell with envy, this is it! This was exegetical Heaven! The root idea of “explained” is the word from which we derive the word hermeneutics, the science of Bible interpretation. The Word of God incarnate explained the written Word of God*. Might we swell with love for our Savior as we search for him in all the Scriptures!
+Our Westminster Larger Catechism asks this question: Q160.	*What is required of those who hear the word preached*? And answers this way: 	*It is required of those who hear the word preached that they attend on it with diligence, preparation and prayer; examine by the Scriptures what they hear; receive the truth with faith, love, meekness and readiness of mind as the word of God; meditate on and discuss it; hide it in their hearts, and bring forth its fruit in their lives.* Might we respond this way, with the Lord’s help. Oh, that Jesus would, by his Spirit, leave our hearts burning every time we consider his word.
 
 ### Questions
 
-1. Why were these two disciples sad and confused?
-2. What did Jesus think they should have already understood?
-3. Where can we find Jesus in the Bible?
+1. How do you react to the reading and preaching of the Bible?
+2. What do you think caused these 2 disciples to recognize Jesus?
+3. What Bible accounts can you think of that thrill your heart?
 
 ### Swedish Method questions
 
@@ -34,10 +34,10 @@ For most of the encounter, these two discipled didn’t recognize Jesus. As they
 
 ### Praise
 
-P﻿salm 72e, 119q
+P﻿salm 27d, 119q
 
 ### Prayer
 
-1. Ask Jesus to open your eyes to see him in all of the Bible.
-2. Pray for the preparation for preaching God’s word this Sunday.
+1. Ask God to give you a heart burning toward his word.
+2. Pray for a specific application from yesterday’s sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
