@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Esther 6-7—You’ve Got the Wrong Man![](https://www.sermonaudio.com/sermons/5625193203833)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Esther 6-7—The Invisible God at Work](https://www.sermonaudio.com/sermons/51925172083417)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[](https://www.sermonaudio.com/sermons/513251921222642)Esther 7:3—If I Have Found Favor in Your Sight…
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[](https://www.sermonaudio.com/sermons/513251921222642)[Esther 7:3—If I Have Found Favor in Your Sight…](https://www.sermonaudio.com/sermons/519252043471470)
 
 ### Discuss one or more of these questions
 
