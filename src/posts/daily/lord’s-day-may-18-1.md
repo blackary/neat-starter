@@ -1,5 +1,5 @@
 ---
-title: Lord’s Day  May 18
+title: Lord’s Day  May 25
 description: Job 38, Exodus 19,20
 author: Ed Blackwood
 date: 2025-05-25T11:06:55.823Z
@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Job 38:1-15—Who?[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Job 38:1-15—Who?](https://www.sermonaudio.com/sermons/527251945195318)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[](https://www.sermonaudio.com/sermons/513251921222642)Exodus 19:9-25; 20:1-2, 18-21—Attend to the Hearing of the Word
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[](https://www.sermonaudio.com/sermons/513251921222642)[Exodus 19:9-25; 20:1-2, 18-21—Attend to the Hearing of the Word](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
