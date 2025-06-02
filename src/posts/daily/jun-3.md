@@ -3,7 +3,7 @@ title: Tue Jun 3
 description: 1 Corinthians 15:50-58
 author: Ed Blackwood
 date: 2025-06-02T13:34:42.224Z
-weekly_post: may-25-31-2025
+weekly_post: jun-1-7-2025
 tags:
   - 1 Corinthians
   - Job
