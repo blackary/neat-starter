@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the names *Jesus* and *Pilate*.
+Listen for the words *blind* and *sinned*.
 
 ### Reading
 
