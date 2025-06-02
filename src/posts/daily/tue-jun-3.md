@@ -2,7 +2,7 @@
 title: Tue Jun 3
 description: 1 Corinthians 15:50-58
 author: Ed Blackwood
-date: 2025-06-02T13:34:42.224Z
+date: 2025-06-03T13:34:42.224Z
 weekly_post: jun-1-7-2025
 tags:
   - 1 Corinthians
