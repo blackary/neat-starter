@@ -2,7 +2,7 @@
 title: Fri Jun 6
 description: Psalm 1
 author: Ed Blackwood
-date: 2025-06-02T13:54:27.408Z
+date: 2025-06-06T13:54:27.408Z
 weekly_post: jun-1-7-2025
 tags:
   - Psalms
