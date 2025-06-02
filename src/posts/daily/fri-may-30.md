@@ -2,7 +2,7 @@
 title: Fri May 30
 description: Job 19:23-29
 author: Ed Blackwood
-date: 2025-06-06T11:28:38.907Z
+date: 2025-05-30T11:28:38.907Z
 weekly_post: may-25-31-2025
 tags:
   - Job
