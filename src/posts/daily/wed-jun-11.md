@@ -51,7 +51,7 @@ So they ask this powerful God to give them more of the boldness they had already
 
 ![](/static/img/family_worship_study_ed-swedish_questions.png)
 
-<div><small><i>See the Sunday reading for meaning of the symbols.</i></small></div>
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
 
 ### Praise
 
