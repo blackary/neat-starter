@@ -12,7 +12,7 @@ type: daily
 
 **AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/62251848453229)Psalm 1—Two Ways to Live[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  Psalm 2—Kiss the Son[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/4725184328358)[](https://www.sermonaudio.com/sermons/42925030211933)[](https://www.sermonaudio.com/sermons/56251936404205)[](https://www.sermonaudio.com/sermons/513251921222642)[Job 19:13-22—A True Friend](https://www.sermonaudio.com/sermons/622519287883)[](https://www.sermonaudio.com/sermons/52725202474549)
+**PM Sermon**:  Psalm 2—Kiss the Son[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
