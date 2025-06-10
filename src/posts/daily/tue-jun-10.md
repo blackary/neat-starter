@@ -53,7 +53,7 @@ As we love and obey Jesus, we see and show Jesus in us. As we love and obey Jesu
 
 ![](/static/img/family_worship_study_ed-swedish_questions.png)
 
-<div><small><i>See the Sunday reading for meaning of the symbols.</i></small></div>
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
 
 ### Praise
 
