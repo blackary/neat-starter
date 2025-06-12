@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/62251848453229)Psalm 1—Two Ways to Live[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/62251848453229)[Psalm 1—Two Ways to Live](https://www.sermonaudio.com/sermons/61125223434058)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  Psalm 2—Kiss the Son[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
+**PM Sermon**:  [Psalm 2—Kiss the Son](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
