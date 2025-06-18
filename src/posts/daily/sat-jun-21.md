@@ -16,7 +16,7 @@ Listen for the word *blind*.
 
 ### Reading
 
-Proverbs 1:20-33—Wisdom Calls Out in the Street
+Mark 10:46-52—Blind Bartimaeus
 
 ### *Keys for kids*
 
