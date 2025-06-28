@@ -2,8 +2,8 @@
 title: Lord’s Day Jun 29
 description: Ecclesiastes 1
 author: Ed Blackwood
-date: 2025-06-22T17:07:12.272Z
-weekly_post: jun-22-28-2025
+date: 2025-06-29T17:07:12.272Z
+weekly_post: jun-29-jul-5-2025
 tags:
   - Ecclesiastes
 type: daily
