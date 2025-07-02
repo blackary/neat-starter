@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Ecclesiastes 1 Under the Sun[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Ecclesiastes 1 Under the Sun](https://www.sermonaudio.com/sermons/630251749445070)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Ecclesiastes 1:12-14 Is It an Unhappy Business?[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[Ecclesiastes 1:12-14 Is It an Unhappy Business?](https://www.sermonaudio.com/sermons/63025184117381)[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
