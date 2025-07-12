@@ -2,8 +2,8 @@
 title: Wed Jul 16
 description: John 19:16-30
 author: Ed Blackwood
-date: 2025-07-12T15:49:04.421Z
-weekly_post: jul-6-12-2025
+date: 2025-07-16T15:49:04.421Z
+weekly_post: jul-13-19-2025
 tags:
   - John
   - Isaiah
