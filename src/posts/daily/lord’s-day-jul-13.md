@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/77251926561452)Isaiah 53 Our Sin, On Him[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/71425185912667)[Isaiah 53 Our Sin, On Him](https://www.sermonaudio.com/sermons/71425185912667)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/63025184117381)[](https://www.sermonaudio.com/sermons/7725193715261)Isa 52_13-15 Our Successful, Suffering, Sprinkling, Servant Savior[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/714251913376566)[](https://www.sermonaudio.com/sermons/714251913376566)[Isaiah 52:13-15 Our Successful, Suffering, Sprinkling, Servant Savior](https://www.sermonaudio.com/sermons/714251913376566)[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
