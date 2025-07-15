@@ -10,7 +10,7 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/77251926561452)Song of Solomon 1—My Beloved is Mine, and I am His[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/77251926561452)[Song of Solomon 1—My Beloved is Mine, and I am His](https://www.sermonaudio.com/sermons/77251926561452)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
 **PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/63025184117381)[Song of Solomon 8:6-7—Keep Loving](https://www.sermonaudio.com/sermons/7725193715261)[](https://www.sermonaudio.com/sermons/33125055182323)[](https://www.sermonaudio.com/sermons/52725202474549)
 
