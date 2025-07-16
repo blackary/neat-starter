@@ -2,7 +2,7 @@
 title: Thu Jul 24
 description: James 1:22-25
 author: Ed Blackwood
-date: 2025-07-23T17:19:53.267Z
+date: 2025-07-24T17:19:53.267Z
 weekly_post: jul-20-26-2025
 tags:
   - James
