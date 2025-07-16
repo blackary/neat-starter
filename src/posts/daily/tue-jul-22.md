@@ -2,7 +2,7 @@
 title: Tue Jul 22
 description: James 1:2–18
 author: Ed Blackwood
-date: 2025-07-22T19:01:44.388Z
+date: 2025-07-22T17:01:44.388Z
 weekly_post: jul-20-26-2025
 tags:
   - James
