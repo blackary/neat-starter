@@ -2,7 +2,7 @@
 title: Lord’s Day Aug 3
 description: 1 Thessalonians 5:12-15, Genesis 28:10-22
 author: Ed Blackwood
-date: 2025-08-02T21:21:57.036Z
+date: 2025-08-03T09:21:00.000Z
 weekly_post: aug-3-9 2025
 tags:
   - 1 Thessalonians
