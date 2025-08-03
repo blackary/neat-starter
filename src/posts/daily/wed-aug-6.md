@@ -2,7 +2,7 @@
 title: Wed Aug 6
 description: John 1:43-51—Jesus, the True Ladder
 author: Tyler Horiuchi
-date: 2025-08-06T21:39:40.269Z
+date: 2025-08-05T12:10:40.269Z
 weekly_post: aug-3-9 2025
 tags:
   - John
