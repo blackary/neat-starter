@@ -2,7 +2,7 @@
 title: "Fri Aug 8 "
 description: 1 Corinthians 16:13-14—Steadfast Living in Unsteady Times
 author: Ed Blackwood
-date: 2025-08-07T15:33:00.000Z
+date: 2025-08-08T15:33:00.000Z
 weekly_post: aug-3-9 2025
 tags:
   - 1 Corinthians
