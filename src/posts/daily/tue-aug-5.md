@@ -2,7 +2,7 @@
 title: Tue Aug 5
 description: 1 Thessalonians 5:14-15— A Mandate For Church Membership
 author: Ed Blackwood
-date: 2025-08-05T21:36:32.026Z
+date: 2025-08-04T12:10:32.026Z
 weekly_post: aug-3-9 2025
 tags:
   - 1 Thessalonians
