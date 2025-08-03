@@ -2,7 +2,7 @@
 title: Thu Aug 7
 description: 1 Corinthians 1:4-9—Resources for Renewal
 author: Ed Blackwood
-date: 2025-08-06T15:28:00.000Z
+date: 2025-08-06T12:10:00.000Z
 weekly_post: aug-3-9 2025
 tags:
   - 1 Corinthians
