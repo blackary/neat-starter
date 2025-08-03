@@ -2,7 +2,7 @@
 title: "Sat Aug 9 "
 description: Matthew 5:3–10—Hunger and Thirst
 author: Ed Blackwood
-date: 2025-08-09T15:38:00.000Z
+date: 2025-08-08T12:15:00.000Z
 weekly_post: aug-3-9 2025
 tags:
   - Matthew
