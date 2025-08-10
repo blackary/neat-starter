@@ -8,8 +8,6 @@ tags:
   - 1 Corinthians
 type: daily
 ---
-##### *Today's guide is written by visiting preacher, Tyler Horiuchi*
-
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
