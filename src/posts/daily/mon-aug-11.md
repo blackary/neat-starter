@@ -38,7 +38,7 @@ Listen for the word *Christ*.
 
 Today’s notes are from a commentary on 1 Corinthians by Stephen T. Um
 
-	*In short, the basis for Paul’s encouragement to the Corinthian church is that their past, present, and future have been confirmed, declared, secured, enriched, and sustained in Christ.*
+*In short, the basis for Paul’s encouragement to the Corinthian church is that their past, present, and future have been confirmed, declared, secured, enriched, and sustained in Christ.*
 
 *All of the realities of Paul’s surprising encouragement are grounded in Christ. The Christian’s identity is not self-made or self-maintained. It is the result of an outside action of God on our behalf. We are sanctified not in ourselves but “in Christ Jesus” (v. 2). We are “called to be saints” not because we are inherently saintly but simply because we “call upon the name of our Lord Jesus Christ” (v. 2). The grace and peace we experience is delivered to us “from God the Father and the Lord Jesus Christ” (v. 3). The grace we experience was not earned but was a gift given to us “in Christ Jesus” (v. 4). Our speech and knowledge are “enriched in him” (v. 5). We are confident in our faith because God confirmed the “testimony about Christ” among us (v. 6). Our future hope is not in our manifold gifts or in the potential of our achievements but in “the revealing of our Lord Jesus Christ” (v. 7). In Christ, God sustains us to the end. He has promised to make us—the guilty—“guiltless in the day of our Lord Jesus Christ” (v. 8). And we are absolutely certain of this because “God is faithful,” and he has called us into “the fellowship of his Son, Jesus Christ our Lord” (v. 9).*
 
