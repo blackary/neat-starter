@@ -3,7 +3,7 @@ title: Wed Aug 13
 description: 1 Corinthians 16:13-14—The gospel overcomes every boundary
 author: Ed Blackwood
 date: 2025-08-13T12:29:32.320Z
-weekly_post: aug-3-9 2025
+weekly_post: aug-10-16-2025
 tags:
   - 1 Corinthians
 type: daily
