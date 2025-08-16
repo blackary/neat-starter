@@ -2,8 +2,8 @@
 title: Wed Aug 20
 description: Luke 22:31–34, John 21:15–19—Restored!
 author: Ed Blackwood
-date: 2025-08-16T22:53:32.361Z
-weekly_post: aug-10-16-2025
+date: 2025-08-20T10:53:32.361Z
+weekly_post: aug-17-23-2025
 tags:
   - Luke
   - John
