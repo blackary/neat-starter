@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Jeremiah 33:14-16-A Righteous Branch.[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Jeremiah 33:14-16-A Righteous Branch.](https://www.sermonaudio.com/sermons/818251913282191)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Jeremiah 33—Restored![](https://www.sermonaudio.com/sermons/52725202474549)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[Jeremiah 33—Restored![](https://www.sermonaudio.com/sermons/52725202474549)](https://www.sermonaudio.com/sermons/81825194356376)![](https://www.sermonaudio.com/sermons/52725202474549)
 
 ### Discuss one or more of these questions
 
