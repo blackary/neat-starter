@@ -1,6 +1,6 @@
 ---
 title: Mon Aug 25
-description: Lamentations 3:46-54—Our Enemies Are Against Us!
+description: Lamentations 3:1-18—The Lord is Against Me!
 author: Ed Blackwood
 date: 2025-08-25T15:04:21.419Z
 weekly_post: aug-24-30-2025
