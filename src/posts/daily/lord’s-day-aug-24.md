@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Lamentations 3—The Desperate Cry of a Wounded Soul[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Lamentations 3—[The Desperate Cry of a Wounded Soul](https://www.sermonaudio.com/sermons/8252520904205)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)Lamentations 3:40-45—Let’s Examine and Probe Our Ways
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)Lamentations 3:40-45—[Let’s Examine and Probe Our Ways](https://www.sermonaudio.com/sermons/825252014413608)
 
 ### Discuss one or more of these questions
 
