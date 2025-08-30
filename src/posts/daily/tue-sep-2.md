@@ -2,8 +2,8 @@
 title: Tue Sep 2
 description: 1 Peter 1:3–13—A Future and a Hope
 author: Ed Blackwood
-date: 2025-08-30T21:11:53.617Z
-weekly_post: aug-24-30-2025
+date: 2025-09-02T09:11:53.617Z
+weekly_post: aug-31-sep-6-2025
 tags:
   - 1 Peter
   - Jeremiah
