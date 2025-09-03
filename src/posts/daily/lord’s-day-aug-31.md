@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Jeremiah 29—Plans for a Future and a Hope[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Jeremiah 29—Plans for a Future and a Hope](https://www.sermonaudio.com/sermons/92251918522828)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)Psalm 119:9-16—Show Me the Way
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[Psalm 119:9-16—Show Me the Way](https://www.sermonaudio.com/sermons/9125054216732)
 
 ### Discuss one or more of these questions
 
