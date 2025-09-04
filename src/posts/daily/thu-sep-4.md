@@ -32,7 +32,7 @@ Ezekiel 37:1-6—Very Dry Bones
 
 1. Where did God’s Spirit take Ezekiel?
 2. What was the message of these dry bones?
-3. How might you seek peace/good where God has put you?
+3. Can these dry bones live? Explain.
 
 ### Notes
 
