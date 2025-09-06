@@ -3,7 +3,7 @@ title: Lord’s Day Sep 7
 description: Ezekiel 37
 author: Ed Blackwood
 date: 2025-09-07T13:07:43.480Z
-weekly_post: aug-31-sep-6-2025
+weekly_post: sep-7-13-2025
 tags:
   - Ezekiel
 type: daily
