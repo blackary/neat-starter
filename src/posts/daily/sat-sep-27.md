@@ -60,4 +60,4 @@ Psalm 119j, 119t
 2. Pray for the reading and preaching of God’s word tomorrow.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
 
-<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Douglas Sean O’Donnell, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT), and notes from the CSB Study Bible and the Reformation Study Bible (RSB).</i></small></div>
+<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Stuart Olyott, Richard D. Phillips, Gordon Fee/James Stuart, James Smith, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
