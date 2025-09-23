@@ -12,7 +12,7 @@ type: daily
 
 **AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[Daniel 3—I See Four](https://www.sermonaudio.com/sermons/915251752254870)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)Daniel 3:8-12—Malicious Accusations
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)[Daniel 3:8-12—Malicious Accusations](https://www.sermonaudio.com/sermons/91525186223706)
 
 ### Discuss one or more of these questions
 
