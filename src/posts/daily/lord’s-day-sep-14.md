@@ -10,7 +10,7 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)Daniel 3—I See Four![](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)Daniel 3—I See Four![](https://www.sermonaudio.com/sermons/4292502564001)
 
 **PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)Daniel 3:8-12—Malicious Accusations
 
