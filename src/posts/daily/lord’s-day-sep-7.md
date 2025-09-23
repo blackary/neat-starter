@@ -12,7 +12,7 @@ type: daily
 
 **AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Ezekiel 37:1-14—Can These Bones Live?](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/32425213031645)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)Ezekiel 37:15-27—One Stick
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)[Ezekiel 37:15-27—One Stick](https://www.sermonaudio.com/sermons/982518211693)
 
 ### Discuss one or more of these questions
 
