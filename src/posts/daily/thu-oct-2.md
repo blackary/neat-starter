@@ -9,6 +9,8 @@ tags:
   - Jonah
 type: daily
 ---
+<div><small><i>Today’s reading and notes are to prepare for our Saturday service.</i></small></div>
+
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
