@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words *Lord* and *name*.
+Listen for the words *grace*, *humble*, *hope*.
 
 ### Reading
 
