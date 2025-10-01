@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)Hosea 1—God’s People? Or Not?[](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[Hosea 1—God’s People? Or Not?](https://www.sermonaudio.com/sermons/929251750124970)[](https://www.sermonaudio.com/sermons/4292502564001)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/81825194356376)[](https://www.sermonaudio.com/sermons/9125054216732)Hosea 1:1—The Word of the LORD
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)[Hosea 1:1—The Word of the LORD](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
