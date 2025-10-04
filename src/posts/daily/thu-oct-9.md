@@ -2,8 +2,8 @@
 title: Thu Oct 9
 description: Joel 2:1-11—Sound the Alarm!
 author: Ed Blackwood
-date: 2025-10-04T16:04:01.439Z
-weekly_post: sep-28-oct-4-2025
+date: 2025-10-09T16:04:01.439Z
+weekly_post: oct-5-11-2025
 tags:
   - Joel
 type: daily
