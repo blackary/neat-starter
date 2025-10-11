@@ -2,8 +2,8 @@
 title: Mon Oct 13
 description: John 3:16-21, 31-36—Believe in the Son or continue in the wrath of God
 author: Ed Blackwood
-date: 2025-10-11T23:52:58.536Z
-weekly_post: oct-5-11-2025
+date: 2025-10-13T11:52:58.536Z
+weekly_post: oct-12-18-2025
 tags:
   - John
   - Joel
