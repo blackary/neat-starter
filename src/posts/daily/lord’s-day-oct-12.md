@@ -3,7 +3,7 @@ title: Lord’s Day Oct 12
 description: Joel 2
 author: Ed Blackwood
 date: 2025-10-12T11:51:43.134Z
-weekly_post: oct-5-11-2025
+weekly_post: oct-12-18-2025
 tags:
   - Joel
 type: daily
