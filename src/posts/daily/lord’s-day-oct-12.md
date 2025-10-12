@@ -10,7 +10,7 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Joel 2 Sound the Alarm![](https://www.sermonaudio.com/sermons/4292502564001)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Joel 2 Sound the Alarm
 
 **PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)Joel 2:28–32 Before the Great and Terrible Day of the LORD[](https://www.sermonaudio.com/sermons/929251754577838)
 
