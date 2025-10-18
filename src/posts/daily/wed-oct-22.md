@@ -2,8 +2,8 @@
 title: Wed Oct 22
 description: Matthew 7:21–23—On That Day
 author: Ed Blackwood
-date: 2025-10-18T15:14:15.968Z
-weekly_post: oct-12-18-2025
+date: 2025-10-22T15:14:15.968Z
+weekly_post: oct-19-25-2025
 tags:
   - Matthew
   - Amos
