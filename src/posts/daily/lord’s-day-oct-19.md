@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Amos 4—Return to God (You Cows of Bashan)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Amos 4—[Return to God (You Cows of Bashan)](https://www.sermonaudio.com/sermons/1020251722414437)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)Amos 4:12-13—Prepare to Meet Your God[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)Amos 4:12-13—[Prepare to Meet Your God](https://www.sermonaudio.com/sermons/102025172637426)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
