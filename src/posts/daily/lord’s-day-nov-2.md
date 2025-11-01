@@ -3,7 +3,7 @@ title: Lord’s Day Nov 2
 description: Obadiah
 author: Ed Blackwood
 date: 2025-11-02T18:08:47.047Z
-weekly_post: oct-26-nov-1-2025
+weekly_post: nov-2-8-2025
 tags:
   - Obadiah
 type: daily
