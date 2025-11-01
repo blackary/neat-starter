@@ -1,5 +1,5 @@
 ---
-title: SatNov 1
+title: Sat Nov 1
 description: Obadiah—God Is in Charge
 author: Ed Blackwood
 date: 2025-11-01T16:00:28.668Z
