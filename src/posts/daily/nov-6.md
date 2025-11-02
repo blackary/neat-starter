@@ -1,5 +1,5 @@
 ---
-title: Nov 6
+title: Thu Nov 6
 description: Jonah 1 The Reluctant Evangelist
 author: Ed Blackwood
 date: 2025-11-06T12:23:47.690Z
