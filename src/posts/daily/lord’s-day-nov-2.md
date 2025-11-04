@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Obadiah—The Day of the Lord Is Near
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Obadiah—[The Day of the Lord Is Near](https://www.sermonaudio.com/sermons/11325182041872)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)Obadiah 21—The Kingdom Will Be the Lord’s[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/929251754577838)[](https://www.sermonaudio.com/sermons/929251754577838)Obadiah 21—[The Kingdom Will Be the Lord’s](https://www.sermonaudio.com/sermons/113251827551783)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
