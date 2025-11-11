@@ -10,9 +10,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Jonah 1—One Greater than Jonah
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Jonah 1—[One Greater than Jonah](https://www.sermonaudio.com/sermons/1110251856535449)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Jonah 1:4-12—Tell Us[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Jonah 1:4-12—[Tell Us](https://www.sermonaudio.com/sermons/111025195335521)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
