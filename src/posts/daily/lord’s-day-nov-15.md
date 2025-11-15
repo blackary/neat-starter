@@ -3,7 +3,7 @@ title: Lord’s Day Nov 15
 description: Matthew 27:24-37; Hebrews 12:2
 author: Ed Blackwood
 date: 2025-11-15T16:54:35.768Z
-weekly_post: nov-9-15-2025
+weekly_post: nov-16-22-2025
 tags:
   - Matthew
   - Hebrews
