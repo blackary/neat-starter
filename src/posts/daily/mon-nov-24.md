@@ -2,7 +2,7 @@
 title: Mon Nov 24
 description: Matthew 2:1–12—Jesus, the Promised Shepherd-King
 author: Ed Blackwood
-date: 2025-11-25T00:03:52.558Z
+date: 2025-11-24T12:03:52.558Z
 weekly_post: nov-23-29-2025
 tags:
   - Matthew
