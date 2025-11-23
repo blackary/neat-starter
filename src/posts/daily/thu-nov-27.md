@@ -2,7 +2,7 @@
 title: Thu Nov 27
 description: Mark 12:28-31 – The Greatest Commandment
 author: Ed Blackwood
-date: 2025-11-28T00:15:01.124Z
+date: 2025-11-27T12:15:01.124Z
 weekly_post: nov-23-29-2025
 tags:
   - Mark
