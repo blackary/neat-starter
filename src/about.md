@@ -28,7 +28,7 @@ Read, pray, repeat.
 
 ## About me, Dr. Edwin (Ed) Blackwood
 
-I attended the <a href="https://rpts.edu/"  target="_blank">Reformed Presbyterian Theological Seminary</a> for both my MDiv (1991) and my DMin (2025). I was ordained as a pastor in the <a href="https://reformedpresbyterian.org/"  target="_blank">Reformed Presbyterian Church of North America</a> in 1992. 
+I attended the <a href="https://rpts.edu/"  target="_blank">Reformed Presbyterian Theological Seminary</a> for both my MDiv (1991) and my DMin (2025). I was ordained as a pastor in the <a href="https://reformedpresbyterian.org/"  target="_blank">Reformed Presbyterian Church of North America</a> in 1992 by the Great Lakes-Gulf Presbytery of the RPCNA. I pastored a church in Evansville, IN from 1992 until 2000. In 2005 I was called to Australia by the RPC-Australia where I served from Jan 2006 until Oct 2015. I served as Director of Admissions and Student Services at RPTS from Feb of 2016 to Dec 2023, when I was installed as pastor of Springs Reformed Church (RPCNA).
 
 I have a passion for helping families discover the joy of worshiping together. Through *Worship Connected*, I provide weekly Bible reading plans and resources designed specifically for *household worship* (often called *family devotions*) that are connected to the preaching texts of the weekly congregational worship. To hear more about my idea of *Worship Connected* you [can go here](https://gentlereformation.com/2025/03/10/episode-330-worship-connected-with-ed-blackwood/): 
 
