@@ -1,5 +1,5 @@
 ---
-title: Fri 10 Jan
+title: Fri Jan 10
 description: Deuteronomy 12:15-31 - Don’t add to or take away from
 author: Ed Blackwood
 date: 2025-01-10T09:00:15.575Z
