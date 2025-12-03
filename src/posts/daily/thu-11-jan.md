@@ -1,5 +1,5 @@
 ---
-title: Thu 11 Jan
+title: Thu Jan 9
 description: Deuteronomy 12:1-14 – You Shall Worship the LORD your God
 author: Ed Blackwood
 date: 2025-01-09T19:55:34.318Z
