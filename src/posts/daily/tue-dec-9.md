@@ -2,8 +2,8 @@
 title: Tue Dec 9
 description: Romans 10:13-15—Beautiful Feet
 author: Ed Blackwood
-date: 2025-12-06T17:26:16.730Z
-weekly_post: nov-30-dec-6-2025
+date: 2025-12-09T17:26:16.730Z
+weekly_post: dec-7-13-2025
 tags:
   - Romans
   - Nahum
