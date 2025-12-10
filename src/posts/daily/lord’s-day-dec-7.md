@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)Nahum 1—No Jonah, No Repentance, No Mercy
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/98251750317015)[](https://www.sermonaudio.com/sermons/929251750124970)[Nahum 1—No Jonah, No Repentance, No Mercy](https://www.sermonaudio.com/sermons/1282521928230)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Nahum 1:7—The LORD is Good[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[Nahum 1:7—The LORD is Good](https://www.sermonaudio.com/sermons/128252125162513)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
