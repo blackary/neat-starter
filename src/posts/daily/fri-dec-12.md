@@ -57,5 +57,5 @@ Psalm 16d, 57b
 ### Prayer
 
 1. Praise God for His wonderful salvation in Jesus.
-2. Pray for the hearing of God’s word preached this Sunday.
+2. Pray for the hearing of God’s word preached this Lord's Day.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
