@@ -57,5 +57,5 @@ P﻿salm 27b, 57b
 ### Prayer
 
 1. Commit you and your family in prayer to live holy lives by faith.
-2. Give thanks for something from last Lord’s Day’s sermons.
+2. Pray for the preparation for preaching God’s Word this Lord's Day.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
