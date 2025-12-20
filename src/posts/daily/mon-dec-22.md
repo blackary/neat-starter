@@ -3,44 +3,51 @@ title: Mon Dec 22
 description: Matthew 16:13-23—Lord, this will never happen to you!
 author: Ed Blackwood
 date: 2025-12-22T17:40:30.944Z
-weekly_post: dec-14-20-2025
+weekly_post: dec-11-27-2025
 tags:
-  - 1 Peter
+  - Habakkuk
+  - Matthew
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *hope*.
+Listen for the words *Peter* and *Jesus*.
 
 ### Reading
 
-1 Peter 1:3-5—An Unfailing Hope
+Matthew 16:13-23—Lord, this will never happen to you!
+
+### Optional Reading
+
+Habakkuk 1
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* God has given new life to all who believe in Jesus.
-* God preserves those he saves.
-* We can have a sure hope in God.
+* Peter declared Jesus is the true Messiah.
+* Peter declared that Jesus would not suffer and die.
+* God told Peter the first, Satan told him the second.
 
 ### Questions
 
 <div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
-1. Why is Peter’s heart overflowing with praise?
-2. What power accomplishes our great redemption?
-3. How can we be sure God’s power preserves us?
+1. How did Peter know that Jesus is the Messiah?
+2. Why did Peter oppose Jesus being killed?
+3. Why is Jesus’s death so astonishing?
 
 ### Notes
 
-(See Saturday for authors. Today’s notes are from a commentary on 1 Peter by William VanDoodewaard)	
+(See Saturday for authors.)	
 
-*Filled with the Word and the Spirit, Peter bursts into worship and praise of God the Father in verse 3… Why is Peter’s heart overflowing with praise? Because the Father, through Jesus Christ, has given new life and new status to Peter and all the believers whom he addresses. … Here, Peter brings us to see that God’s mercy-filled power causes us to be born again, preserving us in new life as living, growing children of the Father. The same power by which Jesus rose from the dead accomplishes our great redemption. Our spiritual resurrection from death to new life takes place as we are united to him by the work of the Spirit. So Jesus’ resurrection is not only proof of the completion and acceptance of his sacrifice for our sin, but it also shows his sovereign power to save and preserve.* 
+As we considered in Habakkuk 1, even more astonishing than the fact that God would use wicked people to discipline His people is the fact that God would use wicked people to kill His Son. All throughout Jesus’s earthly ministry, we see that astonishment—and even unbelief. Sometimes Jesus just tells his disciples that he will suffer and die at the hands of sinful men—and they just can’t understand his words. Other times, like Peter in our reading, they actually oppose Him. Peter says to the eternal second person of the trinity, *No. No, Lord, this will not happen to you*.
 
-*Peter’s first readers may well have thought at this point, “This is all good and well, the inheritance is secured by God, it is secure, permanent and eternal, but what if I fail in the end to persevere? What if I am disqualified in the end? What if persecution should become so severe that I crack, I fail, I am unfaithful to Christ?” … God the Father is the one who has caused us to be born again by the Spirit, and Peter now reminds us that our spiritual protection and preservation as children is also the Father’s work. … God’s power preserves us.*
+We might expect Jesus to gently explain again to Peter what must happen and why. But instead, Jesus addresses Peter as Satan himself—Peter, who just moments before had declared Jesus as the Messiah, the Son of the living God as God the Father had revealed to him. Peter now speaks as Satan had led him, to frustrate  (if it were possible) Jesus’s atoning and sacrificial death.
+
+It is astonishing and unbelievable that God the Father put Jesus to death by wicked men, and that God the Son willingly made this sacrifice for His people. It is astonishing, but we must believe it. Unless we believe in Jesus’s sacrificial death for us, we will be cast, deservedly, with Satan into the eternal fires of hell.
 
 ### Swedish Method questions
 
@@ -50,10 +57,10 @@ Listen for the word *hope*.
 
 ### Praise
 
-P﻿salm 62a, 57b
+P﻿salm 139d, 57b
 
 ### Prayer
 
-1. Rejoice in the Father’s work in saving and securing you.
+1. Pray that even in your astonishment over the gospel, you still submit to Jesus.
 2. Pray for a specific application from yesterday's sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
