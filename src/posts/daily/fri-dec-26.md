@@ -5,7 +5,7 @@ author: Ed Blackwood
 date: 2025-12-26T17:55:33.557Z
 weekly_post: dec-11-27-2025
 tags:
-  - Habakkuk
+  - Zephaniah
 type: daily
 ---
 ### *Listen up, little ones*
