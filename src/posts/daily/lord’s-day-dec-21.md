@@ -2,7 +2,7 @@
 title: Lord’s Day Dec 21
 description: Habakkuk
 author: Ed Blackwood
-date: 2025-12-20T17:34:11.797Z
+date: 2025-12-21T17:34:11.797Z
 weekly_post: dec-11-27-2025
 tags:
   - Family Worship
