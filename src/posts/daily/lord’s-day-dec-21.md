@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Habakkuk 1:1-2:4—Be Utterly Astonished
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Habakkuk 1:1-2:4—[Be Utterly Astonished](https://www.sermonaudio.com/sermons/122425228535756)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/128252125162513)Habakkuk 3:16–19—Even Though ...[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/128252125162513)Habakkuk 3:16–19—[Even Though ...](https://www.sermonaudio.com/sermons/122425231254861)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
