@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Zephaniah 3—The King Is in Your Midst
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Zephaniah 3—The King Is in Your Midst](https://www.sermonaudio.com/sermons/122925211715399)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/128252125162513)Zephaniah 3:17—Delight in His Love[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[Zephaniah 3:17—Delight in His Love](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
