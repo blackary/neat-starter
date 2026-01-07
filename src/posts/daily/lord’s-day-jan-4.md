@@ -12,9 +12,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/122925211715399)Haggai 1:1-2:9 The Glory of this Temple
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/122925211715399)[Haggai 1:1-2:9 The Glory of this Temple](https://www.sermonaudio.com/sermons/15262130167998)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)Psalm 114 What Ails You, O Sea?[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[Psalm 114 What Ails You, O Sea?](https://www.sermonaudio.com/sermons/15262133538171)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
