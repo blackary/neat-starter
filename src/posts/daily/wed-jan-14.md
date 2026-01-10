@@ -2,7 +2,7 @@
 title: Wed Jan 14
 description: Matthew 21:1-17—Behold Your King
 author: Ed Blackwood
-date: 2026-01-10T15:59:44.130Z
+date: 2026-01-14T15:59:44.130Z
 weekly_post: jan-11-17-2026
 tags:
   - Matthew
