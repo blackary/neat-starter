@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)Zechariah 3—The Sinner’s New Clothes
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[Zechariah 3—The Sinner’s New Clothes](https://www.sermonaudio.com/sermons/11326174981286)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)Zechariah 9:9-10—Rejoice Greatly in Your King Who Saves[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)[Zechariah 9:9-10—Rejoice Greatly in Your King Who Saves](https://www.sermonaudio.com/sermons/113261758374197)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
