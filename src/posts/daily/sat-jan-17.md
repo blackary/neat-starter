@@ -1,48 +1,49 @@
 ---
-title: Sat Jan 24
-description: Amos 9:1-15—Judgment and Restoration
+title: Sat Jan 17
+description: Malachi 3:1—I Will Send My Messenger
 author: Ed Blackwood
-date: 2026-01-24T16:12:26.434Z
-weekly_post: jan-18-24-2026
+date: 2026-01-17T16:12:26.434Z
+weekly_post: jan-11-17-2026
 tags:
-  - Amos
+  - Malachi
 type: daily
 ---
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words *Lord* and *Israel*.
+Listen for the word *messenger*.
 
 ### Reading
 
-Amos 9:1-15—Judgment and Restoration
+Malachi 3:1—I Will Send My Messenger
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* Israel was God’s special nation.
-* Yet too often they lived very sinful lives.
-* God destroyed Israel but saved a remnant.
+* God will send His messenger to His people.
+* At least three messengers are found in Malachi.
+* Malachi’s prophecy was the last word from God for 400 years.
 
 ### Questions
 
 <div><small><i>(some read these before notes, then ask them after)</i></small></div>
 
-1. What did God see when He looked at Israel?
-2. What does God see when He looks at you?
-3. How is God continually restoring His church?
+1. Who are the messengers in verse one?
+2. What was Malachi’s role in announcing Jesus?
+3. What was John the Baptist’s role in announcing Jesus?
 
 ### Notes
 
-(See below for all authors. Today’s notes are from a commentary on Amos by Gordon Keddie)	
+(See below for all authors.)	
 
-*The key expression in these verses is ‘the sinful kingdom’ (9:8). This describes the real state of the nation. In their own eyes, however, the Israelites were not that bad at all. It must have been a terrible shock for them to hear that God now regarded them as no different from other nations, the ‘lesser breeds without the law’, to use Kipling’s phrase.‘  …*
+In this short, final book of the Old Testament, in Hebrew, the first word is *burden* and the final word is *curse*. Yet the book is not all doom and gloom. Malachi brings a message of hope in the midst of warning and judgment.
+After this book, there will be no word from the Lord for 400 years. Malachi’s last written word of curse will be broken by the coming Living Word of *blessing*—the Lord Jesus Christ. This coming of God’s messenger is promised here in Malachi 3. In fact, 3 different messengers are represented in v1. Malachi (the author’s name means “my messenger.”) Secondly, the *my messenger* who will prepare the way, a clear reference to John the Baptist (Matthew 11:7, 10). Finally, the Lord Himself is promised—the Messenger of the Covenant—the One who is coming.
 
-*Men want to feel that God is on their side and that he accepts them ‘warts and all’. But God looks at Israel and sees ‘the sinful kingdom’. … The Lord has stripped away the pretensions of Israel. … \[Yet] There will be a remnant according to the election of grace. …*
+This Messenger of the Covenant will come suddenly. The RSB notes that *this word is almost always associated in Scripture with an unhappy and calamitous circumstance (Num. 12:4; Is. 47:11; cf. 2 Pet. 3:10).* 
 
-*In the long run, the Lord’s people will be reconstituted as a revived and faithful church of God. And the proof of this is in all that was revealed in Jesus Christ, in all that the gospel has acccomplished in millions of lives through the ministry of the New Testament church and even, if we may be so bold, in the fact that you, reader of this book, have the gospel preached to you at this moment in your experience. God … spoke a word of free grace to the remnant, even in the midst of the maelstrom of judgement!*
+Hope and warning. Let the reader be aware!
 
 ### Swedish Method questions
 
@@ -52,12 +53,12 @@ Amos 9:1-15—Judgment and Restoration
 
 ### Praise
 
-Psalm 80, 119u
+Psalm 16d, 119u
 
 ### Prayer
 
-1. Turn in prayer from any sin and turn to God in the gospel of Jesus Christ.
+1. Rejoice in Jesus coming as God’s Messenger of the Covenant.
 2. Pray for the reading and preaching of God’s word tomorrow.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
 
-<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Gordon J. Keddie, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
+<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, Kenneth Gentry, R.C. Sproul, Benjamin Shaw, James Smith, John Benton, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
