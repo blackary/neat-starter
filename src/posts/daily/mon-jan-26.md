@@ -57,7 +57,7 @@ But when the fullness of time came, God sent forth His Son, born of woman, born 
 
 ### Praise
 
-P﻿salm 96a, 119u
+P﻿salm 96a, 65c
 
 ### Prayer
 
