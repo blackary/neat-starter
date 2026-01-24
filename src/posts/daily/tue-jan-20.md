@@ -9,6 +9,8 @@ tags:
   - Malachi
 type: daily
 ---
+##### *Today's guide is written by our intern and guest preacher, Tyler Horiuchi*
+
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
