@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)Malachi 3—Purifying and Refining
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[Malachi 3—Purifying and Refining](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)[](https://www.sermonaudio.com/sermons/113261758374197)Malachi 3:1--God’s Messenger[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)[](https://www.sermonaudio.com/sermons/113261758374197)[Malachi 3:1--God’s Messenger](https://www.sermonaudio.com/sermons/1202619594665)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
