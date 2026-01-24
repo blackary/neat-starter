@@ -1,6 +1,6 @@
 ---
 title: Lord’s Day Jan 25
-description: Ephesians 2, Amos 7
+description: Ephesians 2, Amos 9
 author: Ed Blackwood
 date: 2026-01-25T11:28:36.733Z
 weekly_post: jan-25-31-2026
