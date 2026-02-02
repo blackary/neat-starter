@@ -2,7 +2,7 @@
 title: Tue Feb 3
 description: Luke 24:30-53—Opened Eyes, Opened Minds
 author: Tyler Horiuchi
-date: 2026-02-02T15:56:50.052Z
+date: 2026-02-03T15:56:50.052Z
 weekly_post: feb-1-7-2026
 tags:
   - Luke
