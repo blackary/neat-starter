@@ -16,7 +16,7 @@ Listen for the word *blessed*.
 
 ### Reading
 
-Psalm 1-2—The Blessed One
+Psalms 1-2—The Blessed One
 
 ### *Keys for kids*
 
