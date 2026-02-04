@@ -16,7 +16,7 @@ Listen for the word *Lord*.
 
 ### Reading
 
-Psalm 4—I Lie Down and Sleep in Peace
+Psalms 4—I Lie Down and Sleep in Peace
 
 ### *Keys for kids*
 
