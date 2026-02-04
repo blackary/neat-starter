@@ -1,6 +1,6 @@
 ---
 title: Thu Feb 5
-description: Psalm 1-2—The Blessed One
+description: Psalm 1:1-2:12—The Blessed One
 author: Ed Blackwood
 date: 2026-02-05T16:07:16.365Z
 weekly_post: feb-1-7-2026
@@ -16,7 +16,7 @@ Listen for the word *blessed*.
 
 ### Reading
 
-Psalms 1-2—The Blessed One
+Psalm 1:1-2:12—The Blessed One
 
 ### *Keys for kids*
 
