@@ -18,7 +18,7 @@ Listen for the word *many*.
 
 ### Reading
 
-Psalm 3—Many Enemies, One Powerful God
+Psalms 3—Many Enemies, One Powerful God
 
 ### *Keys for kids*
 
