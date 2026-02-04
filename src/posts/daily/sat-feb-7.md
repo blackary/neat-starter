@@ -1,6 +1,6 @@
 ---
 title: Sat Feb 7
-description: Psalm 4—I Lie Down and Sleep in Peace
+description: Psalm 4:1-8—I Lie Down and Sleep in Peace
 author: Ed Blackwood
 date: 2026-02-07T16:18:43.856Z
 weekly_post: feb-1-7-2026
@@ -16,7 +16,7 @@ Listen for the word *Lord*.
 
 ### Reading
 
-Psalms 4—I Lie Down and Sleep in Peace
+Psalm 4:1-8—I Lie Down and Sleep in Peace
 
 ### *Keys for kids*
 
