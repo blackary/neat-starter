@@ -1,6 +1,6 @@
 ---
 title: Fri Feb 6
-description: Psalm 3—Many Enemies, One Powerful God
+description: Psalm 3:1-8—Many Enemies, One Powerful God
 author: Ed Blackwood
 date: 2026-02-06T16:13:43.361Z
 weekly_post: feb-1-7-2026
@@ -18,7 +18,7 @@ Listen for the word *many*.
 
 ### Reading
 
-Psalms 3—Many Enemies, One Powerful God
+Psalm 3:1-8—Many Enemies, One Powerful God
 
 ### *Keys for kids*
 
