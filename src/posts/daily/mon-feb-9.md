@@ -6,6 +6,7 @@ date: 2026-02-09T13:06:43.676Z
 weekly_post: feb-8-14-2026
 tags:
   - Psalms
+  - Revelation
 type: daily
 ---
 ### *Listen up, little ones*
