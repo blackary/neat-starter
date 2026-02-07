@@ -2,8 +2,8 @@
 title: Wed Feb 11
 description: John 11:21-44—Father, I Thank You that You Heard Me
 author: Ed Blackwood
-date: 2026-02-07T13:18:16.952Z
-weekly_post: feb-1-7-2026
+date: 2026-02-11T13:18:16.952Z
+weekly_post: feb-8-14-2026
 tags:
   - John
   - Psalms
