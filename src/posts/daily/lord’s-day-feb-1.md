@@ -6,7 +6,7 @@ date: 2026-02-01T15:14:59.544Z
 weekly_post: feb-1-7-2026
 tags:
   - Family Worship
-  - Psalms
+  - Luke
 type: daily
 ---
 ### Reading
