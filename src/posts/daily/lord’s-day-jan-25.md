@@ -12,9 +12,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)Ephesians 2:1-10—God’s Great Salvation[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)Ephesians 2:1-10—[God’s Great Salvation](https://www.sermonaudio.com/sermons/126262129221617)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)[](https://www.sermonaudio.com/sermons/113261758374197)Amos 9:8—The Gospel According to Amos[](https://www.sermonaudio.com/sermons/1202619594665)[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)[](https://www.sermonaudio.com/sermons/122925212113826)[](https://www.sermonaudio.com/sermons/15262133538171)[](https://www.sermonaudio.com/sermons/113261758374197)Amos 9:8—[The Gospel According to Amos](https://www.sermonaudio.com/sermons/12626213277176)[](https://www.sermonaudio.com/sermons/1202619594665)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
