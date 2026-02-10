@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)Psalm 3:1-8—Many Foes, One LORD[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  [](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)Psalm 3:1-8—[Many Foes, One LORD](https://www.sermonaudio.com/sermons/29261946596453)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Psalm 4:1-8—Answer Me, God[](https://www.sermonaudio.com/sermons/929251754577838)
+**PM Sermon**:  [](https://www.sermonaudio.com/sermons/6112522743101)Psalm 4:1-8—[Answer Me, God](https://www.sermonaudio.com/sermons/29261950538147)[](https://www.sermonaudio.com/sermons/929251754577838)
 
 ### Discuss one or more of these questions
 
