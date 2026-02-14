@@ -3,7 +3,7 @@ title: Lord’s Day  Feb 15
 description: Psalm 5 and Psalm 6
 author: Ed Blackwood
 date: 2026-02-15T07:21:02.245Z
-weekly_post: feb-8-14-2026
+weekly_post: feb-15-21-2026
 tags:
   - Family Worship
   - Psalms
