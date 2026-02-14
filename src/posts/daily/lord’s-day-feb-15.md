@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Psalm 5—Meeting God at Morning Prayer[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  Psalm 5:1-12—Meeting God at Morning Prayer[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  Psalm 6—Crying Out with Your Troubled Soul[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Psalm 6:1-10—Crying Out with Your Troubled Soul[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
