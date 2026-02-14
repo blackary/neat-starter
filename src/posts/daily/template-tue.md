@@ -2,7 +2,7 @@
 title: "Template Tue "
 description: text and title
 author: Ed Blackwood
-date: 2025-01-07T18:33:48.408Z
+date: 2017-01-03T18:33:48.408Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
