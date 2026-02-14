@@ -22,7 +22,6 @@ common_tags: &common_tags
     - { label: "Family Worship", value: "Family Worship" }
     - { label: "Old Testament", value: "Old Testament" }
     - { label: "New Testament", value: "New Testament" }
-    - { label: "Psalms", value: "Psalms" }
     - { label: "Church History", value: "Church History" }
     - { label: "Genesis", value: "Genesis" }
     - { label: "Exodus", value: "Exodus" }
