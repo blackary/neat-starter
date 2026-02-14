@@ -2,7 +2,7 @@
 title: "Template Mon "
 description: text and title
 author: Ed Blackwood
-date: 2025-01-06T18:28:44.285Z
+date: 2017-01-02T18:28:44.285Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
