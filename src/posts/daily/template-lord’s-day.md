@@ -2,7 +2,7 @@
 title: "Template Lord’s Day "
 description: preaching passages
 author: Ed Blackwood (or guest preacher(s)
-date: 2025-01-05T18:11:13.951Z
+date: 2017-01-01T18:11:13.951Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
