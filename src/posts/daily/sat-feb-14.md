@@ -43,7 +43,7 @@ Rev 6:9–11
 
 (See below for all authors.)
 
-How long? Though God often asks this question of His people, we also have God’s people asking, *How long*, of God. *How long do I have to live in these troubles?* *How long will You hide your face from me* (Ps 13:1-2)? *How long will You look on and not rescue me* (Ps 35:17)? *How long? Will You be angry foreve*r (Ps 79:5)? *How long will You be angry with your people’s prayers* (Ps 80:4)? *How long? Will You hide forever* (Ps 86:46)? *How long will we wait for Your compassion* (Ps 90:13)? *How long will the wicked celebrate* (Ps 94:3)? In addition to the Psalms, we see the lament in the prophets (Isa 6:11, Jer 31:22, Hab 1:2, Zech 1:12). We hear also from the martyred saints in our optional reading (Rev 6:9-11).
+How long? Though God often asks this question of His people, we also have God’s people asking, *How long*, of God. *How long do I have to live in these troubles?* *How long will You hide your face from me* (Ps 13:1-2)? *How long will You look on and not rescue me* (Ps 35:17)? *How long? Will You be angry foreve*r (Ps 79:5)? *How long will You be angry with your people’s prayers* (Ps 80:4)? *How long? Will You hide forever* (Ps 86:46)? *How long will we wait for Your compassion* (Ps 90:13)? *How long will the wicked celebrate* (Ps 94:3)? In addition to the Psalms, we see the lament in the prophets (Isa 6:11, Hab 1:2, Zech 1:12). We hear also from the martyred saints in our optional reading (Rev 6:9-11).
 
 God does not rebuke His people for that lament. He also does not usually answer. This lament, included in our text today, is a lament of faith. And it is a lament our Savior knows.
 
