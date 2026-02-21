@@ -62,7 +62,7 @@ How excellent is the name of our Lord Jesus Christ!
 
 ### Praise
 
-P﻿salm 8a, 65d
+P﻿salm 8a, 65c
 
 ### Prayer
 
