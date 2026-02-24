@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Psalm 7—Trusting God When Wrongly Accused[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  Psalm 7—[Trusting God When Wrongly Accused](https://www.sermonaudio.com/sermons/223262144173607)[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  Psalm 8—Our LORD’s Excellent Name[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Psalm 8—[Our LORD’s Excellent Name](https://www.sermonaudio.com/sermons/223262147212324)[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
