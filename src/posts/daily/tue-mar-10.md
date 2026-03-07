@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *arise* and *eat*.
+Listen for the words *arise* and *eat*.
 
 ### Reading
 
@@ -39,14 +39,13 @@ Listen for the word *arise* and *eat*.
 
 (See Saturday for authors. Today’s notes are from a commentary on 1 Kings by Tony Merida)
 
-Today’s notes are from a commentary on 1 Kings by Tony Merida)
-God’s first response to Elijah wasn’t rebuke. It was “eat.” He had fed him with a raven and with a widow, and now He uses an angel to feed him. After Elijah slept under the broom tree, he awoke to an angel who touched him and said, “Get up and eat.” Elijah looked and there was “a loaf of bread baked over hot stones, and a jug of water.” Elijah “ate and drank and lay down again.” This happened a second time, and then “on the strength from that food, he walked 40 days and 40 nights to Horeb.” That’s some good bread! …
+_God’s first response to Elijah wasn’t rebuke. It was “eat.” He had fed him with a raven and with a widow, and now He uses an angel to feed him. After Elijah slept under the broom tree, he awoke to an angel who touched him and said, “Get up and eat.” Elijah looked and there was “a loaf of bread baked over hot stones, and a jug of water.” Elijah “ate and drank and lay down again.” This happened a second time, and then “on the strength from that food, he walked 40 days and 40 nights to Horeb.” That’s some good bread! …_
 
-How encouraging is it that God feeds His runaway prophet instead of actually answering Elijah’s prayer for death? I find this remarkably encouraging. … Instead of death God gave him cake. Oh, the tenderness of God here! …
+_How encouraging is it that God feeds His runaway prophet instead of actually answering Elijah’s prayer for death? I find this remarkably encouraging. … Instead of death God gave him cake. Oh, the tenderness of God here! …_
 
-Are you drained and dejected like Elijah? Consider also the ministry of Jesus, who tells us, “Come to Me, all of you who are weary and burdened, and I will give you rest … because I am gentle” (Matt 11:28–29). What you need is spiritual rest in Christ, the bread of life (John 6:35). There we find forgiveness and joy, knowing that “no condemnation now exists for those in Christ Jesus” (Rom 8:1). When you have had enough and you look to Him, you find He is enough. …
+_Are you drained and dejected like Elijah? Consider also the ministry of Jesus, who tells us, “Come to Me, all of you who are weary and burdened, and I will give you rest … because I am gentle” (Matt 11:28–29). What you need is spiritual rest in Christ, the bread of life (John 6:35). There we find forgiveness and joy, knowing that “no condemnation now exists for those in Christ Jesus” (Rom 8:1). When you have had enough and you look to Him, you find He is enough. …_
 
-Perhaps you also need physical rest. Good food and good sleep are wonderful cures to spiritual depression. Sleep and food, after all, are gifts of God (Pss 104:14–15; 127:2).
+_Perhaps you also need physical rest. Good food and good sleep are wonderful cures to spiritual depression. Sleep and food, after all, are gifts of God (Pss 104:14–15; 127:2)._
 
 ### Swedish Method questions
 
