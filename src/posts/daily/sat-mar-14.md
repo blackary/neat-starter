@@ -1,6 +1,6 @@
 ---
 title: Sat Mar 14
-description: Psalm 22:6-11 Despised and Rejected by Men
+description: Psalm 22:6-11—Despised and Rejected by Men
 author: Ed Blackwood
 date: 2026-03-13T13:52:01.334Z
 weekly_post: mar-8-14
