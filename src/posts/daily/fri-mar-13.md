@@ -1,6 +1,6 @@
 ---
 title: Fri Mar 13
-description: Psalm 22:1-2 Forsaken!
+description: Psalm 22:1-2—Forsaken!
 author: Ed Blackwood
 date: 2026-03-13T13:50:20.156Z
 weekly_post: mar-8-14
