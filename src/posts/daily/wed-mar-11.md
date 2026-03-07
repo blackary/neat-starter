@@ -39,13 +39,13 @@ Listen for the words _Lord_ and _said_.
 
 (See Saturday for authors.Today’s notes are from a commentary on 1 Kings by Tony Merida)
 
-We find him railing against the Israelites. Elijah’s memory is selective, as demonstrated when he says the Israelites “have abandoned Your covenant, torn down Your altars, and killed Your prophets” (v. 10). Again, he believes half-truths and wallows in pity.
+_We find him railing against the Israelites. Elijah’s memory is selective, as demonstrated when he says the Israelites “have abandoned Your covenant, torn down Your altars, and killed Your prophets” (v. 10). Again, he believes half-truths and wallows in pity._
 
-Previously, God showed up with fire, consuming the drenched altar. People marveled. But this passage emphasizes God’s quiet ways. God often appears not in the spectacular but in the gentle whisper. Provan says, “Elijah needs to remember the past, but he also needs to realize that there is more to the Lord than fire” (1 and 2 Kings, 146).
+_Previously, God showed up with fire, consuming the drenched altar. People marveled. But this passage emphasizes God’s quiet ways. God often appears not in the spectacular but in the gentle whisper. Provan says, “Elijah needs to remember the past, but he also needs to realize that there is more to the Lord than fire” (1 and 2 Kings, 146)._
 
-This phrase “a soft whisper” only appears two others times. It appears in Job 4:16 and Psalm 107:29. It is used in both passages in the context of rest and refreshment in the midst of pain, distress, and fear. …
+_This phrase “a soft whisper” only appears two others times. It appears in Job 4:16 and Psalm 107:29. It is used in both passages in the context of rest and refreshment in the midst of pain, distress, and fear. …_
 
-Seek the God of grace in the quiet place. Get alone with Him and listen to His Word. Think on His gospel.
+_Seek the God of grace in the quiet place. Get alone with Him and listen to His Word. Think on His gospel._
 
 ### Swedish Method questions
 
