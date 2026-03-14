@@ -45,12 +45,11 @@ John 19:28-31
 
 The last words uttered by Christ on the cross (John 19:31) seem to be very much parallel to the last words of this Psalm. “He has done this!” “It is finished!”
 
-What has He done? What is finished? Remember, Christ said those words before dying and in those words and the final words of this Psalm are expressed the completion of the work of salvation. He has done it all. The three-in-one God planned from before time be-gan that the Son would die for the sins of His people, that the Father would pour out His wrath on the Son and accept His sacrifice as payment for the sins of all He chose to save, and that the Holy Spirit would apply that finished work of Christ to the hearts of those for whom Christ died so that they would repent and believe.
+What has He done? What is finished? Remember, Christ said those words before dying and in those words and the final words of this Psalm are expressed the completion of the work of salvation. He has done it all. The three-in-one God planned from before time began that the Son would die for the sins of His people, that the Father would pour out His wrath on the Son and accept His sacrifice as payment for the sins of all He chose to save, and that the Holy Spirit would apply that finished work of Christ to the hearts of those for whom Christ died so that they would repent and believe.
 
 We have in Christ an atonement that really atones, a satisfaction that truly satisfies, a salvation that completely saves. Even our faith is a gift of God (Ephesians 2:8). By His grace we praise Him (v.23,25), revere Him (v.23,25), seek Him (v.26), turn to Him (v.27), and bow before Him (v.29). He has done this!
 
 Let us then trust Him, praise Him, and proclaim His righteousness to others, that they too might come and declare, “He has done this!”
-
 
 ### Swedish Method questions
 
