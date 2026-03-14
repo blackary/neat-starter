@@ -2,7 +2,7 @@
 title: Lord’s Day Mar 15
 description: Psalm 19:1-14, 22:1-31
 author: Ed Blackwood
-date: 2026-03-14T14:44:16.430Z
+date: 2026-03-15T14:44:16.430Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
