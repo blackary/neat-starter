@@ -2,7 +2,7 @@
 title: Sat Mar 21
 description: Hebrews 1:1-3—The Son Is the Image of the Father
 author: Ed Blackwood
-date: 2026-03-14T15:29:18.814Z
+date: 2026-03-21T15:29:18.814Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
