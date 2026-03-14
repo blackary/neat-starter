@@ -1,5 +1,5 @@
 ---
-title: Mon 16 Mar
+title: Mon Mar 16
 description: Psalm 19:1-6—The Heavens Declare the Glory of God
 author: Ed Blackwood
 date: 2026-03-14T14:50:41.849Z
