@@ -2,7 +2,7 @@
 title: Wed Mar 18
 description: Psalm 22:27-31—He Has Done This!
 author: Ed Blackwood
-date: 2026-03-14T15:04:46.208Z
+date: 2026-03-18T15:04:46.208Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
