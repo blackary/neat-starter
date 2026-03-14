@@ -2,7 +2,7 @@
 title: Thu Mar 19
 description: Hebrews 13:22-25—This Brief Message of Exhortation
 author: Ed Blackwood
-date: 2026-03-14T15:10:14.281Z
+date: 2026-03-19T15:10:14.281Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
