@@ -1,5 +1,5 @@
 ---
-title: "Template Wed "
+title: Wed 19 Mar
 description: Psalm 22:27-31—He Has Done This!
 author: Ed Blackwood
 date: 2026-03-14T15:04:46.208Z
