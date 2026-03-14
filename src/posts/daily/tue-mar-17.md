@@ -2,7 +2,7 @@
 title: Tue Mar 17
 description: Psalm 19:7–14—The Lord’s Most Perfect Law
 author: Ed Blackwood
-date: 2026-03-14T14:58:19.126Z
+date: 2026-03-17T14:58:19.126Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
