@@ -40,14 +40,13 @@ Psalm 19:7–14—The Lord’s Most Perfect Law
 
 (See Saturday for authors. Today's notes are from a commentary on the Psalms by James A. Johnston)
 
-*The sky eloquently declares God’s glory, but we cannot truly know God without the clarity of the Scriptures. We can see the power of God by looking at the universe he created, but we can only know him per-sonally through his written Word. …*
+*The sky eloquently declares God’s glory, but we cannot truly know God without the clarity of the Scriptures. We can see the power of God by looking at the universe he created, but we can only know him personally through his written Word. …*
 
 *Verses 7–9 describe the perfections of God’s Word and its effects on God’s people. The five synonyms for the Scriptures in these verses also occur in the opening verses of Psalm 119, in the same order: “law,” “testimony,” “precepts,” “commandment,” and “rules.” …*
 
 *In verse 9 David shifts to focus on the relationship between God and his people: “the fear of the LORD is clean, enduring forever.” The word “clean” often has the sense of being ritually pure. “The fear of the LORD” (v. 9) purifies God’s people. This lasting blessing endures forever, qualifying us to be in his presence for eternity.*
 
-*Those who are made alive and made wise by God’s Word do learn to fear him. Our instinct is to domesticate God and make him man-ageable. But the Bible teaches us that God is a genuinely frightening God. … God is truly fearsome, but he is good. If you know the God of the Bible, you love him and serve him with deep respect and rever-ence. You can’t play games with the Lord God of Israel. His glory is overwhelming. He takes your breath away. He is truly awesome.*
-
+*Those who are made alive and made wise by God’s Word do learn to fear him. Our instinct is to domesticate God and make him manageable. But the Bible teaches us that God is a genuinely frightening God. … God is truly fearsome, but he is good. If you know the God of the Bible, you love him and serve him with deep respect and reverence. You can’t play games with the Lord God of Israel. His glory is overwhelming. He takes your breath away. He is truly awesome.*
 
 ### Swedish Method questions
 
