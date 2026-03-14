@@ -46,7 +46,6 @@ Why is an eclipse so amazing? People spent millions of dollars traveling to see 
 
 Glorify God for his Son—not the s-u-n which can be hidden by the moon, but the S-o-n who is not hidden and who upholds the universe by the word of his power.
 
-
 ### Swedish Method questions
 
 ![](/static/img/family_worship_study_ed-swedish_questions.png)
