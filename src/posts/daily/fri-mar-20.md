@@ -2,7 +2,7 @@
 title: Fri Mar 20
 description: Hebrews 1:1-3—God Spoke. By His Son
 author: Ed Blackwood
-date: 2026-03-14T15:17:19.717Z
+date: 2026-03-20T15:17:19.717Z
 weekly_post: mar-15-21-2026
 tags:
   - Family Worship
