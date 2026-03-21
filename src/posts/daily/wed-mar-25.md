@@ -43,12 +43,11 @@ Psalm 102:23-28
 
 (See Saturday for authors.)	
 
-The author of Hebrews compares and contrasts Jesus with the angels. The angels are glorious created beings. They exist to do God’s bidding. Though normally invisible, they have been seen, appearing human-like, although sometimes shining with glory. Hughes comments that *angels, [God’s] servants, may at his request take on wondrous forms, become seraphim thirty feet high or men 300 feet high, and perform feats beyond not only the capacity but the imagi-nation of mankind. But they are still servants. He is the eternally enthroned, sceptered, anointed sovereign.*
+The author of Hebrews compares and contrasts Jesus with the angels. The angels are glorious created beings. They exist to do God’s bidding. Though normally invisible, they have been seen, appearing human-like, although sometimes shining with glory. Hughes comments that *angels, \[God’s] servants, may at his request take on wondrous forms, become seraphim thirty feet high or men 300 feet high, and perform feats beyond not only the capacity but the imagination of mankind. But they are still servants. He is the eternally enthroned, sceptered, anointed sovereign.*
 
 With quotations from the Psalms and the Prophets (Isaiah), God, through the human author, shows how all the Bible is about Jesus (see Luke 24:44). As amazing as angels are, Christ is vastly superior! He is the eternally reigning King. He rules wielding his scepter of righteousness eternally. 
 
-He is also the creator. Gen 1:1 and John 1:1 introduce God, the creator. John’s gospel gives us more detail that this reference is particularly to God the Son. Hebrews confirms this as it applies the same phrase from Psalm 102:25 to Jesus. God the Father acknowledges that God the Son is the creator of the heavens and the earth. And as Andrews notes, *not only did Christ create the worlds ‘in the beginning’, but He will outlive and outlast the created order… As we continue in Hebrews, we shall see that Jesus Christ, the ever-living Son and High Priest is brought constantly before our view.*
-
+He is also the creator. Gen 1:1 and John 1:1 introduce God, the creator. John’s gospel gives us more detail that this reference is particularly to God the Son. Hebrews confirms this as it applies the same phrase from Psalm 102:25 to Jesus. God the Father acknowledges that God the Son is the creator of the heavens and the earth. And as Andrews notes, *not only did Christ create the worlds ‘in the beginning’, but He will outlive and outlast the created order… As we continue in Hebrews, we shall see that Jesus Christ, the ever-living Son and High Priest is brought constantly before our view.*
 
 ### Swedish Method questions
 
