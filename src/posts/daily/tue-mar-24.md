@@ -47,12 +47,11 @@ Jesus is presented in His excellence in Hebrews. This excellence, we are told he
 
 Or the name Christ, which is actually more His title—Messiah—than a name. As the Christ, He is the Anointed King—the one prom-ised to come from God to redeem His people.
 
-But instead of these names, the name the author of Hebrews has in mind is the name Son. In our day, it is our surname that indicates our inherited name. For Jesus, the name Son indicates that He is eternally God the Son. Hughes notes that *Jesus had the name “Son” from all eternity, and it is the name he will always keep, as the perfect tense of the phrase “the name he has inherited” indicates.*
+But instead of these names, the name the author of Hebrews has in mind is the name Son. In our day, it is our surname that indicates our inherited name. For Jesus, the name Son indicates that He is eternally God the Son. Hughes notes that *Jesus had the name “Son” from all eternity, and it is the name he will always keep, as the perfect tense of the phrase “the name he has inherited” indicates.*
 
-Although the angels are sometimes collectively called sons of God, and God’s people are called collectively sons of God, God the Father has only one begotten Son. As the Begotten Son, Andrews points out, Jesus is *1) Christ the eternal son, being of the same es-sence or substance as the Father; 2) Christ the incarnate Son, the ‘first-born’ brought in to the world; and 3) Christ the first-born from the dead, referring to His resurrection.*
+Although the angels are sometimes collectively called sons of God, and God’s people are called collectively sons of God, God the Father has only one begotten Son. As the Begotten Son, Andrews points out, Jesus is *1) Christ the eternal son, being of the same essence or substance as the Father; 2) Christ the incarnate Son, the ‘first-born’ brought in to the world; and 3) Christ the first-born from the dead, referring to His resurrection.*
 
 This Son is worthy of worship—by all the angels and by you and me.
-
 
 ### Swedish Method questions
 
