@@ -49,7 +49,7 @@ J﻿ohn 1:1-14
 So states the Nicene Creed about the Lord Jesus Christ. This creed was a product of a church council at Nicaea in 325 AD (the counsel at Constantinople in 381 AD added a statement about the Holy Spirit). The aim of this counsel was to clarify for the church the nature of Jesus Christ. Arius was teaching that there was a time when Christ was not. This counsel developed this creed from the teaching of the Bible that Jesus is *very God of very God* and of *one substance with the Father.*
 
 
-Our text provides evidence of that nature of Jesus, God’s Son. As Gooding notes, *Jesus is not only a spokesman for God; in his essen-tial nature he is God. When you meet him, when you hear him, you meet God and you hear God.*
+Our text provides evidence of that nature of Jesus, God’s Son. As Gooding notes, *Jesus is not only a spokesman for God; in his essential nature he is God. When you meet him, when you hear him, you meet God and you hear God.*
 
 
 In this Jesus, and only in Him, can we find purification for our sins. 
