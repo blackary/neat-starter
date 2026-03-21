@@ -45,12 +45,11 @@ Psalm 22:22-26
 
 We might think that this perfect One would scorn the imperfect ones whose sin He had to undo, whose failures He had to make right. But we would misunderstand grace if we thought that.
 
-As Hughes notes, *God has given us Jesus as the divine hero/pioneer of our salvation!... His being made “perfect through suffer-ing” has reference to his being made a perfect pioneer of salvation. The idea is that he was perfectly equipped to do the job.*
+As Hughes notes, *God has given us Jesus as the divine hero/pioneer of our salvation!... His being made “perfect through suffering” has reference to his being made a perfect pioneer of salvation. The idea is that he was perfectly equipped to do the job.*
 
-And this “perfect pioneer,” who secured our glory and salvation, is also our elder brother. And even though we are weak and sinful—even though our sin took Him (willingly) to suffer and die on the cross—in spite of all that, He is not ashamed of us as His brothers! As Kistemaker comments, *the implication is that we, in turn, may call Jesus our brother. What a privilege to be called brothers of the Son of God! He who is seated at the right hand of the Majesty in heaven condescends to sinful man and unashamedly calls him brother (Matt. 28:10; John 20:17).*
+And this “perfect pioneer,” who secured our glory and salvation, is also our elder brother. And even though we are weak and sinful—even though our sin took Him (willingly) to suffer and die on the cross—in spite of all that, He is not ashamed of us as His brothers! As Kistemaker comments, *the implication is that we, in turn, may call Jesus our brother. What a privilege to be called brothers of the Son of God! He who is seated at the right hand of the Majesty in heaven condescends to sinful man and unashamedly calls him brother (Matt. 28:10; John 20:17).*
 
 And, when we sing His praise from His book of praises—the Psalms of the Bible—we sing with Him. And He sings with us, telling us, as His brothers, of the glory of God to whom we sing our praise.
-
 
 ### Swedish Method questions
 
