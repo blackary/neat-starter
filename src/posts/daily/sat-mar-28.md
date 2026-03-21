@@ -65,4 +65,4 @@ P﻿salm 48c, 65d
 2. Pray for the reading and preaching of God’s word tomorrow.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
 
-<div><small><i>PasteInFromSaturdayInThePrintedWC</i></small></div>
+<div><small><i>Notes this week are drawn in part from commentaries by John Calvin, William Hendriksen, Kent Hughes, David Gooding, Edgar Andrews, Simon Kistemaker, the Theological Dictionary of the Old and New Testaments (TDOT, TDNT) and notes from the CSB Study Bible, the NIV Study Bible, and the Reformation Study Bible (RSB).</i></small></div>
