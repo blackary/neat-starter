@@ -1,6 +1,6 @@
 ---
 title: Fri Mar 27
-description: Hebrews 2:10-18—Not Ashamed of His Brothers
+description: Hebrews 2:1-4 Don’t drift away
 author: Ed Blackwood
 date: 2026-03-27T15:52:10.153Z
 weekly_post: mar-22-28
@@ -13,43 +13,43 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word *brothers*.
+Listen for the words attention and drift.
 
 ### Reading
 
-Hebrews 2:10-18—Not Ashamed of His Brothers
+Hebrews 2:1-4 Don’t drift away
 
 ### Optional Reading
 
-Psalm 22:22-26
+Joshua 24:14–28
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* Jesus is not ashamed to call us His brothers and sisters.
-* He proclaims God to us.
-* He made us at one with God by His atonement.
+* Not paying attention to the Bible may cause us to drift away.
+* Drifting away leads to God’s just punishment.
+* Jesus and his witnesses confirm our great salvation.
 
 ### Questions
 
 <div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
-1. How can Jesus, who is perfect, be made perfect?
-2. What is a Christian's relationship to Jesus?
-3. What does Jesus tell us when we sing Psalm 22 with Him?
+1. Who is the author warning?
+2. What causes drifting away?
+3. How can and why must we be careful not to drift away?
 
 ### Notes
 
 (See Saturday for authors.)	
 
-We might think that this perfect One would scorn the imperfect ones whose sin He had to undo, whose failures He had to make right. But we would misunderstand grace if we thought that.
+The author of Hebrews is showcasing Jesus to an assembly of Jewish Christians who are being tempted to give up on Jesus. Chapter after chapter Jesus is held up in all His glory and these Christians are urged to keep on keeping on with Jesus.
 
-As Hughes notes, *God has given us Jesus as the divine hero/pioneer of our salvation!... His being made “perfect through suffering” has reference to his being made a perfect pioneer of salvation. The idea is that he was perfectly equipped to do the job.*
+Here we have the author continuing to show how much superior Jesus is to the angels. As Kistemaker notes, *the author reminds us that we have been given a portrait of Christ’s eminence and greatness and, therefore, ought to listen to what he says. For the higher a person stands in rank, the greater authority he exerts, and the more he demands the listener’s attention*.
 
-And this “perfect pioneer,” who secured our glory and salvation, is also our elder brother. And even though we are weak and sinful—even though our sin took Him (willingly) to suffer and die on the cross—in spite of all that, He is not ashamed of us as His brothers! As Kistemaker comments, *the implication is that we, in turn, may call Jesus our brother. What a privilege to be called brothers of the Son of God! He who is seated at the right hand of the Majesty in heaven condescends to sinful man and unashamedly calls him brother (Matt. 28:10; John 20:17).*
+To not listen is far more than to simply miss a message. It is to drift away from salvation and be lost. The Bible is clear that those who are truly saved will never be lost. But, it is also clear that some will profess for a time, then drift away. Hughes comments that *such dangerous drifting is not intentional, but comes rather from inattention and carelessness…the pressured little church…had become careless about their moorings in Christ…as the storms of opposition rose, some of them were drifting farther and farther away from Christ toward the shoals of shipwreck in their old world of Judaism*. 
 
-And, when we sing His praise from His book of praises—the Psalms of the Bible—we sing with Him. And He sings with us, telling us, as His brothers, of the glory of God to whom we sing our praise.
+Pay even more attention to Christ. Don’t drift away.
 
 ### Swedish Method questions
 
@@ -59,10 +59,10 @@ And, when we sing His praise from His book of praises—the Psalms of the Bible�
 
 ### Praise
 
-P﻿salm 2﻿2d, 65d
+P﻿salm 95c, 65d
 
 ### Prayer
 
-1. Rejoice that Jesus is not ashamed to call you His brother.
+1. Pray that you and none in our church drift away.
 2. Pray for the hearing of God’s word preached this Lord's Day.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
