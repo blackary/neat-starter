@@ -47,7 +47,7 @@ The author of Hebrews tells us that this important message that we must pay atte
 
 This message was binding and had just punishment for disobedience. So, if a word from angels is that important, this word announced by Jesus is even more binding. The gospel is announced by Jesus, confirmed by eyewitnesses, and testified by God the Father. So, pay attention. It is important. 
 
-*How will we escape if we neglect this great salvation?* The implied answer is, *We can’t*. So listen. Pay attention. But you must do more than listen. As Gooding comments, *a girl may enjoy hearing her boyfriend repeat how much he loves her, and what he will do for her if only she will consent to be his wife. But hearing him say it over and over again is not enough. If she is ever going to be his wife, she must believe him, and respond to him, and say ‘Yes’ to his proposal.*
+*How will we escape if we neglect this great salvation?* The implied answer is, *We can’t*. So listen. Pay attention. But you must do more than listen. As Gooding comments, *a girl may enjoy hearing her boyfriend repeat how much he loves her, and what he will do for her if only she will consent to be his wife. But hearing him say it over and over again is not enough. If she is ever going to be his wife, she must believe him, and respond to him, and say ‘Yes’ to his proposal.*
 
 Accept this great salvation offered to you freely in the gospel!
 
