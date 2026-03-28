@@ -39,17 +39,11 @@ John 6:47–59—The Bread of Life
 
 (See Saturday for authors. We continue, in preparation for communion, reading through a modern English revision of the Westminster Larger Catechism on the Lord’s Supper. <mark>**This is a week early since we are having the Lord’s Supper on April 12**</mark>.)
 
+*Q173. May any who profess the faith and desire to come to the Lord’s Supper be kept from it?*
 
+*A. Those who are found to be ignorant or giving offence, even though they profess the faith and desire to come to the Lord’s Supper, may and ought to be kept from it by the authority which Christ has left in his church, until they receive instruction and show changed lives.*
 
-
-*Q173. May any who profess the faith and desire to come to the Lord’s Supper be kept from it?*
-
-
-*A. Those who are found to be ignorant or giving offence, even though they profess the faith and desire to come to the Lord’s Supper, may and ought to be kept from it by the authority which Christ has left in his church, until they receive instruction and show changed lives.*
-
-
-*Q174. When the Lord’s Supper is administrated, what is required of those who receive it?*
-
+*Q174. When the Lord’s Supper is administrated, what is required of those who receive it?*
 
 *A. During the time of its administration it is required of those who receive the sacrament of the Lord’s Supper that they wait upon God in that ordinance with all holy reverence and attention; and that they diligently observe the sacramental elements and actions, carefully recognise the Lord’s body, and lovingly meditate on his death and sufferings, and thus stir themselves up to a vigorous exercise of their graces. Thus they are to judge themselves, sorrow for sin, earnestly hunger and thirst after Christ, feed on him by faith, receive of his fullness, trust in his merits, rejoice in his love, give thanks for his grace, and renew their covenant with God and their love to all the saints.*
 
