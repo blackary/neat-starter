@@ -1,6 +1,6 @@
 ---
 title: Lord’s Day Mar 29
-description: Hebrews 2:1-4, 2 Samuel 7:1-17
+description: Hebrews 2:1-4, 2 Samuel 7:1-1
 author: Ed Blackwood
 date: 2026-03-29T13:50:34.978Z
 weekly_post: mar-29-apr-4-2026
@@ -14,7 +14,7 @@ type: daily
 
 **AM Sermon**:  Hebrews 2:1-4—Don’t Neglect Such a Great Salvation.[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  2 Samuel 7:1-17—A House for God[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Joint Service at BFRC. 2 Samuel 7:1-17—A House for God[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
