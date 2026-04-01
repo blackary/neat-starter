@@ -1,7 +1,7 @@
 ---
 title: Fri Apr 3
 description: Hebrews 2:10-18—Not Ashamed of His Brothers
-author: Ed Blackwood
+author: "Ed Blackwood "
 date: 2026-04-03T17:09:06.608Z
 weekly_post: mar-29-apr-4-2026
 tags:
