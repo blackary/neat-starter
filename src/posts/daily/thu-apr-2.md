@@ -1,7 +1,7 @@
 ---
 title: Thu Apr 2
 description: Hebrews 2:5-9—But We Do See Jesus
-author: Ed Blackwood
+author: "Ed Blackwood "
 date: 2026-04-02T17:07:43.432Z
 weekly_post: mar-29-apr-4-2026
 tags:
