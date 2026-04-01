@@ -12,9 +12,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Hebrews 2:1-4—Don’t Neglect Such a Great Salvation.[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  Hebrews 2:1-4—[Don’t Neglect Such a Great Salvation](https://www.sermonaudio.com/sermons/3302618133475).[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  Joint Service at BFRC. 2 Samuel 7:1-17—A House for God[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Joint Service at BFRC. 2 Samuel 7:1-17—[A House for God](https://www.sermonaudio.com/sermons/33026018233302)[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
