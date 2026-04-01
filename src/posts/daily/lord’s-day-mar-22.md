@@ -11,9 +11,9 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Hebrews 1:1-4—Jesus: God’s Message[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  Hebrews 1:1-4—[Jesus: God’s Message](https://www.sermonaudio.com/sermons/32326183255793)[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  Hebrews 1:1-14—Jesus: So Much Better than Angels[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Hebrews 1:1-14—[Jesus: So Much Better than Angels](https://www.sermonaudio.com/sermons/3232618955097)[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
