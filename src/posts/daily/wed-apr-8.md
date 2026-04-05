@@ -1,9 +1,9 @@
 ---
 title: Wed Apr 8
 description: Colossians 1:15-23—Stable and Steadfast
-author: Ed Blackwood
+author: Tyler Horiuchi
 date: 2026-04-08T14:29:12.031Z
-weekly_post: template-weekly-overview
+weekly_post: apr-6-12-2025
 tags:
   - Family Worship
   - Colossians
