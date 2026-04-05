@@ -12,7 +12,7 @@ type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Hebrews 2—Follow Your Captain
+**AM Sermon**:  Hebrews 2:1-18—Follow Your Captain
 
 **PM Sermon**:  Colossians 1:15-23—The Preeminent and Sufficient Christ
 
