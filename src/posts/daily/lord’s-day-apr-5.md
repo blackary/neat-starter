@@ -1,6 +1,6 @@
 ---
 title: Lord’s Day Apr 5
-description: Hebrews 2, Colossians 1:15-23
+description: Hebrews 2:1-18, Colossians 1:15-23
 author: Ed Blackwood
 date: 2026-04-05T14:18:39.390Z
 weekly_post: apr-5-11-2026
