@@ -3,7 +3,7 @@ title: Tue Apr 7
 description: Hebrews 2:14-18—Like His brothers
 author: Ed Blackwood
 date: 2026-04-07T14:25:27.069Z
-weekly_post: template-weekly-overview
+weekly_post: apr-6-12-2025
 tags:
   - Family Worship
   - Hebrews
