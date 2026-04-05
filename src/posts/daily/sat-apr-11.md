@@ -3,7 +3,7 @@ title: Sat Apr 11
 description: Obadiah 1:18—They Shall Burn
 author: Ben Campbell
 date: 2026-04-11T14:42:54.452Z
-weekly_post: apr-6-12-2025
+weekly_post: apr-5-11-2026
 tags:
   - Family Worship
   - Obadiah
