@@ -3,7 +3,7 @@ title: Fri Apr 10
 description: Obadiah 1:10-16—Like One of Them
 author: Ben Campbell
 date: 2026-04-10T14:38:48.034Z
-weekly_post: apr-6-12-2025
+weekly_post: apr-5-11-2026
 tags:
   - Family Worship
   - Obadiah
