@@ -2,7 +2,7 @@
 title: "Template Visiting Preacher Notes "
 description: text and title
 author: Ed Blackwood
-date: 2026-04-08T16:07:38.816Z
+date: 2017-01-08T17:07:38.816Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
