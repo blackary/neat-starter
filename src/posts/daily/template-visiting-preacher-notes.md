@@ -1,0 +1,65 @@
+---
+title: "Template Visiting Preacher Notes "
+description: text and title
+author: Ed Blackwood
+date: 2026-04-08T16:07:38.816Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+##### *Today's guide is written by visiting preacher, Preacher Name*
+
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* key1
+* key2
+* key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Notes
+
+(See below for all authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+P﻿salm nn, pom
+
+### Prayer
+
+1. P1
+2. Pray for the reading and preaching of God’s word tomorrow.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+
+<div><small><i>PasteInFromSaturdayInThePrintedWC</i></small></div>
