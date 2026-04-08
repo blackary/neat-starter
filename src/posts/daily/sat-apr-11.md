@@ -1,7 +1,7 @@
 ---
 title: Sat Apr 11
 description: Obadiah 1:18—They Shall Burn
-author: Ben Campbell
+author: Ed Blackwood
 date: 2026-04-11T14:42:54.452Z
 weekly_post: apr-5-11-2026
 tags:
