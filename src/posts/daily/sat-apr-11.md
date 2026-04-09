@@ -14,7 +14,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words _flame_ and _fire_ and _burn_.
+Listen for the words *flame* and *fire* and *burn*.
 
 ### Reading
 
@@ -44,11 +44,11 @@ Psalm 83:1-18
 
 (See below for all authors. Today’s notes are from a commentary on Obadiah by Paul House)	
 
-_Given what is ahead, God’s warning of Edom is especially kind. The day of the Lord, a time of judgment, is on the horizon. In this case it is a day of reckoning for all the nations, not just for Judah or for Edom. …_
+*Given what is ahead, God’s warning of Edom is especially kind. The day of the Lord, a time of judgment, is on the horizon. In this case it is a day of reckoning for all the nations, not just for Judah or for Edom. …*
 
-_As we learned from Joel and Amos, the day of the Lord is a time in history or at the end of history when God restores justice (see Joel 1:15; 2:1, 11, 31; 3:14; Amos 5:18–20). The phrase “all the nations” (Obadiah 15) here refers at least to all the nations involved in attacking or defending Judah in Obadiah’s time. As we know from other Bible passages, God will judge all people at the end of time (see Revelation 20). …_
+*As we learned from Joel and Amos, the day of the Lord is a time in history or at the end of history when God restores justice (see Joel 1:15; 2:1, 11, 31; 3:14; Amos 5:18–20). The phrase “all the nations” (Obadiah 15) here refers at least to all the nations involved in attacking or defending Judah in Obadiah’s time. As we know from other Bible passages, God will judge all people at the end of time (see Revelation 20). …*
 
-_Verse 18 promises worse things for Edom if they attack. They will find either Judah and Israel (“the house of Jacob”) or Israel alone (“the house of Joseph”) to be a fire that consumes. Jerusalem will not be a place where invading Edomites will survive, at least not now. In 587 B.C. Edom helped Babylon conquer Jerusalem (see Lamentations 4:22)._
+*Verse 18 promises worse things for Edom if they attack. They will find either Judah and Israel (“the house of Jacob”) or Israel alone (“the house of Joseph”) to be a fire that consumes. Jerusalem will not be a place where invading Edomites will survive, at least not now. In 587 B.C. Edom helped Babylon conquer Jerusalem (see Lamentations 4:22).*
 
 ### Swedish Method questions
 
