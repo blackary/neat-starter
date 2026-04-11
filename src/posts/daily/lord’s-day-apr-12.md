@@ -51,7 +51,7 @@ The daily readings in this household worship guide have a few questions. However
 
 ### Praise (any or all)
 
-Psalm 94a, 2a, 137a, 72f, 60b, 10a, 15a, 102d 3
+Psalm 94a, 2a, 137a, 72f, 60b, 10a, 15a, 102d, 3
 
 <div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
