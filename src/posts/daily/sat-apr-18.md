@@ -13,7 +13,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words _heart_ and _hardened_.
+Listen for the words *heart* and *hardened*.
 
 ### Reading
 
@@ -43,12 +43,9 @@ Heb 10:19-25
 
 (See below for all authors.)	
 
-In the middle of the exhortation to the Hebrews not to harden their hearts against God’s voice, God gives us one of the important means we can use to avoid that sin. One another. Christianity is intended to be lived in community. That is God’s plan. Here is a look at all of the New Testament one-another commands bit.ly/1anothernt. And here is a thought about one-another things that we are not commanded to do bit.ly/1anothernot.
+In the middle of the exhortation to the Hebrews not to harden their hearts against God’s voice, God gives us one of the important means we can use to avoid that sin. One another. Christianity is intended to be lived in community. That is God’s plan. Here is a look at all of the New Testament one-another commands [bit.ly/1anothernt](https://www.challies.com/visual-theology/visual-theology-one-another/). And here is a thought about one-another things that we are not commanded to do [bit.ly/1anothernot](https://www.thegospelcoalition.org/blogs/ray-ortlund/one-anothers-i-cant-find-in-the-new-testament-2/).
 
-
-
-Here in Hebrews, we are to exhort (encourage) one another every day as one of God’s means to keep us from being hardened by the deceitfulness of sin. Sin is often inviting, enticing. Thomas Brooks states that _Satan's first device to draw the soul into sin is, to present the bait—and hide the hook; to present the golden cup—and hide the poison; to present the sweet, the pleasure, and the profit that may flow in upon the soul by yielding to sin—and to hide from the soul the wrath and misery that will certainly follow the committing of sin_. 
-
+Here in Hebrews, we are to exhort (encourage) one another every day as one of God’s means to keep us from being hardened by the deceitfulness of sin. Sin is often inviting, enticing. Thomas Brooks states that *Satan's first device to draw the soul into sin is, to present the bait—and hide the hook; to present the golden cup—and hide the poison; to present the sweet, the pleasure, and the profit that may flow in upon the soul by yielding to sin—and to hide from the soul the wrath and misery that will certainly follow the committing of sin*. 
 
 We are to help each other not be deceived and hardened by sin. How has someone encouraged you in this way recently? How have you encouraged someone in this way? It is God’s way.
 
