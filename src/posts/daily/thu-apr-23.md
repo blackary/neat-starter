@@ -14,7 +14,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the word _rest_.
+Listen for the word *rest*.
 
 ### Reading
 
@@ -46,14 +46,11 @@ Genesis 2:1-3
 
 We have here both a promise and a warning. The warning continues from chapter 3. God has promised a rest. We must have a fear (phobia) about missing God’s promised rest. And like in Heb 3, this warning is illustrated with Israel in the wilderness. Because they did not listen to God’s voice but hardened their hearts in unbelief, they did not enter God’s rest. No belief = no rest. 
 
+But the opposite is also true. Belief = rest. Believe God and you enter into His promised rest. As Gooding puts it, *where a person has once believed truly and genuinely—(notice the tense: ‘we who have believed’) there is no uncertainty about it, that person enters in \[to His rest]*.
 
-But the opposite is also true. Belief = rest. Believe God and you enter into His promised rest. As Gooding puts it, _where a person has once believed truly and genuinely—(notice the tense: ‘we who have believed’) there is no uncertainty about it, that person enters in [to His rest]_.
+There is no rest apart from God. As Augustine stated, *you \[God] have made us for yourself and our heart is restless until it comes to rest in you*. The Psalmist states, *I am at rest in God alone; my salvation comes from him* (Ps 62:1 CSB). Jesus promises, *Come to me, all of you who are weary and burdened, and I will give you rest* (Mt 11:28 CSB).
 
-
-There is no rest apart from God. As Augustine stated, _you [God] have made us for yourself and our heart is restless until it comes to rest in you_. The Psalmist states, _I am at rest in God alone; my salvation comes from him_ (Ps 62:1 CSB). Jesus promises, _Come to me, all of you who are weary and burdened, and I will give you rest_ (Mt 11:28 CSB).
-
-
-If then, there is no rest apart from God, and in God Himself, particularly in God the eternal Son, there is rest, let us believe Him and enter His rest—now and eternally.Swedish Method  questions
+If then, there is no rest apart from God, and in God Himself, particularly in God the eternal Son, there is rest, let us believe Him and enter His rest—now and eternally.
 
 ### Swedish Method questions
 
