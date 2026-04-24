@@ -14,7 +14,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words _obedience_ and _perfected_.
+Listen for the words *obedience* and *perfected*.
 
 ### Reading
 
@@ -46,14 +46,11 @@ Phil 2:1-11
 
 How can it be that the perfect, eternal God the Son, had to learn obedience and be perfected? This is puzzling to our brains and important to understand. Kistemaker speaks helpfully to both.
 
+*What was the obedience Jesus had to learn? ... the well-known obedience expected from the Lord. ... It is true that sinful man needs to correct his ways by listening to God’s Word and turning from disobedience to obedience. But Christ, the sinless One, did not learn by unlearning. Rather, through his active and passive obedience, Christ provides eternal life for the sinner and a discharge of man’s debt of sin. (see Rom 5:19)*
 
-_What was the obedience Jesus had to learn? ... the well-known obedience expected from the Lord. ... It is true that sinful man needs to correct his ways by listening to God’s Word and turning from disobedience to obedience. But Christ, the sinless One, did not learn by unlearning. Rather, through his active and passive obedience, Christ provides eternal life for the sinner and a discharge of man’s debt of sin. (see Rom 5:19)_
+_How was Jesus made perfect? … Jesus, as the Son of God, is perfect from eternity. But in his humanity, “Jesus grew in wisdom and stature, and in favor with God and men” (Luke 2:52). We see his development in the school of obedience. As the burden becomes more taxing for Jesus, so his willingness to assume the task his Father has given him increases_.
 
-
-_How was Jesus made perfect? … Jesus, as the Son of God, is perfect from eternity. But in his humanity, “Jesus grew in wisdom and stature, and in favor with God and men” (Luke 2:52). We see his development in the school of obedience. As the burden becomes more taxing for Jesus, so his willingness to assume the task his Father has given him increases.
-
-
-Jesus is our perfectly obedient High Priest. We need that because we are neither perfect nor perfectly obedient. Through His suffering, we receive salvation (Isaiah 53:5)_. 
+Jesus is our perfectly obedient High Priest. We need that because we are neither perfect nor perfectly obedient. Through His suffering, we receive salvation (Isaiah 53:5). 
 
 ### Swedish Method questions
 
