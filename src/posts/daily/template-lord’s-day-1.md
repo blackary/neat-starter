@@ -1,5 +1,5 @@
 ---
-title: "Template Lord’s Day "
+title: Lord’s Day May 3
 description: Hebrews 4:14-5:11, Hebrews 4:14-16
 author: Ed Blackwood
 date: 2026-05-03T15:55:51.580Z
