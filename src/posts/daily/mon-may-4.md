@@ -43,7 +43,7 @@ Heb 4:14-5:5
 ### Notes
 
 (See Saturday for authors. The notes today are excerpts from The Priest with Dirty Clothes by R.C. Sproul
-You can buy the book at bit.ly/PwDCrcs)	
+You can buy the book at [bit.ly/PwDCrcs](https://store.ligonier.org/priest-with-dirty-clothes-hardcover))	
 
 *The king looked at Jonathan and frowned. “Why are you here again with dirty clothes?” the king asked. “I told you that you could not stand in front of me looking like that.”… At that moment, someone came into the room. …At first, no one recognized the stranger. Then someone shouted, “It’s the great prince!”*
 
