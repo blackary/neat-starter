@@ -2,7 +2,7 @@
 title: Thu May 14
 description: Hebrews 5:12-6:3—It’s Time to Grow Up
 author: Ed Blackwood
-date: 2017-01-05T18:41:44.453Z
+date: 2026-05-14T17:11:18.911Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
