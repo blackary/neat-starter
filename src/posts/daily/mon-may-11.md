@@ -3,7 +3,7 @@ title: Mon May 11
 description: 1 John 2:16—The Things in the World
 author: Tyler horiuchi
 date: 2026-05-11T17:12:20.972Z
-weekly_post: template-weekly-overview
+weekly_post: may-10-16-2026
 tags:
   - Family Worship
   - 1 John
