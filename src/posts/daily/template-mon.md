@@ -1,8 +1,8 @@
 ---
-title: Template Mon
+title: Template Mon DUPLICATE this!
 description: text and title
 author: Ed Blackwood
-date: 2017-01-06T18:42:00.000Z
+date: 2017-01-02T18:42:00.000Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
