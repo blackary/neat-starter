@@ -1,8 +1,8 @@
 ---
-title: Mon May 11
-description: 1 John 2:16—The Things in the World
-author: Tyler horiuchi
-date: 2026-05-11T16:57:46.757Z
+title: Template Mon
+description: text and title
+author: Ed Blackwood
+date: 2017-01-06T18:42:00.000Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
