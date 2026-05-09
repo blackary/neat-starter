@@ -2,8 +2,8 @@
 title: Lord’s Day  May 10
 description: 1 John 2:15-17, 1 Corinthians 1:17-2:5
 author: Tyler Horiuchi and Ed Blackwood
-date: 2026-05-09T17:54:49.483Z
-weekly_post: template-weekly-overview
+date: 2026-05-10T17:54:49.483Z
+weekly_post: may-10-16-2026
 tags:
   - Family Worship
   - 1 John
