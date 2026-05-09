@@ -1,5 +1,5 @@
 ---
-title: "Template Fri "
+title: Template Fri DUPLICATE this!
 description: text and title
 author: Ed Blackwood
 date: 2017-01-06T18:42:39.143Z
