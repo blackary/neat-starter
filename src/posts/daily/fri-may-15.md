@@ -3,7 +3,7 @@ title: Fri May 15
 description: Hebrews 6:13–20—An Anchored Soul
 author: Ed Blackwood
 date: 2026-05-15T07:15:02.351Z
-weekly_post: template-weekly-overview
+weekly_post: 	may-10-16-2026
 tags:
   - Family Worship
 type: daily
