@@ -1,8 +1,8 @@
 ---
-title: Thu May 14
-description: Hebrews 5:12-6:3—It’s Time to Grow Up
+title: Template Thu
+description: text and title
 author: Ed Blackwood
-date: 2026-05-14T17:11:18.911Z
+date: 2017-01-05T18:43:00.000Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
@@ -14,31 +14,31 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words *milk* and *solid food*.
+Listen for the word *searchword*.
 
 ### Reading
 
-Hebrews 5:12-6:3—It’s Time to Grow Up
+text and title
 
 ### Optional Reading
 
-Col 1:24–29
+delete above header if no optional reading
 
 ### *Keys for kids*
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* Babies drink only milk.
-* As they grow up, they eat solid foods too.
-* The spiritual life should be like a baby growing up.
+* Key1
+* Key2
+* Key3
 
 ### Questions
 
 <div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
-1. What should happen as Christians grow up?
-2. What immaturities grieve the author of Hebrews here?
-3. What is a mark of spiritual maturity?
+1. Q﻿1
+2. Q2
+3. Q3
 
 ### Notes
 
