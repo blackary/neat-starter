@@ -45,7 +45,11 @@ Hebrews 6:4–12—Don’t Fall Away!
 (See below for all authors.)	
 
 In our verses today we have one of the strongest warnings in the book, a book that is already full of warnings. The picture that the author paints is a dead-end, unrecoverable error. Or to use the author’s own words, it is impossible…to restore to repentance (Heb 6:4, see also Heb 6:18, 10:4, 11:6).
-Who are these who, it seems, can no longer repent? They have been enlightened, tasted the heavenly gift, shared in the Holy Spirit, tasted the goodness of the word of God and the powers of the age to come. There are three conflicting opinions on who these are. Some see them as real Christians who fall from the faith—which the Bible affirms in many places cannot happen (see John 10:27-28). Others see this as a warning from a hypothetical situation, but the author is not speaking hypothetically. The other view is that these are non-Christians who have become such a part of the visible church that everyone (including maybe even they themselves) thinks are Christians, but their falling away demonstrates that they are not (see 1 John 2:19).
+
+
+Who are these who, it seems, can no longer repent? They have _been enlightened, tasted the heavenly gift, shared in the Holy Spirit, tasted the goodness of the word of God and the powers of the age to come_. There are three conflicting opinions on who these are. Some see them as real Christians who fall from the faith—which the Bible affirms in many places cannot happen (see John 10:27-28). Others see this as a warning from a hypothetical situation, but the author is not speaking hypothetically. The other view is that these are non-Christians who have become such a part of the visible church that everyone (including maybe even they themselves) thinks are Christians, but their falling away demonstrates that they are not (see 1 John 2:19).
+
+
 So, if you are drifting, becoming lax in your Christian life, toying with pulling away from Christ—STOP! Return to your good Savior.
 
 ### Swedish Method questions
