@@ -1,13 +1,11 @@
 ---
-title: Template Thu
+title: Template Thu DUPLICATE this!
 description: text and title
 author: Ed Blackwood
 date: 2017-01-05T18:43:00.000Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
-  - Hebrews
-  - Colossians
 type: daily
 ---
 ### *Listen up, little ones*
@@ -44,16 +42,7 @@ delete above header if no optional reading
 
 (See Saturday for authors.)	
 
-There is nothing wrong with a child being a child—even when they do immature things. Often parents have to discern between simply childish behavior and sinful behavior. It’s not easy.
-
-But we don’t want a child to remain a child. When growing up is stunted from physical and/or mental disabilities, we grieve. The author of Hebrews is grieving at the spiritual immaturity of these Hebrew Christians. And the Holy Spirit is calling through the human author of this book to these Christians, and us, to grow up!
-The immaturity that grieves him is laziness in trying to understand, inability or unwillingness to learn the basics of Christianity, inexperience in applying the message of righteousness, and inability to discern between good and evil. Because of this, they still need milk, like a baby at its mother’s breast. But now it’s time to start eating meat. 
-
-Hughes comments that *spiritual maturity—being full-grown—is possible if we simply take God’s Word seriously: By listening with all we have; By becoming fully acquainted with its “teaching about righteousness” and living it out; By constantly applying God’s Word to the decisions of life*.
-
-Notice that spiritual maturity is measured not by how much doctrine you know, but by how that doctrine helps you discern between good and evil (and choose the good).
-
-How are your spiritual eating habits?
+notes
 
 ### Swedish Method questions
 
@@ -63,10 +52,10 @@ How are your spiritual eating habits?
 
 ### Praise
 
-P﻿salm 144b, 111a
+P﻿salm nn, POM
 
 ### Prayer
 
-1. Ask God to help you continually grow to Christian maturity.
+1. P1
 2. Pray for the preparation for preaching God’s Word this Lord's Day.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
