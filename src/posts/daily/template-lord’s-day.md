@@ -1,20 +1,18 @@
 ---
-title: Lord’s Day  May 10
-description: 1 John 2:15-17, 1 Corinthians 1:17-2:5
-author: Tyler Horiuchi and Ed Blackwood
-date: 2026-05-10T16:56:04.765Z
+title: Weekly Template DUPLICATE this!
+description: texts
+author: Ed Blackwood and?
+date: 2017-01-01T17:56:04.765Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
-  - 1 John
-  - 1 Corinthians
 type: daily
 ---
 ### Reading
 
-**AM Sermon**:  1 John 2:15-17—Do Not Love the World[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  AM text and title[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  1 Corinthians 1:17-2:5—Preaching (Nothing But) Christ Crucified[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  PM text and title[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
@@ -52,7 +50,7 @@ The daily readings in this household worship guide have a few questions. However
 
 ### Praise (any or all)
 
-Psalm 143b, 111a, 119e, 16d, 16d, 13b, 51a, 22b
+Psalm "from bulletin"
 
 <div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
