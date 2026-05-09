@@ -2,8 +2,8 @@
 title: Wed May 13
 description: 1 Corinthians 1:17–2:5—Knowing Only Christ Crucified
 author: Ed Blackwood
-date: 2026-05-09T18:04:07.098Z
-weekly_post: template-weekly-overview
+date: 2026-05-13T18:04:07.098Z
+weekly_post: may-10-16-2026
 tags:
   - Family Worship
   - 1 Corinthians
