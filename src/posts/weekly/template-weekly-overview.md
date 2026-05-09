@@ -1,7 +1,7 @@
 ---
-title: Weekly Template
+title: Weekly Template DUPLICATE this!
 description: texts
-author: Ed Blackwood
+author: Ed Blackwood (and?)
 date: 2017-01-01T18:08:06.942Z
 tags:
   - Family Worship
