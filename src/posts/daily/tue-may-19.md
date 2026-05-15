@@ -22,7 +22,7 @@ Titus 2:11-14—Grace That Works
 
 ### Optional Reading
 
-delete above header if no optional reading
+Hebrews 6:8-12
 
 ### *Keys for kids*
 
