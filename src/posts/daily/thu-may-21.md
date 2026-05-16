@@ -14,7 +14,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words _Melchizedek_ and _priest_.
+Listen for the words *Melchizedek* and *priest*.
 
 ### Reading
 
@@ -46,11 +46,11 @@ Genesis 14:17-24
 
 Hebrews has introduced this priest Melchizedek briefly so far. The author realized that his audience—these Hebrew Christians—weren’t ready to grasp Jesus being a high priest in the order of Melchizedek. After calling them to maturity and warning them against falling away, he now tells them more about this priest. 
 
-The Old Testament tells us very little about Melchizedek. Genesis 14:17-20 gives us the same information our reading here begins with. He is identified as a priest to God most High. He blesses Abraham and declares God’s praise. Finally Abraham gives Melchizedek a tenth of all the plunder of his battle. Levi—the father of all the OT priests, in a figurative sense, paid a tithe through his great grandfather Abraham’s tithe.
+The Old Testament tells us very little about Melchizedek. Genesis 14:17-20 gives us the same information our reading here begins with. He is identified as a priest to God Most High. He blesses Abraham and declares God’s praise. Finally, Abraham gives Melchizedek a tenth of all the plunder of his battle. Levi—the father of all the OT priests in a figurative sense—paid a tithe through his great grandfather Abraham’s tithe.
 
-Hebrews tells us more. This priest/king is both king of righteousness (that is what the name Melchizedek means) and king of peace. Further the Holy Spirit inspired the writer of the Genesis record to leave out any details of Melchizedek’s birth or death or parentage. Gooding notes that _all this information is withheld, so the writer believes, by the Holy Spirit in order to make the record of this priestly prototype of our Lord point to actual features in the Son of God who in reality had no beginning of days nor end of life_.
+Hebrews tells us more. This priest/king is both king of righteousness (that is what the name Melchizedek means) and king of peace. Further, the Holy Spirit inspired the writer of the Genesis record to leave out any details of Melchizedek’s birth or death or parentage. Gooding notes that *all this information is withheld, so the writer believes, by the Holy Spirit in order to make the record of this priestly prototype of our Lord point to actual features in the Son of God who in reality had no beginning of days nor end of life*.
 
-So we have a priest resembling the Son of God. And, we have the Son of God, a greater priest whom we need and the king of righteousness and peace. Is He your priest? Your King?
+We have, then, a priest resembling the Son of God. And we have the Son of God, a greater priest whom we need and the king of righteousness and peace. Is He your priest? Your King?
 
 ### Swedish Method questions
 
