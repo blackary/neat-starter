@@ -14,7 +14,7 @@ type: daily
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
 
-Listen for the words _they_ and _us_.
+Listen for the words *they* and *us*.
 
 ### Reading
 
@@ -44,9 +44,9 @@ Hebrews 6:4-8
 
 (See Saturday for authors.)	
 
-Hebrews 6:4-6 speaks of those who have fallen away. John speaks of the same here in the context of antichrists. As such he presents in v. 19 what almost sounds like a riddle—but is deadly spiritually serious. These antichrists—liars who deny that Jesus is the Christ—have left “us” (the visible church). But, John says, those who left, were never part of us. This is not someone leaving one true church for another true church. Rather those who leave (finally and ultimately) the true church. Their leaving proves that they were never part.
+Hebrews 6:4-6 speaks of those who have fallen away. John speaks of the same here in the context of antichrists. As such he presents in v. 19 what almost sounds like a riddle—but is deadly, spiritually serious. These antichrists—liars who deny that Jesus is the Christ—have left “us” (the visible church). But, John says, those who left, were never part of us. This is not someone leaving one true church for another true church. Rather it is those who leave (finally and ultimately) the true church. Their leaving proves that they were never part of it.
 
-Stellman speaks of this in the context of 1 Cor 5:4-5. _A simple inference from this passage is that if expulsion from the means of grace is so precarious, then participation in the means of grace should be considered deeply beneficial. Or to put the matter differently, belonging to the church ought to be thought of as being every bit as much a blessing as being thrown out of it is a curse_.
+Stellman speaks of this in the context of 1 Cor 5:4-5. *A simple inference from this passage is that if expulsion from the means of grace is so precarious, then participation in the means of grace should be considered deeply beneficial. Or to put the matter differently, belonging to the church ought to be thought of as being every bit as much a blessing as being thrown out of it is a curse*.
 
 The call from these passages is, stay! Stay in Christ and in His church. Hold fast to your confession (Heb 4:14). Hold on to Christ knowing that He is holding on to you.
 
