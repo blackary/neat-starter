@@ -29,7 +29,7 @@ Hebrews 5:11-14
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
 * Even Christians sin.
-* We all need to care if someone is, or we are, sinning.
+* We all need to care if someone, or we ourselves, are sinning.
 * Mature Christians are to gently help a sinner be restored.
 
 ### Questions
@@ -44,13 +44,13 @@ Hebrews 5:11-14
 
 (See Saturday for authors.)	
 
-The author of Hebrews longed for his hearers to be mature. He wanted them to be mature enough to teach others. Paul, here in Galatians, encourages the church in how more mature believers are to help those less mature. 
+The author of Hebrews longed for his hearers to be mature. He wanted them to be mature enough to teach others. Paul, here in Galatians, instructs the church in how more mature believers are to help those less mature. 
 
-He makes clear at the end of chapter 5, a life of grace lived in the Spirit. But even those who are seeking to live by the Spirit are not immune to sin. Sin is deceitful (Heb. 3:13). And Christians can fall into sin. That is the picture here. Not one who has deliberately turned against God but one who has sinned, nevertheless.
+He makes clear at the end of chapter 5, a life of grace is lived by the Spirit. But even those who are seeking to live by the Spirit are not immune to sin. Sin is deceitful (Heb. 3:13). And Christians can fall into sin. That is the picture here. Not one who has deliberately turned against God but one who has sinned, nevertheless.
 
-So what does the church do then? Ignore it, because it’s none of our business? No. Come down hard and holier-than-thou upon the sinner? Not that either. Instead, spiritually mature Christians (including but not limited to, the elders) come alongside this one who has sinned and gently help them fix their sin issue. We know from the rest of the Bible that this includes at least repentance by the one who has fallen and teaching how to avoid such sin.
+So, what does the church do then? Ignore it, because it’s none of our business? No. Come down hard and holier-than-thou upon the sinner? Not that either. Instead, spiritually mature Christians (including, but not limited to, the elders) come alongside this one who has sinned and gently help them fix their sin issue. We know from the rest of the Bible that this includes at least repentance by the one who has fallen and teaching how to avoid such sin.
 
-We must help each other shoulder the load—helping each other (and others helping us) overcome our spiritual weakness that leaves us open to sin. This is Christ’s example and command.
+We must help each other shoulder the load—helping each other overcome our spiritual weakness that leaves us open to sin. This is Christ’s example and command.
 
 ### Swedish Method questions
 
