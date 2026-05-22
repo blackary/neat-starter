@@ -26,9 +26,9 @@ delete above header if no optional reading
 
 <div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
 
-* key1
-* key2
-* key3
+* Key1
+* Key2
+* Key3
 
 ### Questions
 
@@ -36,7 +36,7 @@ delete above header if no optional reading
 
 1. Q1
 2. Q2
-3. Q 3
+3. Q3
 
 ### Notes
 
@@ -57,5 +57,5 @@ P﻿salm nn, pom
 ### Prayer
 
 1. P1
-2. Pray for the hearing of God’s word preached this Lord's Day.
+2. Give thanks for something from last Lord’s Day’s sermons.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
