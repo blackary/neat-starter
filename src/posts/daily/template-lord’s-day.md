@@ -1,5 +1,5 @@
 ---
-title: Weekly Template DUPLICATE this!
+title: Lord's Day Template DUPLICATE this!
 description: texts
 author: Ed Blackwood and?
 date: 2017-01-01T17:56:04.765Z
