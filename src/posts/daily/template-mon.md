@@ -6,8 +6,6 @@ date: 2017-01-02T18:42:00.000Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
-  - 1 John
-  - Romans
 type: daily
 ---
 ### *Listen up, little ones*
