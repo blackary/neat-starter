@@ -42,13 +42,13 @@ Jude 20-25
 
 ### Notes
 
-(See below for all authors.)	
+(See below for all authors. Today’s notes are from a commentary on Ephesians by Walter L. Liefeld.)
 
-_The success of “the gospel of peace” and of the spiritual battle requires prayer, but in truth it is needed on all occasions. The Greek word for “all” or “every” also appears four times in verse 18. We should not only pray on all occasions, but with all kinds of prayers and requests, and there should be prayer with “all” perseverance for all the saints_. … 
+*The success of “the gospel of peace” and of the spiritual battle requires prayer, but in truth it is needed on all occasions. The Greek word for “all” or “every” also appears four times in verse 18. We should not only pray on all occasions, but with all kinds of prayers and requests, and there should be prayer with “all” perseverance for all the saints*. … 
 
-_This powerful call to prayer is not surprising at this point in the letter. Paul has energized his writing of Ephesians with strong elements of prayer_. …
+*This powerful call to prayer is not surprising at this point in the letter. Paul has energized his writing of Ephesians with strong elements of prayer*. …
 
-_The question may be asked whether to pray in the Spirit is a particular kind of prayer, or ordinary prayer (if there is such a thing) done more intensely. Also, considering the other references to the Spirit in Ephesians, does this relate to the filling of the Spirit in 5:18? Paul is so conscious of the Holy Spirit that it is hard to conceive of him not associating prayer with the Spirit. Just as we could not obey the command to be filled with the Spirit without the active work of the Spirit, so we could not have a full prayer life without reliance on the Spirit. Paul has already written in Romans 8:26–27 that when we do not know what to pray for, it is the Spirit who makes the needed intercession_.
+*The question may be asked whether to pray in the Spirit is a particular kind of prayer, or ordinary prayer (if there is such a thing) done more intensely. Also, considering the other references to the Spirit in Ephesians, does this relate to the filling of the Spirit in 5:18? Paul is so conscious of the Holy Spirit that it is hard to conceive of him not associating prayer with the Spirit. Just as we could not obey the command to be filled with the Spirit without the active work of the Spirit, so we could not have a full prayer life without reliance on the Spirit. Paul has already written in Romans 8:26–27 that when we do not know what to pray for, it is the Spirit who makes the needed intercession*.
 
 ### Swedish Method questions
 
