@@ -57,5 +57,5 @@ P﻿salm nn, pom
 ### Prayer
 
 1. P1
-2. Give thanks for something from last Lord’s Day’s sermons.
+2. Pray for the hearing of God’s Word preached this Lord’s Day’s.
 3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
