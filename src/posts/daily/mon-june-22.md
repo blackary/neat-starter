@@ -7,6 +7,7 @@ weekly_post: june-21-27-2026
 tags:
   - Family Worship
   - 1 Thessalonians
+  - 1 Corinthians
 type: daily
 ---
 ### *Listen up, little ones*
