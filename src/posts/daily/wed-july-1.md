@@ -58,7 +58,7 @@ We need to pray, therefore, even for our own hearts, and our prayer is an indica
 
 ### Praise
 
-P﻿salm 44a, 111d
+P﻿salm 44a, 51a
 
 ### Prayer
 
