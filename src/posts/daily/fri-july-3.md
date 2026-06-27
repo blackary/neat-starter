@@ -60,7 +60,7 @@ For the Hebrew Christian experience, the old ways were good, but Christ is bette
 
 ### Praise
 
-P﻿salm 96a, 111d
+P﻿salm 96a, 51a
 
 ### Prayer
 
