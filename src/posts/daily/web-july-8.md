@@ -1,5 +1,5 @@
 ---
-title: Web July 8
+title: Wed July 8
 description: "Isaiah 53—The Lord Has Laid on Him Our Iniquity. "
 author: Ed Blackwood
 date: 2026-07-08T14:40:17.843Z
