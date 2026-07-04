@@ -48,9 +48,9 @@ After reasoning in the Agora, Paul caught the attention of the philosophers. The
 
 It was before this council of people that Paul gave his famous speech. Paul’s point is simple and direct: repent, because the times of ignorance are over, and the world is going to be judged by Jesus Christ.
 
-What right did this man have to go into Athens and flip the table? In one fell swoop, he went in and demolished their whole pantheon of gods and called the Athenians to faith and repentance. Paul could go in and do this because he had the authority to do so. He didn’t make it up, and he wasn’t a foolish “babbler” as the philosophers supposed. Paul “assumed the center.” He was an apostle, commis-sioned by Christ to bear witness to His name to the end of the earth (Acts. 1:8). He didn’t need to apologize to the pagans in Athens. He had the truth, and he spoke it with boldness.
+What right did this man have to go into Athens and flip the table? In one fell swoop, he went in and demolished their whole pantheon of gods and called the Athenians to faith and repentance. Paul could go in and do this because he had the authority to do so. He didn’t make it up, and he wasn’t a foolish “babbler” as the philosophers supposed. Paul “assumed the center.” He was an apostle, commissioned by Christ to bear witness to His name to the end of the earth (Acts. 1:8). He didn’t need to apologize to the pagans in Athens. He had the truth, and he spoke it with boldness.
 
-As Christians, we can also assume the center. We know that the Gospel is the truth, and we have the authority of God behind it. Je-sus reigns from heaven and has been given the nations as his inher-itance. Therefore, all nations and peoples must hear this message and repent. The times of ignorance are over.
+As Christians, we can also assume the center. We know that the Gospel is the truth, and we have the authority of God behind it. Je-sus reigns from heaven and has been given the nations as his inheritance. Therefore, all nations and peoples must hear this message and repent. The times of ignorance are over.
 
 ### Swedish Method questions
 
