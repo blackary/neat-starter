@@ -44,11 +44,11 @@ Heb 9:27-28
 
 (See Saturday for authors.)	
 
-Isaiah speaks of our griefs, our sorrows, our rebellion, our iniqui-ties, our own way. Heb 9:27 speaks of our (universal) death and judgment. Yet Isaiah also speaks of our peace—purchased by Him. By whom? By this righteous yet suffering Servant—the Lord Jesus Christ.
+Isaiah speaks of our griefs, our sorrows, our rebellion, our iniquities, our own way. Heb 9:27 speaks of our (universal) death and judgment. Yet Isaiah also speaks of our peace—purchased by Him. By whom? By this righteous yet suffering Servant—the Lord Jesus Christ.
 
 Here this suffering servant is punished as a substitute for us. That is amazing. Amazing Grace. Make no mistake, just as we can easily see Jesus in this Old Testament prophecy, we can also easily see ourselves in all the above ours.
 
-As unfair as it might seem on the surface for Jesus to be pun-ished for my sin, for your sin, that is the only way that we can be saved. Because the Lord punished Jesus for my sin, I don’t have to face the eternal punishment which comes after death and judg-ment, punishment that my sin against the only true God deserves.
+As unfair as it might seem on the surface for Jesus to be punished for my sin, for your sin, that is the only way that we can be saved. Because the Lord punished Jesus for my sin, I don’t have to face the eternal punishment which comes after death and judgment, punishment that my sin against the only true God deserves.
 
 Oh, the wonder that it pleased the Lord to bruise Jesus for us! Oh, the wonder that Christ endured the cross for the joy that was set before Him! (Heb 12:2) Oh, the wonder that God is satisfied and accepts us as we put our faith in Christ’s sacrifice! How can we then do anything other than to live for Him?
 
