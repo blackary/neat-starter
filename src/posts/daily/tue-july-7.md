@@ -38,7 +38,7 @@ Heb 9:15-26
 
 1. Why does God prohibit his people eating blood?
 2. Whose blood should be shed for your sin?
-3. WHose blood was shed for your sin?
+3. Whose blood was shed for your sin?
 
 ### Notes
 
