@@ -44,11 +44,11 @@ Heb 9:15-26
 
 (See Saturday for authors.)	
 
-In our reading today, God prohibits His people from eating blood. We might well ask, *Why*? God tells us why—the life of living crea-tures is in their blood. Further, it is the blood that makes atonement. In other words, atonement (putting away sin so that a person is made at one with God) requires death, and God accepts the death of a substitute. The blood of the substitute is accepted by God.
+In our reading today, God prohibits His people from eating blood. We might well ask, *Why*? God tells us why—the life of living creatures is in their blood. Further, it is the blood that makes atonement. In other words, atonement (putting away sin so that a person is made at one with God) requires death, and God accepts the death of a substitute. The blood of the substitute is accepted by God.
 
 Guilty. That is God’s judgement of us. In tabernacle worship, the need for sacrifice was made intimate as the worshipper put their hand on the head of the sacrifice they had brought (Lev 1:4-5). This was not some distant experience, but up close and personal. This animal, this very one which the worshipper was touching, would soon be dead and burning up on the altar, its blood spilled.
 
-That death should be me—should be you. We deserve death because of our sin. Yet God, in His mercy, accepted the death of Another. God accepted the death of these animals to make the wor-shipper once again at one with God—in spite of their sin. And the blood of bulls and goats pointed to Another.
+That death should be me—should be you. We deserve death because of our sin. Yet God, in His mercy, accepted the death of Another. God accepted the death of these animals to make the worshipper once again at one with God—in spite of their sin. And the blood of bulls and goats pointed to Another.
 
 Though we did not touch Jesus as the eyewitnesses during His life on earth did (1 John 1:1), we come close. We recognize that his blood was shed in our place. God makes atonement by the blood of a substitute—Jesus. 
 
