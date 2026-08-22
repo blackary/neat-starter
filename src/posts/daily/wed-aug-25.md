@@ -1,5 +1,5 @@
 ---
-title: Wed Aug 25
+title: Wed Aug 26
 description: Romans 15:5-6, 13, 33—Now May God…
 author: Ed Blackwood
 date: 2026-08-26T15:50:19.579Z
