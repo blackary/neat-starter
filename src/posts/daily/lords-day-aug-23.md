@@ -2,7 +2,7 @@
 title: Lord's Day Aug 23
 description: Hebrews 13, Hebrews 13:20-21
 author: Ed Blackwood
-date: 2026-08-24T15:39:15.318Z
+date: 2026-08-23T15:39:15.318Z
 weekly_post: aug-23-29-2026
 tags:
   - Family Worship
