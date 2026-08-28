@@ -54,7 +54,7 @@ As God transforms the way we think, we begin to see things from His perspective.
 
 ### Swedish Method questions
 
-/static/img/family_worship_study_ed-swedish_questions.png
+![](/static/img/family_worship_study_ed-swedish_questions.png)
 
 <div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
 

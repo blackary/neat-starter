@@ -52,7 +52,7 @@ His willing acceptance of this curse that we deserved only highlights how great 
 
 ### Swedish Method questions
 
-/static/img/family_worship_study_ed-swedish_questions.png
+![](/static/img/family_worship_study_ed-swedish_questions.png)
 
 <div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
 

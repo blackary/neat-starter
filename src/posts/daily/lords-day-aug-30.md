@@ -1,19 +1,20 @@
 ---
-title: Lord's Day Aug 23
-description: Hebrews 13, Hebrews 13:20-21
+title: Lord's Day Aug 30
+description: Psalm 110, Matthew 5:10
 author: Ed Blackwood
-date: 2026-08-23T15:39:15.318Z
-weekly_post: aug-23-29-2026
+date: 2026-08-30T08:00:00.000Z
+weekly_post: aug-30-sep-5
 tags:
   - Family Worship
-  - Hebrews
+  - Psalms
+  - Matthew
 type: daily
 ---
 ### Reading
 
-**AM Sermon**:  Hebrews 13-Living for His Glory[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**: Psalm 110—The LORD said to my Lord[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  Hebrews 13:20-21-Made Complete to His Glory[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**: Matthew 5:10—Persecuted for Righteousness (at BFRC)[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
@@ -51,7 +52,7 @@ The daily readings in this household worship guide have a few questions. However
 
 ### Praise (any or all)
 
-Psalm 118a, 51d, 118d, 118e, 115a, 19a, 115b, 138b
+Psalm 99b, 51d, 2a, 110b
 
 <div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 
