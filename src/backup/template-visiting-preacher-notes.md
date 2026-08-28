@@ -1,13 +1,15 @@
 ---
-title: Template Sat DUPLICATE this!
+title: "Template Visiting Preacher Notes "
 description: text and title
 author: Ed Blackwood
-date: 2017-01-07T18:43:32.965Z
+date: 2017-01-08T17:07:38.816Z
 weekly_post: template-weekly-overview
 tags:
   - Family Worship
 type: daily
 ---
+##### *Today's guide is written by visiting preacher, Preacher Name*
+
 ### *Listen up, little ones*
 
 <div><small><i>Especially for the littles in your household.</i></small></div>
@@ -37,18 +39,6 @@ delete above header if no optional reading
 1. Q1
 2. Q2
 3. Q3
-
-### Catechism
-
-<div><small><i>(1 Q&A each week related to the preaching text)</i></small></div>
-
-**WSC #X**
-
-_Question text_
-
-Answer text
-
-<div><small><i>(Prooftexts for catechism question)</i></small></div>
 
 ### Notes
 
