@@ -34,9 +34,21 @@ delete above header if no optional reading
 
 <div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
 
-1. Q﻿1
+1. Q1
 2. Q2
 3. Q3
+
+### Catechism
+
+<div><small><i>(1 Q&A each week related to the preaching text)</i></small></div>
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
 
 ### Notes
 

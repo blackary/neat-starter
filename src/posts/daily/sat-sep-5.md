@@ -42,6 +42,8 @@ Isaiah 7:1-14
 
 ### Catechism
 
+<div><small><i>(1 Q&A each week (Th-W) related to the preaching text)</i></small></div>
+
 **WSC #21**
 
 _Who is the Redeemer of God’s elect?_
