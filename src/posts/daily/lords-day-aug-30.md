@@ -3,7 +3,7 @@ title: Lord's Day Aug 30
 description: Psalm 110, Matthew 5:10
 author: Ed Blackwood
 date: 2026-08-30T08:00:00.000Z
-weekly_post: aug-30-sep-5
+weekly_post: aug-30-sep-5-2026
 tags:
   - Family Worship
   - Psalms
