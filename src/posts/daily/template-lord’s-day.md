@@ -52,6 +52,12 @@ The daily readings in this household worship guide have a few questions. However
 
 **WSC #X**
 
+*Question text*
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
 <div><small><i>Sun-Wed has a Q/A based on today’s preaching texts. Thu-Sat Q/A based on next Lord's Day preaching texts.</i></small></div>
 
 ### Praise (any or all)
