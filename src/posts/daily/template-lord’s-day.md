@@ -48,6 +48,12 @@ The daily readings in this household worship guide have a few questions. However
 
 <p><img src="/static/img/family_worship_study_ed-copy_page_6.png" width="33" height = "33"> How do you see Jesus Christ in the text(s)?</p>
 
+### Catechism
+
+WSC wsc
+
+<div><small><i>Sun-Wed has a Q/A based on today’s preaching texts. Thu-Sat Q/A based on next Lord's Day preaching texts.</i></small></div>
+
 ### Praise (any or all)
 
 Psalm "from bulletin"
