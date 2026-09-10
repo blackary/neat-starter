@@ -50,7 +50,7 @@ The daily readings in this household worship guide have a few questions. However
 
 ### Catechism
 
-WSC wsc
+**WSC #X**
 
 <div><small><i>Sun-Wed has a Q/A based on today’s preaching texts. Thu-Sat Q/A based on next Lord's Day preaching texts.</i></small></div>
 
