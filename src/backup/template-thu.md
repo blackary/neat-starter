@@ -40,8 +40,6 @@ delete above header if no optional reading
 
 ### Catechism
 
-<div><small><i>(1 Q&A each week related to the preaching text)</i></small></div>
-
 **WSC #X**
 
 _Question text_
@@ -64,7 +62,7 @@ notes
 
 ### Praise
 
-P﻿salm nn, POM
+Psalm nn, POM
 
 ### Prayer
 

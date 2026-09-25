@@ -1,18 +1,19 @@
 ---
-title: Lord's Day Template DUPLICATE this!
-description: texts
-author: Ed Blackwood and?
-date: 2017-01-01T17:56:04.765Z
-weekly_post: template-weekly-overview
+title: Lord's Day Sep 27
+description: Luke 4, Luke 4:1-11
+author: Ed Blackwood
+date: 2026-09-27T08:00:00.000Z
+weekly_post: sep-27-oct-3-2026
 tags:
   - Family Worship
+  - Luke
 type: daily
 ---
 ### Reading
 
-**AM Sermon**:  AM text and title[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+**AM Sermon**:  Luke 4—The Year of the Lord’s Favor[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
 
-**PM Sermon**:  PM text and title[](https://www.sermonaudio.com/sermons/6112522743101)
+**PM Sermon**:  Luke 4:1-11—Being Tempted by the Devil[](https://www.sermonaudio.com/sermons/6112522743101)
 
 ### Discuss one or more of these questions
 
@@ -52,11 +53,11 @@ The daily readings in this household worship guide have a few questions. However
 
 <div><small><i>If desired, parents can work through the Shorter Catechism in a year, 2 questions a week most weeks.</i></small></div>
 
-WSC X, Y
+WSC 31, 94
 
 ### Praise (any or all)
 
-Psalm "from bulletin"
+Psalm 146a, 119v, 85a, 72e, 148a, 21b, 91a, 80
 
 <div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
 

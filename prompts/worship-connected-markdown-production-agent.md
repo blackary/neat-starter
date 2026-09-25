@@ -26,7 +26,7 @@ You will receive:
    - Any guest contributor information
    - The special Saturday attribution note
 
-2. Eight Markdown templates:
+2. Eight Markdown templates (these are attached as an appendix at the very end of the file):
    - `weekly-template.md`
    - `template-lords-day.md`
    - `template-mon.md`
@@ -1062,4 +1062,554 @@ options:
     - { label: "3 John", value: "3 John" }
     - { label: "Jude", value: "Jude" }
     - { label: "Revelation", value: "Revelation" }
+```
+
+# Template Files
+
+## Weekly Template (`weekly-template.md`)
+
+```md
+---
+title: Aug 30-Sep 5 2026
+description: Psalm 110, Matthew 5
+author: Ed Blackwood
+date: 2026-08-30T08:00:00.000Z
+tags:
+  - Psalms
+  - Matthew
+  - Luke
+type: weekly
+---
+We look back on Psalm 110 and Matthew 5 and forward to Luke 1.
+
+<!-- file name format: month-date1-date2-year.md, e.g., sep-6-12-2026.md -->
+```
+
+## Lord's Day Template (`template-lords-day.md`)
+
+```md
+---
+title: Lord's Day Template DUPLICATE this!
+description: texts
+author: Ed Blackwood and?
+date: 2017-01-01T17:56:04.765Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### Reading
+
+**AM Sermon**:  AM text and title[](https://www.sermonaudio.com/sermons/51325191845203)[](https://www.sermonaudio.com/sermons/11326174981286)[](https://www.sermonaudio.com/sermons/120261943313442)
+
+**PM Sermon**:  PM text and title[](https://www.sermonaudio.com/sermons/6112522743101)
+
+### Discuss one or more of these questions
+
+1. What is the main idea of the sermon(s)?
+2. In one sentence, how did the sermon(s) impact you?
+3. Which of the following did you find in the sermon(s)?
+
+   * A sin to confess
+   * An example to follow
+   * An error to avoid
+   * A command to obey
+   * A promise to claim
+   * A prayer to pray
+   * A blessing to enjoy
+   * A warning to heed
+   * A fault to abandon
+   * A principle to live by
+   * Something new (to you) about God, Christ, or yourself?
+
+### [Swedish method](http://thebriefing.com.au/2009/01/the-swedish-method/) questions
+
+The daily readings in this household worship guide have a few questions. However, we encourage you, as appropriate for your family, to ask the following general questions of the readings and text each day as well as of the sermon(s) and the whole service(s) each Lord’s Day.
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_1.png" width="33" height = "33"> Is there something that ‘shines’ from the text(s)—whatever impacts most, or draws attention?</p>
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_2.png" width="33" height = "33"> Is there something you don’t understand, or a question the text(s) raises in your mind?</p>
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_3.png" width="33" height = "33"> Is there a personal application to your life?</p>
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_4.png" width="33" height = "33"> Is there something you plan to share with someone else–and who will you share it with?</p>
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_5.png" width="33" height = "33"> How do ideas in the text(s) interrelate? Or with other passages in this book–or in the whole Bible?</p>
+
+<p><img src="/static/img/family_worship_study_ed-copy_page_6.png" width="33" height = "33"> How do you see Jesus Christ in the text(s)?</p>
+
+### Catechism
+
+<div><small><i>If desired, parents can work through the Shorter Catechism in a year, 2 questions a week most weeks.</i></small></div>
+
+WSC X, Y
+
+### Praise (any or all)
+
+Psalm "from bulletin"
+
+<div><small><i>Psalm selections are taken from the Book of Psalms for Worship. (see <a href="https://psalter.org/sing/psalter?psalter_in=worship"  target="_blank">psalter.org</a>)</i></small></div>
+
+### Prayer
+
+1. Pray that you would hide the word read and preached in your hearts, and bring forth its fruit in your lives.
+2. Pray for a member of our church, for your family, and for a non-Christian friend or family member.
+```
+
+## Monday Template (`template-mon.md`)
+
+```md
+---
+title: Template Mon DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-02T18:42:00.000Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* Key1
+* Key2
+* Key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See Saturday for authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, pom
+
+### Prayer
+
+1. P1
+2. Pray for a specific application from yesterday’s sermons.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+```
+
+## Tuesday Template (`template-tue.md`)
+
+```md
+---
+title: Template Tue DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-03T18:00:55.703Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* Key1
+* Key2
+* Key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See Saturday for authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, pom
+
+### Prayer
+
+1. P1
+2. Give thanks for something from last Lord’s Day’s sermons.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+```
+
+## Wednesday Template (`template-wed.md`)
+
+```md
+---
+title: Template Wed DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-04T18:00:00.000Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* Key1
+* Key2
+* Key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See Saturday for authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, pom
+
+### Prayer
+
+1. P1
+2. Pray for change in you from last Lord’s Day’s sermons.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+```
+
+## Thursday Template (`template-thu.md`)
+
+```md
+---
+title: Template Thu DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-05T18:43:00.000Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* Key1
+* Key2
+* Key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See Saturday for authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, POM
+
+### Prayer
+
+1. P1
+2. Pray for the preparation for preaching God’s Word this Lord's Day.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+```
+
+## Friday Template (`template-fri.md`)
+
+```md
+---
+title: Template Fri DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-06T18:42:39.143Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* Key1
+* Key2
+* Key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See Saturday for authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, pom
+
+### Prayer
+
+1. P1
+2. Pray for the hearing of God’s Word preached this Lord’s Day’s.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+```
+
+## Saturday Template (`template-sat.md`)
+
+```md
+---
+title: Template Sat DUPLICATE this!
+description: text and title
+author: Ed Blackwood
+date: 2017-01-07T18:43:32.965Z
+weekly_post: template-weekly-overview
+tags:
+  - Family Worship
+type: daily
+---
+### *Listen up, little ones*
+
+<div><small><i>Especially for the littles in your household.</i></small></div>
+
+Listen for the word *searchword*.
+
+### Reading
+
+text and title
+
+### Optional Reading
+
+delete above header if no optional reading
+
+### *Keys for kids*
+
+<div><small><i>Also for the littles. Young households might choose, after Keys for Kids, to go directly to praise and prayer.</i></small></div>
+
+* key1
+* key2
+* key3
+
+### Questions
+
+<div><small><i>(Some read the ?s before the notes/ ask them after.)</i></small></div>
+
+1. Q1
+2. Q2
+3. Q3
+
+### Catechism
+
+**WSC #X**
+
+_Question text_
+
+Answer text
+
+<div><small><i>(Prooftexts for catechism question)</i></small></div>
+
+### Notes
+
+(See below for all authors.)	
+
+notes
+
+### Swedish Method questions
+
+![](/static/img/family_worship_study_ed-swedish_questions.png)
+
+<div><small><i>See the Sunday notes for meaning of the symbols.</i></small></div>
+
+### Praise
+
+Psalm nn, pom
+
+### Prayer
+
+1. P1
+2. Pray for the reading and preaching of God’s word tomorrow.
+3. Pray for a member of our church, for your family, and for a non-Christian friend/family member.
+
+<div><small><i>PasteInFromSaturdayInThePrintedWC</i></small></div>
 ```
