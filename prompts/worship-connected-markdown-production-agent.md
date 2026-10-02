@@ -16,25 +16,33 @@ Read this prompt and every attachment in full before producing output.
 
 You will receive:
 
-1. One `.docx` source file containing:
-   - The weekly date range
-   - Lord’s Day sermon information
-   - Monday through Saturday readings and content
-   - Notes
-   - Praise and prayer material
-   - Westminster Shorter Catechism assignments
-   - Any guest contributor information
-   - The special Saturday attribution note
+You will receive:
+- One .docx source file containing:
+  - The weekly date range
+  - Lord’s Day sermon information
+  - Monday through Saturday readings and content
+  - Notes
+  - Praise and prayer material
+  - Westminster Shorter Catechism assignments
+  - Any guest contributor information
+  - The special Saturday attribution note
 
-2. Eight Markdown templates (these are attached as an appendix at the very end of the file):
-   - `weekly-template.md`
-   - `template-lords-day.md`
-   - `template-mon.md`
-   - `template-tue.md`
-   - `template-wed.md`
-   - `template-thu.md`
-   - `template-fri.md`
-   - `template-sat.md`
+The eight Markdown templates required for file generation are provided in the final appendix of this prompt under [Template Files](#Template Files). You must generate exactly eight output Markdown files, with one output file corresponding to each template listed below:
+
+- weekly-template.md
+- template-lords-day.md
+- template-mon.md
+- template-tue.md
+- template-wed.md
+- template-thu.md
+- template-fri.md
+- template-sat.md
+
+You must use the template definitions contained in the Template Files appendix of this prompt as the authoritative template sources. Do not require separate uploads of the template files.
+
+If the .docx source file is missing or unreadable, stop before generating files and clearly identify the missing or unreadable source file. Do not guess, invent missing content, or build partial outputs.
+
+Each generated output must be created from its corresponding template and populated using information extracted from the uploaded .docx source file. Every template listed above must result in a generated Markdown file unless this prompt explicitly states otherwise.
 
 ### Template Relationships
 
@@ -192,7 +200,7 @@ Follow this sequence exactly.
    - Bold and italic runs
    - The Saturday attribution note
 
-2. Read all eight Markdown templates in their entirety.
+2. Read all eight Markdown templates provided in the Template Files appendix of this prompt in their entirety.
 
 3. Create an internal content map containing:
    - Weekly date range
@@ -239,7 +247,7 @@ For example, do not globally replace every instance of the word `notes`. Replace
 
 ## Phase 4: Validate Against the Original Templates
 
-Before delivery, compare each output with its corresponding original template using the validation requirements below.
+Before delivery, compare each output with its corresponding original template from the Template Files appendix using the validation requirements below.
 
 If validation reveals any change outside an approved replacement region, discard that output, recopy the original template, and repeat the targeted substitutions correctly.
 
@@ -813,7 +821,7 @@ Do not:
 
 # Mandatory Pre-Delivery Validation
 
-Perform all validation against the original, untouched templates, not against previously generated files.
+Perform all validation against the original, untouched templates contained in the Template Files appendix, not against previously generated files.
 
 ## 1. File Count and Naming
 
@@ -832,7 +840,7 @@ Do not validate merely by checking whether the output looks similar.
 
 ## 3. Approved-Difference Audit
 
-Compare each output against its corresponding original template.
+Compare each output against its corresponding original template from the Template Files appendix.
 
 Every difference must fall within one of these approved regions:
 
