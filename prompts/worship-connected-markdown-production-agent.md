@@ -441,6 +441,12 @@ Preserve every tag already present in the template.
 
 Add Bible-book tags as follows.
 
+### Weekly Overview
+
+The weekly overview's Bible-book tags must equal the deduplicated union of
+all Bible-book tags required for the Lord's Day and Monday-through-Saturday
+posts.
+
 ### Lord’s Day
 
 Add the Bible books from which the AM and PM sermon texts are taken.
@@ -464,6 +470,7 @@ If both readings are from the same book, add the book only once.
 - Do not duplicate a tag already present.
 - Preserve the template’s tag indentation and YAML list style exactly.
 - Use canonical Bible-book names from the valid list, such as `Psalms`, not `Psalm`.
+- Do not derive Bible-book tags from Praise selections, Notes, questions, prayers, catechism proof texts, or attributions.
 
 ## Type
 
