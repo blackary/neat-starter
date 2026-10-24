@@ -1,0 +1,35 @@
+<div class="toggle-checkbox-wrapper" id="toggle-wrapper" hidden>
+  <input class="toggle-checkbox" type="checkbox" id="toggle">
+  <label class="slider" for="toggle">
+    <span class="toggle-switch opt1">Switch to Children's Catechism</span>
+    <span class="toggle-switch opt2">Switch to Westminister Shorter Catechism</span>
+  </label>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        const childrens = document.getElementById("childrens");
+        const wsc = document.getElementById("wsc");
+        if (!childrens || !wsc) return;
+        
+        // If both exist, unhide the toggle
+        document.getElementById('toggle-wrapper').hidden = false;
+
+        const toggle = document.getElementById("toggle");
+
+        function updateVisibility() {
+            childrens.hidden = !toggle.checked;
+            wsc.hidden = toggle.checked;
+        }
+
+        // Set the state of the toggle based on localStorage, if it exists
+        toggle.checked = localStorage.getItem('preferredCatechism') === 'childrens';
+        updateVisibility();
+
+        toggle.addEventListener('change', () => { 
+            updateVisibility();
+            let preferredCatechism = toggle.checked ? 'childrens' : 'wsc';
+            localStorage.setItem('preferredCatechism', preferredCatechism);
+        });
+    });
+</script>

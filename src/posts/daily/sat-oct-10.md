@@ -42,6 +42,10 @@ Matthew 9:9–13
 
 ### Catechism
 
+{%include "partials/catechism-picker.html" %}
+
+<div id="wsc">
+
 **WSC 85**
 
 _What doth God require of us, that we may escape his wrath and curse, due to us for sin?_
@@ -49,6 +53,18 @@ _What doth God require of us, that we may escape his wrath and curse, due to us 
 To escape the wrath and curse of God, due to us for sin, God requireth of us faith in Jesus Christ, repentance unto life, with the diligent use of all the outward means whereby Christ communicateth to us the benefits of redemption.
 
 <div><small><i>(Acts 20:21; Proverbs 2:1–5; Proverbs 8:33–36; Isaiah 55:3)</i></small></div>
+
+</div>
+
+<div id="childrens">
+
+**Children's Catechism 85**
+
+_What does the third commandment teach me?_
+
+To reverence God’s name, word, and works.
+
+</div>
 
 ### Notes
 
